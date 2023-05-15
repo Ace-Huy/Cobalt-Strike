@@ -1,0 +1,12 @@
+01/04 08:15:39 UTC [metadata] 192.168.88.108 <- 192.168.88.108; computer: DESKTOP-29M090E; user: NITRO 5; process: mspaint.exe; pid: 21528; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+01/04 08:16:11 UTC [input] <neo> ls
+01/04 08:16:11 UTC [task] <> Tasked beacon to list files in .
+01/04 08:16:34 UTC [checkin] host called home, sent: 19 bytes
+01/04 08:16:34 UTC [output]
+C:\Users\NITRO5~1\AppData\Local\Temp\RarSFX5\*
+D	0	01/04/2023 15:14:33	.
+D	0	01/04/2023 15:16:10	..
+F	954368	01/04/2023 08:13:10	a.exe
+F	2319	12/21/2022 17:16:19	Google Chrome.lnk
+
+

@@ -1,0 +1,4 @@
+172.22.221.140 unknown unknown [01/03 09:03:55 UTC] "GET /uMCX/" 200 263239 "beacon beacon stager x64" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; BOIE9;ENGB)"
+172.22.221.140 unknown unknown [01/03 09:26:58 UTC] "GET /uMCX/" 200 263239 "beacon beacon stager x64" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; BOIE9;ENGB)"
+172.22.221.140 unknown unknown [01/03 10:00:09 UTC] "GET /uMCX/" 200 263239 "beacon beacon stager x64" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; BOIE9;ENGB)"
+172.22.221.140 unknown unknown [01/03 10:01:36 UTC] "GET /uMCX/" 200 263239 "beacon beacon stager x64" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; BOIE9;ENGB)"

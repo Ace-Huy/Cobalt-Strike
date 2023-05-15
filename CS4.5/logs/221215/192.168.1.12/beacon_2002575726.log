@@ -1,0 +1,5 @@
+12/15 15:30:25 UTC [metadata] 192.168.1.12 <- 192.168.1.12; computer: DESKTOP-DVHN6TG; user: david; process: mspaint.exe; pid: 4604; os: Windows; version: 10.0; build: 19044; beacon arch: x64 (x64)
+12/15 15:30:26 UTC [input] <neo> ls
+12/15 15:30:26 UTC [task] <> Tasked beacon to list files in .
+12/15 15:31:33 UTC [input] <neo> exit
+12/15 15:31:33 UTC [task] <> Tasked beacon to exit

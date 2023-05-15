@@ -1,0 +1,3 @@
+12/15 16:27:51 UTC [metadata] 192.168.1.13 <- 192.168.1.13; computer: DESKTOP-DVHN6TG; user: david; process: mspaint.exe; pid: 4928; os: Windows; version: 10.0; build: 19044; beacon arch: x64 (x64)
+12/15 16:28:28 UTC [input] <neo> exit
+12/15 16:28:28 UTC [task] <> Tasked beacon to exit

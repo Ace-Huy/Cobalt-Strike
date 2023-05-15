@@ -1,0 +1,4 @@
+192.168.88.146 unknown unknown [01/06 07:08:27 UTC] "GET /a" 200 223548 "page Scripted Web Delivery (powershell)" "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0"
+192.168.88.146 unknown unknown [01/06 07:08:27 UTC] "GET /favicon.ico" 404 0 "" "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0"
+192.168.88.146 unknown unknown [01/06 07:10:02 UTC] "GET /a" 200 223548 "page Scripted Web Delivery (powershell)" "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0"
+192.168.88.108 unknown unknown [01/06 07:12:31 UTC] "GET /a" 200 223548 "page Scripted Web Delivery (powershell)" "null"

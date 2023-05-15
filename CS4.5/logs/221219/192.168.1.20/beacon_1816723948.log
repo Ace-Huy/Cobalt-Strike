@@ -1,0 +1,10 @@
+12/19 13:19:13 UTC [metadata] 192.168.1.20 <- 192.168.1.20; computer: ACER; user: david; process: mspaint.exe; pid: 19020; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+12/19 13:19:54 UTC [input] <neo> desktop
+12/19 13:20:06 UTC [checkin] host called home, sent: 44 bytes
+12/19 13:20:06 UTC [output]
+beacon exit.
+
+12/19 13:20:06 UTC [output]
+beacon exit.
+
+12/19 13:20:11 UTC [input] <neo> net view

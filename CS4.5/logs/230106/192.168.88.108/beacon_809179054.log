@@ -1,0 +1,10 @@
+01/06 04:03:01 UTC [metadata] 192.168.88.108 <- 192.168.88.108; computer: DESKTOP-29M090E; user: NITRO 5; process: mspaint.exe; pid: 13920; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+01/06 04:03:09 UTC [input] <neo> exit
+01/06 04:03:09 UTC [task] <> Tasked beacon to exit
+01/06 04:04:01 UTC [metadata] 192.168.88.108 <- 192.168.88.108; computer: DESKTOP-29M090E; user: NITRO 5; process: mspaint.exe; pid: 13920; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+01/06 04:03:54 UTC [checkin] host called home, sent: 8 bytes
+01/06 04:03:54 UTC [output]
+beacon exit.
+
+01/06 04:04:19 UTC [input] <neo> exit
+01/06 04:04:19 UTC [task] <> Tasked beacon to exit

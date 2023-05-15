@@ -1,0 +1,16 @@
+1/ cai sysmon truoc 
+sysmon -accepteula -i tools/sysmonconfig-export.xml
+2/ cai forwarding windows
+3/config lai file system trong thu muc splunk
+
+[WinEventLog://Application]
+disabled = 0
+[WinEventLog://Security]
+disabled = 0
+[WinEventLog://System]
+disabled = 0
+[WinEventLog://Microsoft-Windows-Sysmon/Operational]
+disabled = false
+renderXml = true
+4/ restart lai win cai forwarding
+5/ vo 

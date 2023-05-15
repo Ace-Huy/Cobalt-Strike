@@ -1,0 +1,4 @@
+192.168.190.1 unknown unknown [11/22 07:22:04 UTC] "GET /TKXf/" 200 263239 "beacon beacon stager x64" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; MAAU; NP08)"
+192.168.190.1 unknown unknown [11/22 07:22:46 UTC] "GET /TKXf/" 200 263239 "beacon beacon stager x64" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; MAAU; NP08)"
+192.168.190.1 unknown unknown [11/22 07:28:02 UTC] "GET /TKXf/" 200 263239 "beacon beacon stager x64" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; MAAU; NP08)"
+192.168.190.1 unknown unknown [11/22 07:51:18 UTC] "GET /TKXf/" 200 263239 "beacon beacon stager x64" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; MAAU; NP08)"

