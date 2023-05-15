@@ -1,0 +1,3 @@
+192.168.43.216 unknown unknown [01/08 06:03:54 UTC] "GET /x9t8/" 200 277063 "beacon beacon stager x64" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; FunWebProducts; IE0006_ver1;EN_GB)"
+192.168.43.216 unknown unknown [01/08 08:32:24 UTC] "GET /uXMC/" 200 277063 "beacon beacon stager x64" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; BOIE9;ENGB)"
+192.168.43.216 unknown unknown [01/08 08:37:05 UTC] "GET /uXMC/" 200 277063 "beacon beacon stager x64" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; BOIE9;ENGB)"

